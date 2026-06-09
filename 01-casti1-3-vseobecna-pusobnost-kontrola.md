@@ -32,6 +32,41 @@ Zákon o inspekci práce je zákonem zvláštním ve vztahu k **zákonu č. 255/
 
 Ve věcném hmotněprávním rozsahu je zákon propojený se **zákoníkem práce (zákon č. 262/2006 Sb.)** — dohled nad dodržováním pracovněprávních povinností je fakticky výkonem veřejnoprávní ochrany nároků zakotvených v zákoníku práce. Propojení se **zákonem o zaměstnanosti (zákon č. 435/2004 Sb.)** je zjevné zejména v oblasti nelegálního zaměstnávání a agenturního zaměstnávání (§ 4 odst. 2 písm. f)).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební společnost vyslala do České republiky pracovníky z jiného členského státu EU v rámci nadnárodního poskytování služeb. Český inspektorát zahájil kontrolu, zda jsou dodrženy pracovní podmínky vyslaných zaměstnanců, a aplikoval kritéria § 3 odst. 3. Zaměstnavatel namítl, že tato kritéria nemají oporu v zákoně, protože jde o pouhou transpozici směrnice, jež nebyla řádně provedena. Bylo by třeba obstarat: znění transpoziční doložky zákona, srovnání § 3 odst. 3 se směrnicí 2014/67/EU a důkaz o tom, že vysílání reálně proběhlo.
+
+**2. Právní otázka.** Lze ustanovení zákona o inspekci práce vykládat a aplikovat eurokonformně s odkazem na transpoziční deklaraci v § 1, i když konkrétní pravidlo je formulováno stručně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 ZIP — vymezuje předmět úpravy a výslovně deklaruje zapracování předpisů EU (transpoziční doložka).
+- *Související ustanovení téhož zákona:* § 3 odst. 3 (kritéria vysílání jako transpoziční prvek), § 4 odst. 2 písm. g), h) (přeshraniční spolupráce) — konkretizují, co § 1 obecně ohlašuje.
+- *Související předpisy:* směrnice 96/71/ES a 2014/67/EU; čl. 288 SFEU (závaznost směrnic co do výsledku); čl. 2 odst. 2 Listiny (mez výkonu státní moci).
+- *Judikatura:* nosný závěr Soudního dvora EU o povinnosti vnitrostátního soudu vykládat vnitrostátní právo v nejvyšší možné míře ve světle znění a účelu směrnice (doktrína nepřímého účinku, věc Marleasing); nosný závěr Ústavního soudu, že státní moc lze uplatňovat jen v mezích a způsoby, které stanoví zákon.
+
+**4. Subsumpce.** § 1 výslovně zařazuje transpozici předpisů EU mezi čtyři normativní okruhy zákona. Tím je naplněn požadavek transpoziční doložky a otevřen prostor pro eurokonformní výklad navazujících ustanovení (§ 3 odst. 3). Sporné zůstává, zda je konkrétní pravidlo dostatečně určité — to však je otázkou výkladu § 3, nikoli § 1.
+
+**5. Řešení.** Transpoziční deklarace v § 1 sama o sobě nezakládá pravomoc; tu zakládají až konkrétní ustanovení (§ 3 a násl.). § 1 však slouží jako interpretační vodítko: navazující ustanovení se vykládají eurokonformně. Inspektorát postupoval správně, pokud kritéria § 3 odst. 3 aplikoval ve světle směrnice 2014/67/EU. Námitka zaměstnavatele o „pouhé transpozici" je lichá, neboť § 3 odst. 3 je v zákoně výslovně zakotven, nejde o přímý účinek směrnice.
+
+**6. Varianty.** (a) Pokud by zákon transpoziční doložku neobsahoval a pravidlo by chybělo i v § 3, nebylo by možné aplikovat kritéria vysílání přímo proti jednotlivci (zákaz horizontálního přímého účinku směrnice v neprospěch soukromé osoby). (b) Pokud by kontrola směřovala mimo katalog § 3 odst. 1, šlo by o jednání ultra vires bez ohledu na § 1.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: § 1 je pouze popisné („obsahové") ustanovení bez vlastní normativní síly, nelze z něj nic vyvozovat. Neutralizace: souhlasíme — § 1 nezakládá pravomoc, ale jeho transpoziční doložka má interpretační význam (eurokonformní výklad) a systematicky určuje strukturu zákona.
+- Protiargument: eurokonformní výklad nesmí jít contra legem ani v neprospěch jednotlivce. Neutralizace: zde se nejde proti znění zákona — § 3 odst. 3 transponovaná kritéria výslovně obsahuje.
+- Slabé místo: § 1 nevyjmenovává všechny transponované předpisy; jejich identifikace vyžaduje srovnání s transpoziční přílohou a důvodovou zprávou.
+
+#### H. Praktický závěr
+
+§ 1 určuje předmět úpravy a slouží jako mapa zákona; sám o sobě nezakládá kontrolní pravomoc, tu obsahují až navazující ustanovení. Jeho hlavní praktická funkce je interpretační (transpoziční doložka → eurokonformní výklad) a systematická.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda kontrolovaná oblast spadá do některého ze čtyř okruhů ohlášených v § 1 (a konkretizovaných v §§ 2–9).
+- [ ] U přeshraničních věcí zkontrolovat soulad aplikovaného pravidla se směrnicí (eurokonformní výklad).
+- [ ] Nezaměňovat transpoziční deklaraci za samostatný právní základ pravomoci.
+
+**Typicky rozhodné důkazy / podklady:** transpoziční doložka a příloha zákona, důvodová zpráva, znění relevantních směrnic EU, dokumentace ke konkrétní kontrolované činnosti.
+
 ---
 
 ### § 2 — Státní úřad inspekce práce a oblastní inspektoráty práce
@@ -85,6 +120,42 @@ Zákon o inspekci práce odlišuje **organizační nadřízenost** (obecná subo
 #### Odst. 5 — vedení úřadu a inspektorátů
 
 Funkce **generálního inspektora** a **vedoucího inspektora** jsou místy státní služby; jejich výběr, jmenování a odvolání se řídí zákonem o státní službě (zákon č. 234/2014 Sb.), nikoliv zákonem o inspekci práce. Zákon o inspekci práce tak nevytváří paralelní systém jmenování; odkazuje na obecný služební zákon, čímž zajišťuje konzistenci s celou soustavou správy.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Inspektorát provedl kontrolu u zaměstnavatele a způsobil mu při ní škodu (poškození výrobního zařízení při nařízené zkoušce). Zaměstnavatel chce uplatnit nárok na náhradu škody. Není si jist, koho má žalovat — zda oblastní inspektorát, který kontrolu provedl, nebo Státní úřad inspekce práce v Opavě, nebo stát. Je třeba obstarat: protokol o kontrole, doklad o vzniku a výši škody, zápis o nařízené zkoušce.
+
+**2. Právní otázka.** Kdo je pasivně legitimován k náhradě škody způsobené kontrolní činností oblastního inspektorátu — inspektorát, SÚIP, nebo Česká republika?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 1 ZIP (SÚIP a inspektoráty jsou správní úřady, ne právnické osoby), § 2 odst. 2 (inspektoráty jako vnitřní organizační jednotky úřadu pro účely hospodaření).
+- *Související ustanovení téhož zákona:* § 4 odst. 1 písm. a) (SÚIP řídí inspektoráty), § 6 odst. 5 (místní příslušnost inspektorátu) — vymezují organizační vztahy.
+- *Související předpisy:* zákon č. 82/1998 Sb., o odpovědnosti za škodu při výkonu veřejné moci (odpovědnost státu); čl. 79 odst. 1 Ústavy (správní úřady lze zřídit jen zákonem); zákon č. 234/2014 Sb., o státní službě.
+- *Judikatura:* ustálený závěr Nejvyššího soudu, že za škodu způsobenou při výkonu veřejné moci nezákonným rozhodnutím nebo nesprávným úředním postupem odpovídá stát, a organizační složka státu za stát v řízení pouze jedná, není sama nositelem odpovědnosti.
+
+**4. Subsumpce.** SÚIP i inspektoráty jsou dle § 2 odst. 1 správními úřady, tedy organizačními složkami státu, nikoli právnickými osobami. Inspektorát je navíc dle § 2 odst. 2 vnitřní organizační jednotkou SÚIP. Nositelem práv a povinností z majetkové odpovědnosti je proto stát — Česká republika.
+
+**5. Řešení.** Žalovaným je Česká republika; za ni v řízení o náhradě škody jedná příslušná organizační složka — zde s ohledem na § 2 odst. 2 (hospodářská a účetní jednota) Státní úřad inspekce práce. Žaloba podaná přímo proti oblastnímu inspektorátu nebo proti SÚIP jako samostatnému subjektu trpí nedostatkem pasivní věcné legitimace; je třeba ji formulovat proti státu. Procesně se postupuje podle zákona č. 82/1998 Sb. (předběžné uplatnění nároku u úřadu).
+
+**6. Varianty.** (a) Pokud by škoda vznikla nezákonným rozhodnutím o zákazu (§ 7 odst. 1 písm. g)), které bylo později zrušeno, šlo by o odpovědnost za nezákonné rozhodnutí dle zákona č. 82/1998 Sb. — opět odpovídá stát. (b) Pokud by šlo o spor ze služebního poměru inspektora, příslušným by byl SÚIP jako nadřízený služební úřad (§ 2 odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: inspektorát vystupuje navenek samostatně (má vlastní označení, razítko), proto by měl být žalován on. Neutralizace: vnější vystupování nezakládá právní subjektivitu; § 2 odst. 1 výslovně označuje inspektoráty za správní úřady (složky státu), § 2 odst. 2 je činí vnitřními jednotkami SÚIP.
+- Protiargument: SÚIP je účetní jednotkou, tedy by měl odpovídat sám. Neutralizace: účetní jednotka není totéž co nositel hmotněprávní odpovědnosti; odpovídá stát, SÚIP za něj jen jedná.
+- Slabé místo: označení správné organizační složky jednající za stát může být sporné u úkonů na pomezí působnosti inspektorátu a SÚIP; chybu v označení však soud zpravidla řeší výzvou, nikoli zamítnutím.
+
+#### H. Praktický závěr
+
+SÚIP a oblastní inspektoráty nejsou právnickými osobami; jsou správními úřady (složkami státu) s dvoustupňovou hierarchií, přičemž inspektoráty jsou pro účely hospodaření vnitřními jednotkami SÚIP. V majetkových a odpovědnostních vztazích vystupuje stát.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] V majetkových sporech žalovat Českou republiku, nikoli inspektorát či SÚIP jako samostatný subjekt.
+- [ ] Určit, která organizační složka za stát jedná (zpravidla SÚIP dle § 2 odst. 2).
+- [ ] Odlišit organizační nadřízenost od nadřízenosti ve věcech státní služby (§ 2 odst. 3, 4).
+- [ ] Pamatovat, že sídlo SÚIP (Opava) je fixováno zákonem.
+
+**Typicky rozhodné důkazy / podklady:** zřizovací zakotvení a příloha zákona (sídla a obvody inspektorátů), protokol o kontrole, doklady o škodě, organizační řád SÚIP.
 
 ---
 
@@ -198,6 +269,42 @@ Tato kritéria nemají charakter taxativního výčtu podmínek — zákon výsl
 #### Odst. 4 — zvláštní zákonné případy kontroly
 
 Odst. 4 je generální blanketní klauzulí: inspekce práce koná i v případech, kde ji k tomu zmocňuje zvláštní zákon. Tím se předchází situaci, kdy by novelizace jiných zákonů rozšiřující pravomoc inspekce práce neměly oporu v § 3. Příkladem může být zákon o zaměstnanosti (zákon č. 435/2004 Sb.) v oblasti nelegálního zaměstnávání.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Slovenská personální agentura vyslala do ČR 30 dělníků „v rámci poskytování služeb" k jedinému českému odběrateli, kde pracují trvale již dva roky, mzdu i pojistné platí na Slovensku, agentura však v ČR fakticky nepodniká (jediný kontakt je virtuální sídlo a poštovní schránka). Inspektorát zkoumá, zda jde o skutečné vyslání, nebo o zastřené trvalé zaměstnání v ČR obcházející české pracovní podmínky. Důkazy: smlouvy o poskytování služeb, evidence odpracované doby, doklady o sídle a daních agentury na Slovensku, výpovědi dělníků o místě a době práce.
+
+**2. Právní otázka.** Jsou naplněny znaky „dočasného vyslání v rámci nadnárodního poskytování služeb", nebo jde o činnost, jejímž těžištěm je trvalý výkon práce v ČR (tzv. letterbox company)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 odst. 3 ZIP — dvouúrovňový test (úroveň A: skutečné místo činnosti zaměstnavatele; úroveň B: místo obvyklého výkonu práce zaměstnance), oba jako demonstrativní výčet („zejména").
+- *Související ustanovení téhož zákona:* § 1 (transpoziční doložka), § 4 odst. 2 písm. g), h) a § 5 odst. 1 písm. l) (přeshraniční spolupráce a vymáhání), § 6 odst. 1 písm. a) (zaměstnavatel jako kontrolovaná osoba).
+- *Související předpisy:* směrnice 96/71/ES a 2014/67/EU; nařízení Řím I (č. 593/2008) — místo obvyklého výkonu práce; zákoník práce § 319, 319a (pracovní podmínky vyslaných); zákon o zaměstnanosti č. 435/2004 Sb. (agenturní a nelegální zaměstnávání).
+- *Judikatura:* nosný závěr Soudního dvora EU, že o skutečné vyslání nejde, pokud podnik v domovském státě nevykonává žádnou podstatnou činnost (boj proti zneúčelovým schránkám); závěry SD EU k pojmu „dočasnost" vyslání.
+
+**4. Subsumpce.** Úroveň A: virtuální sídlo, absence reálné činnosti na Slovensku, jediný odběratel v ČR → silné indikátory schránkové společnosti. Úroveň B: dvouletá nepřetržitá práce u jednoho odběratele, opakované obsazování týchž míst, žádný návrat → svědčí proti dočasnosti. Pro vyslání naopak hovoří placení pojistného na Slovensku. Celkové posouzení (zákon vyžaduje souhrnné hodnocení, nikoli jediné kritérium) převažuje ve prospěch závěru o zastřeném trvalém zaměstnání.
+
+**5. Řešení.** Inspektorát na základě celkového posouzení obou úrovní konstatuje, že nejde o skutečné dočasné vyslání; na zaměstnance se uplatní český pracovněprávní režim v plném rozsahu (nejen tvrdé jádro vyslání). Zjistí-li porušení (mzdové, pracovní doba), uloží opatření, případně zahájí řízení o přestupku a využije přeshraniční spolupráci (§ 4 odst. 2). Riziko: kvalifikace je interpretační, přezkoumatelná ve správním soudnictví — proto je nezbytné pečlivě zdokumentovat každé kritérium.
+
+**6. Varianty.** (a) Pokud by agentura na Slovensku reálně podnikala pro více odběratelů a vyslání by trvalo několik měsíců s následným návratem, šlo by o legitimní vyslání. (b) Pokud by dělníci pracovali pro různé české odběratele a místo bylo obsazováno jednorázově, kritérium opakovaného obsazování by odpadlo a závěr by se mohl zvrátit ve prospěch vyslání.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: kritéria jsou jen demonstrativní („zejména"), proto je inspektorát nemůže použít k závaznému závěru. Neutralizace: demonstrativnost znamená, že výčet není uzavřený, nikoli že nezavazuje; inspektor musí provést a odůvodnit celkové posouzení, jež je soudně přezkoumatelné.
+- Protiargument: placení pojistného a daní na Slovensku prokazuje skutečné usazení. Neutralizace: jde jen o jedno z více kritérií; samo o sobě nepřeváží, je-li reálná činnost v domovském státě nulová.
+- Slabé místo: závěr stojí na hodnocení důkazů; chybějící nebo neúplná dokumentace jednotlivých kritérií oslabuje obhajitelnost rozhodnutí před soudem.
+
+#### H. Praktický závěr
+
+§ 3 vymezuje taxativní katalog osmi kontrolních oblastí (odst. 1), rozšiřuje kontrolu na kolektivní smlouvy a vnitřní předpisy v části zakládající práva zaměstnanců (odst. 2) a zavádí dvouúrovňový test pro vysílání (odst. 3). Kontrola mimo katalog odst. 1 je ultra vires.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že předmět kontroly spadá do některé z oblastí § 3 odst. 1 písm. a)–h).
+- [ ] U kolektivní smlouvy kontrolovat jen části zakládající individuální nároky z předpisů, nikoli závazkovou část (§ 3 odst. 2).
+- [ ] U vysílání provést a zdokumentovat celkové posouzení obou úrovní § 3 odst. 3 (nestačí jediné kritérium).
+- [ ] Pamatovat na demonstrativní povahu výčtu kritérií („zejména").
+
+**Typicky rozhodné důkazy / podklady:** smlouvy a doklady o činnosti zaměstnavatele v domovském státě, evidence pracovní doby, doklady o sídle/daních/pojistném, výpovědi vyslaných zaměstnanců, kolektivní smlouva a vnitřní předpisy.
 
 ---
 
@@ -333,6 +440,43 @@ SÚIP vede dva informační systémy:
 
 Anomálie: § 4 odst. 7 zavazuje SÚIP zajistit ochranu osobních údajů „způsobem stanoveným zvláštním zákonem". Tato formulace pochází z doby předcházející obecnému nařízení GDPR, které je bezprostředně závazné; odkaz na zvláštní zákon je od 25. 5. 2018 interpretován ve světle GDPR a zákona č. 110/2019 Sb., o zpracování osobních údajů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Oblastní inspektorát zahájil v závažné systémové věci (opakované smrtelné úrazy ve velkém logistickém areálu) vlastní kontrolu, avšak SÚIP rozhodl, že vzhledem k celostátnímu významu věci provede kontrolu sám a následně v prvním stupni rozhodne o přestupku. Zaměstnavatel namítá, že SÚIP je orgánem řízení a metodiky a nemůže sám vykonávat kontrolu ani rozhodovat v prvním stupni — to prý přísluší jen inspektorátům. Důkazy: pověření inspektorů SÚIP, protokol o kontrole, rozhodnutí o přestupku.
+
+**2. Právní otázka.** Je SÚIP oprávněn vykonávat vlastní kontrolu v rozsahu § 3 a rozhodovat o přestupku v prvním stupni, nebo je tato pravomoc vyhrazena oblastním inspektorátům?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 odst. 1 písm. f) (SÚIP je oprávněn vykonávat kontrolu v rozsahu § 3), písm. i) (rozhoduje o přestupcích v prvním stupni), písm. j) (přezkoumává rozhodnutí inspektorátů) — sebereflexivní dvojrole SÚIP.
+- *Související ustanovení téhož zákona:* § 5 odst. 1 písm. a), k) (souběžná pravomoc inspektorátů), § 7 odst. 1 písm. g), h) (zákazy a odnětí osvědčení), § 2 odst. 3, 4 (řídící vztahy).
+- *Související předpisy:* zákon č. 500/2004 Sb., správní řád, § 89 odst. 1 (odvolacím orgánem proti rozhodnutí SÚIP v 1. stupni je ministerstvo); zákon č. 250/2016 Sb., o odpovědnosti za přestupky; zákon č. 255/2012 Sb., kontrolní řád.
+- *Judikatura:* obecný závěr správních soudů, že věcnou a funkční příslušnost správního orgánu nutno čerpat výhradně ze zákona a vykonává-li orgán pravomoc, kterou mu zákon výslovně svěřuje, nejde o vadu příslušnosti.
+
+**4. Subsumpce.** § 4 odst. 1 písm. f) výslovně přiznává SÚIP přímou kontrolní pravomoc v plném rozsahu § 3; písm. i) výslovně svěřuje SÚIP rozhodování o přestupcích v prvním stupni. Námitka zaměstnavatele tedy nemá oporu — zákon dvojroli SÚIP (řízení i vlastní výkon) zakládá výslovně.
+
+**5. Řešení.** Postup SÚIP je zákonný: kontrolu i prvostupňové rozhodnutí o přestupku zákon SÚIP výslovně umožňuje (§ 4 odst. 1 písm. f), i)). Pozor na funkční příslušnost odvolacího orgánu: rozhoduje-li v prvním stupni SÚIP, odvolání projednává ministerstvo (§ 89 odst. 1 správního řádu), nikoli SÚIP sám — jinak by byla porušena zásada dvojinstančnosti. Pokud by v prvním stupni rozhodl inspektorát, odvolacím orgánem by byl SÚIP (§ 4 odst. 1 písm. j)).
+
+**6. Varianty.** (a) Pokud by v prvním stupni rozhodl oblastní inspektorát, přezkum náleží SÚIP — odlišný odvolací orgán. (b) Pokud by SÚIP rozhodl o přestupku a sám si věc následně „přezkoumal", šlo by o porušení zákazu, aby o opravném prostředku rozhodoval týž orgán; rozhodnutí by bylo nezákonné.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: spojení řídící, kontrolní, rozhodovací i přezkumné funkce v jednom úřadu narušuje nestrannost. Neutralizace: funkce jsou zákonem odděleny instančně (prvostupňové rozhodnutí SÚIP → odvolání k ministerstvu; rozhodnutí inspektorátu → přezkum SÚIP); systémovou pojistkou je správní soudnictví.
+- Protiargument: roční program a metodické vedení SÚIP předurčují výsledek kontroly. Neutralizace: program je plánovacím nástrojem, nikoli prejudikací; konzultace s odbory a zaměstnavateli (§ 4 odst. 1 písm. c)) posiluje legitimitu.
+- Slabé místo: u informačních systémů (odst. 3–7) je odkaz na ochranu osobních údajů „zvláštním zákonem" zastaralý — nutno číst ve světle GDPR a zákona č. 110/2019 Sb.
+
+#### H. Praktický závěr
+
+§ 4 vybavuje SÚIP dvojrolí: orgán řízení a metodiky (odst. 1 písm. a)–d), odst. 2) a zároveň kontrolní a rozhodovací orgán první instance i přezkumu (odst. 1 písm. f)–j)). Vede dva informační systémy (úrazy a rizika). Klíčové je správně určit instanci přezkumu podle toho, kdo rozhodl v prvním stupni.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit, zda v prvním stupni rozhodl SÚIP (odvolání → ministerstvo) nebo inspektorát (přezkum → SÚIP).
+- [ ] Ověřit, že tentýž orgán nerozhoduje o opravném prostředku proti vlastnímu rozhodnutí.
+- [ ] U přeshraničního vymáhání zkontrolovat všech pět náležitostí žádosti dle § 4 odst. 2 písm. g).
+- [ ] Lhůtu 15 dnů pro informování Úřadu práce o pokutě (§ 4 odst. 2 písm. f)) dodržet jako kogentní.
+- [ ] Zpracování dat v informačních systémech posuzovat dle GDPR a zákona č. 110/2019 Sb.
+
+**Typicky rozhodné důkazy / podklady:** pověření inspektorů SÚIP, protokol o kontrole, prvostupňové rozhodnutí a vyznačení odvolacího orgánu, roční program kontrolních akcí, doklady o splnění oznamovacích a lhůtních povinností.
+
 ---
 
 ### § 4a — Portál pro ohlašování pracovních úrazů
@@ -354,6 +498,42 @@ Anomálie: § 4 odst. 7 zavazuje SÚIP zajistit ochranu osobních údajů „zp�
 Přihlašování vyžaduje **prostředek pro elektronickou identifikaci** (typicky elektronický občanský průkaz, NIA ID nebo jiný kvalifikovaný prostředek podle zákona č. 250/2017 Sb., o elektronické identifikaci). Tím je zajištěna autentizace oznamovatele a integrita dat v ISPU.
 
 Odst. 3 zakotvuje právo přístupu oznamovatele k vlastním vloženým údajům — jde o projev principu transparentnosti a práva subjektu údajů na přístup k informacím o sobě (čl. 15 GDPR). Portál však není veřejným registrem; přístup je omezen na údaje vložené danou osobou.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Malý zaměstnavatel (pět zaměstnanců) má pracovní úraz s hospitalizací. Účetní firmy nemá zřízen prostředek pro elektronickou identifikaci ani datovou schránku přístupnou portálu a chce záznam o úrazu poslat poštou na inspektorát. Po několika dnech, kdy se nepodařilo přihlásit do portálu SÚIP, inspektorát zahájí řízení o přestupku za nesplnění ohlašovací povinnosti. Důkazy: záznam o úrazu, doklad o pokusech o přihlášení/registraci, časová osa.
+
+**2. Právní otázka.** Je papírová (poštovní) forma ohlášení pracovního úrazu přípustnou alternativou, nebo zákon ukládá výhradně elektronické podání přes portál SÚIP s elektronickou identifikací?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4a odst. 1 ZIP (ohlášení a zaslání záznamu o úrazu se provádí prostřednictvím portálu úřadu s dálkovým přístupem), odst. 2 (přihlášení prokázáním totožnosti prostředkem pro elektronickou identifikaci), odst. 3 (přístup k vlastním vloženým údajům).
+- *Související ustanovení téhož zákona:* § 4 odst. 3, 4 (informační systém o pracovních úrazech, jehož je portál vstupní branou), § 5 odst. 1 písm. e) (inspektoráty dodávají data do ISPU).
+- *Související předpisy:* zákon č. 250/2017 Sb., o elektronické identifikaci (NIA ID, eOP); nařízení vlády č. 201/2010 Sb., o způsobu evidence úrazů a o ohlašování pracovních úrazů; čl. 15 GDPR (právo na přístup k vlastním údajům).
+- *Judikatura:* obecný závěr o tom, že povinnost činit podání ve výlučně stanovené formě je zákonný požadavek, jehož nesplnění lze sankcionovat, není-li forma fakticky nedostupná bez zavinění povinného.
+
+**4. Subsumpce.** § 4a odst. 1 stanoví, že ohlášení se „provádí prostřednictvím portálu úřadu" — formulace nepřipouští papírovou alternativu pro povinné osoby. Odst. 2 váže přístup na prostředek pro elektronickou identifikaci. Subjekt měl možnost si prostředek opatřit (eOP, NIA ID); jeho absence je odstranitelná překážka na straně povinného.
+
+**5. Řešení.** Ohlášení a zaslání záznamu o úrazu musí proběhnout elektronicky přes portál SÚIP; papírová forma není pro povinnou osobu přípustná. Zaměstnavatel je povinen si opatřit prostředek pro elektronickou identifikaci (lze i prostřednictvím pověřené osoby). Nesplnění ohlašovací povinnosti může být přestupkem; obrana spočívá v prokázání objektivní a nezaviněné nedostupnosti portálu (např. doložený výpadek systému), nikoli ve vlastní organizační nepřipravenosti. Praktický krok: zřídit identifikaci předem a evidovat osoby oprávněné podávat za zaměstnavatele.
+
+**6. Varianty.** (a) Prokázaný delší výpadek portálu na straně SÚIP by zaměstnavatele zprostil odpovědnosti za zmeškání (vyšší moc), s povinností splnit ohlášení neprodleně po obnovení. (b) Pokud by povinnost ohlášení dopadala na osobu, jíž zákon elektronickou formu neukládá, mohla by připadat v úvahu jiná forma — to však § 4a pro vyjmenované povinné osoby nepřipouští.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: výlučně elektronická forma je nepřiměřenou zátěží pro malé zaměstnavatele a fyzické osoby. Neutralizace: prostředek pro elektronickou identifikaci je dnes běžně dostupný (eOP zdarma), a digitalizace sleduje legitimní cíl integrity dat v ISPU; zátěž je proporcionální.
+- Protiargument: zákon výslovně nestanoví sankci přímo v § 4a. Neutralizace: sankce plyne z části o přestupcích za porušení evidenčních a ohlašovacích povinností; § 4a stanoví způsob splnění, sankcionovatelné je nesplnění.
+- Slabé místo: hranice mezi „nezaviněnou nedostupností portálu" a „vlastní nepřipraveností" je skutková; bez evidence pokusů o přihlášení se obrana obtížně prokazuje.
+
+#### H. Praktický závěr
+
+§ 4a zavádí výlučně digitální ohlašování pracovních úrazů přes portál SÚIP s povinnou elektronickou identifikací. Papírová alternativa pro povinné osoby neexistuje; oznamovatel má přístup k údajům, které sám vložil.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zřídit prostředek pro elektronickou identifikaci (eOP/NIA ID) a oprávnění osob jednajících za zaměstnavatele předem.
+- [ ] Ohlášení a záznam o úrazu (i hlášení změn) podávat výhradně přes portál úřadu.
+- [ ] Při výpadku portálu pořídit důkaz (screenshot, čas) a splnit povinnost neprodleně po obnovení.
+- [ ] Využít přístup k vlastním vloženým údajům (kontrola správnosti, čl. 15 GDPR).
+
+**Typicky rozhodné důkazy / podklady:** záznam o úrazu, logy/doklady o přihlášení do portálu, doklad o prostředku pro elektronickou identifikaci, případné potvrzení o výpadku systému.
 
 ---
 
@@ -410,6 +590,42 @@ Inspektoráty mají v zásadě shodnou věcnou působnost jako SÚIP (písm. a)�
 #### Odst. 2 — povinnost informovat podatele podnětu
 
 Podal-li někdo **písemný podnět** k zahájení kontroly, inspektorát je povinen jej písemně informovat o výsledku kontroly. Zákon tuto povinnost váže na formu podnětu — ústní nebo anonymní podnět tuto povinnost nezakládá. Informace podateli podnětu se liší od protokolu o kontrole (§ 8 písm. b)) — jde o stručné sdělení výsledku, nikoliv o zpřístupnění celého protokolu, jehož obsah může podléhat ochraně obchodního tajemství kontrolované osoby nebo osobním údajům zaměstnanců.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Bývalý zaměstnanec podá na oblastní inspektorát písemný (e-mailem, podepsaný) podnět, že jeho někdejší zaměstnavatel systematicky nevyplácí příplatky za práci přesčas. Inspektorát provede kontrolu, zjistí pochybení a uloží opatření, podateli však o výsledku nic nesdělí s tím, že protokol obsahuje obchodní tajemství a osobní údaje jiných zaměstnanců. Podatel se domáhá informace o výsledku. Důkazy: text a forma podnětu, protokol o kontrole, doklad o (ne)odeslání informace podateli.
+
+**2. Právní otázka.** Vzniká inspektorátu povinnost informovat podatele o výsledku kontroly, byl-li podnět podán písemně, a v jakém rozsahu (sdělení výsledku vs. zpřístupnění protokolu)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 odst. 2 ZIP (provedl-li inspektorát kontrolu na základě písemného podnětu, informuje písemně o výsledku toho, kdo podnět podal).
+- *Související ustanovení téhož zákona:* § 5 odst. 1 písm. a)–c) (výkon kontroly, ukládání a kontrola opatření), § 8 písm. b) (protokol), § 3 odst. 1 písm. a) (mzdové nároky jako předmět kontroly).
+- *Související předpisy:* zákon č. 255/2012 Sb., kontrolní řád (§ 12 protokol o kontrole); zákon č. 262/2006 Sb., zákoník práce (příplatek za přesčas); GDPR a zákon č. 110/2019 Sb. (ochrana osobních údajů jiných zaměstnanců); ochrana obchodního tajemství dle občanského zákoníku.
+- *Judikatura:* obecný závěr, že rozsah informace pro stěžovatele je limitován ochranou práv třetích osob a že povinnost „informovat o výsledku" neznamená povinnost zpřístupnit celý spis.
+
+**4. Subsumpce.** Podnět byl písemný (e-mail s podpisem) → vzniká povinnost dle § 5 odst. 2 informovat o výsledku. Tato povinnost se však týká „výsledku", nikoli vydání protokolu; obchodní tajemství a osobní údaje jiných zaměstnanců brání plnému zpřístupnění protokolu, nikoli sdělení výsledku.
+
+**5. Řešení.** Inspektorát je povinen podatele písemně informovat o výsledku kontroly (zda byly zjištěny nedostatky a zda byla uložena opatření) — paušální odmítnutí je porušením § 5 odst. 2. Současně není povinen (ani oprávněn bez dalšího) poskytnout celý protokol obsahující obchodní tajemství a osobní údaje třetích osob; ty z informace vypustí/anonymizuje. Správný postup: stručné sdělení výsledku s ochranou údajů třetích osob. Riziko opačného postupu: stížnost na nečinnost a odpovědnost za nesprávný úřední postup.
+
+**6. Varianty.** (a) Pokud by podnět byl ústní nebo anonymní, povinnost dle § 5 odst. 2 by nevznikla — inspektorát by informovat nemusel. (b) Pokud by podatel byl zároveň účastníkem navazujícího správního řízení, jeho přístup k podkladům by se řídil správním řádem (nahlížení do spisu), nikoli § 5 odst. 2.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: ochrana obchodního tajemství zaměstnavatele odůvodňuje úplné mlčení vůči podateli. Neutralizace: § 5 odst. 2 ukládá informovat o výsledku, nikoli vydat protokol; výsledek lze sdělit bez prozrazení chráněných informací.
+- Protiargument: forma podnětu (e-mail) není „písemná". Neutralizace: písemnou formu naplňuje i podepsané elektronické podání; rozhodující je doložitelný písemný projev, nikoli listinná podoba.
+- Slabé místo: hranice mezi „výsledkem" a chráněným obsahem protokolu je neostrá; je vhodné formulovat informaci tak, aby obstála i při případném přezkumu (stížnost, soud).
+
+#### H. Praktický závěr
+
+§ 5 svěřuje inspektorátům výkon kontroly (zrcadlo § 4) s vlastními specifiky — šetření úrazů, dodávání dat do ISPU, role dotčeného orgánu ve stavebním řízení. Odst. 2 zakládá povinnost informovat o výsledku kontroly podatele písemného podnětu; rozsah je „výsledek", ne celý protokol.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit formu podnětu — povinnost informovat dle § 5 odst. 2 vzniká jen u písemného podnětu.
+- [ ] Informaci o výsledku formulovat s ochranou obchodního tajemství a osobních údajů třetích osob.
+- [ ] Odlišit sdělení výsledku (§ 5 odst. 2) od práva na nahlížení do spisu (správní řád) a od protokolu (§ 8, kontrolní řád).
+- [ ] U přeshraničních pochybností postupovat přes SÚIP (§ 5 odst. 1 písm. l)).
+
+**Typicky rozhodné důkazy / podklady:** podnět a doklad o jeho formě, protokol o kontrole, uložená opatření, kopie odeslané informace podateli, podklady o tom, co tvoří obchodní tajemství / osobní údaje třetích osob.
 
 ---
 
@@ -526,6 +742,43 @@ Místní příslušnost inspektorátů je určena **místem činnosti** kontrolo
 
 SÚIP může z důvodu **podjatosti nebo jiné hodné zvláštního zřetele** **písemně** pověřit jiný než místně příslušný inspektorát; jde o diskreční pravomoc SÚIP, která nepodléhá předchozímu souhlasu ani námitce kontrolované osoby. Tato výjimka je analogická § 131 správního řádu (přikázání věci z důvodu podjatosti), ale zákon o inspekci práce ji formuluje šířeji — zahrnuje i jiné „případy hodné zvláštního zřetele" (systémové kontrolní akce, kapacitní důvody apod.).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Hornický závod provozuje povrchový lom. Inspektorát chce provést komplexní kontrolu zahrnující jak bezpečnost provozu zařízení v lomu, tak dodržování pracovní doby a vyplácení mzdy horníkům. Provozovatel namítá, že nad závodem vykonává vrchní dozor orgán státní báňské správy, a proto je inspekce práce z kontroly zcela vyloučena. Důkazy: rozsah báňského dozoru, doklady o pracovní době a mzdách, vymezení činností spadajících pod báňský dozor.
+
+**2. Právní otázka.** Vylučuje vrchní dozor orgánu státní báňské správy působnost inspekce práce u hornického závodu zcela, nebo jen v rozsahu, v němž báňský dozor skutečně zasahuje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 4 písm. d) ZIP (působnost se nevztahuje na kontrolované osoby „v rozsahu, ve kterém u nich vykonává vrchní dozor orgán státní báňské správy") — věcně omezená výluka.
+- *Související ustanovení téhož zákona:* § 6 odst. 1 (okruh kontrolovaných osob), § 6 odst. 5 (místní příslušnost), § 3 odst. 1 písm. a)–c) (mzda, pracovní doba, BOZP jako předmět kontroly).
+- *Související předpisy:* zákon č. 61/1988 Sb., o hornické činnosti, a zákon č. 200/1994 Sb. (působnost báňské správy); zákoník práce (mzda, pracovní doba); subsidiárně kontrolní řád.
+- *Judikatura:* obecný výkladový závěr, že výluky z působnosti kontrolního orgánu je nutno vykládat restriktivně a podle jejich účelu (zamezení dvojího dozoru), nikoli extenzivně ve prospěch vynětí.
+
+**4. Subsumpce.** Výluka § 6 odst. 4 písm. d) je formulována slovy „v rozsahu" — jde tedy o věcně omezené vynětí kryjící pouze oblast báňského dozoru (bezpečnost provozu v báňském smyslu). Pracovněprávní nároky horníků (mzda, pracovní doba, dovolená) báňský dozor nepokrývá; v této části působnost inspekce práce zůstává zachována.
+
+**5. Řešení.** Námitka provozovatele je důvodná jen zčásti: inspekce práce nemůže kontrolovat to, co spadá pod vrchní báňský dozor (bezpečnost provozu zařízení v lomu v báňském smyslu), ale může kontrolovat pracovní dobu a vyplácení mzdy horníků, neboť ty pod báňský dozor nespadají. Inspektorát proto kontrolu provede v omezeném rozsahu. Riziko: nesprávné vymezení hranice mezi báňským dozorem a pracovněprávní kontrolou; vhodná je koordinace s báňským úřadem (srov. § 4 odst. 1 písm. d) — koordinace s jinými dozorovými orgány).
+
+**6. Varianty.** (a) Pokud by šlo o čistě technickou bezpečnost provozu vyhrazeného báňského zařízení, výluka by se uplatnila plně a inspekce práce by kontrolu konat nesměla. (b) Šlo-li by o zařízení ozbrojených sil (písm. h)) nebo o služební zákrok bezpečnostního sboru (písm. i)), výluka by měla odlišný (užší věcný) dosah, ale stejnou logiku „rozsahu".
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: existence specializovaného dozoru znamená úplné vynětí subjektu z působnosti inspekce práce. Neutralizace: zákon výluky výslovně omezuje slovy „v rozsahu" — vynětí je věcné, nikoli osobní; mimo rozsah specializovaného dozoru pravomoc inspekce trvá.
+- Protiargument: dvojí kontrola (báňský úřad i inspekce) je nepřípustná duplicita. Neutralizace: duplicitě brání právě omezení „v rozsahu" a koordinační mechanismus § 4 odst. 1 písm. d); věcné okruhy se nepřekrývají.
+- Slabé místo: přesná hranice mezi báňským dozorem a pracovněprávní kontrolou je interpretačně náročná; chybné vymezení zakládá riziko nezákonnosti kontroly nebo naopak nečinnosti.
+
+#### H. Praktický závěr
+
+§ 6 vymezuje taxativní okruh kontrolovaných osob (odst. 1, legislativní zkratka), podmíněný přístup do bezpečnostní sféry (odst. 2), zúženou působnost u státních zaměstnanců (odst. 3), věcně omezené negativní výluky tam, kde působí specializovaný dozor (odst. 4), a místní příslušnost s možností delegace (odst. 5). Výluky se uplatní jen „v rozsahu" specializovaného dozoru.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit subjekt do některé kategorie § 6 odst. 1 (jinak chybí osobní působnost).
+- [ ] U výluk dle odst. 4 zkoumat věcný rozsah specializovaného dozoru, nikoli automaticky vyjmout celý subjekt.
+- [ ] U bezpečnostní sféry (odst. 2) zajistit souhlas příslušného ministerstva/ředitele; při odmítnutí očekávat náhradní kontrolu a zprávu do 60 pracovních dnů.
+- [ ] U státních zaměstnanců omezit kontrolu na okruhy odst. 3 (pracovní doba, pohotovost, přesčas/noc, bezpečnost).
+- [ ] Místní příslušnost určit dle místa činnosti (odst. 5); zvážit delegaci při podjatosti.
+
+**Typicky rozhodné důkazy / podklady:** doklady o postavení kontrolovaného subjektu, vymezení rozsahu specializovaného dozoru, doklady o pracovní době a mzdách, případný souhlas/odmítnutí v bezpečnostní sféře, pověření jiného inspektorátu.
+
 ---
 
 ## Část třetí — Práva a povinnosti při kontrole
@@ -628,6 +881,43 @@ Toto oprávnění bylo do zákona vloženo novelizací reagující na masové ro
 
 Průkaz inspektora je dokladem pověření — zákon výslovně říká, že jde o „doklad o pověření k výkonu kontrolní činnosti". Kontrolovaná osoba je oprávněna požadovat jeho předložení; zahájení kontroly bez průkazu nebo s průkazem, jehož platnost zanikla (odnětí dle § 4 odst. 1 písm. e)), je vadou, která může způsobit nezákonnost celého kontrolního postupu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Při kontrole výrobní haly inspektor zjistí, že lis bezprostředně ohrožuje obsluhu (chybí ochranný kryt, hrozí amputace). Inspektor na místě ústně vydá rozhodnutí o zákazu používání lisu a nařídí přítomným zaměstnancům opustit nebezpečný prostor; provoz je okamžitě zastaven. Zaměstnavatel namítá, že rozhodnutí muselo mít písemnou formu, a podává odvolání s tím, že má mít odkladný účinek, takže může lis dál používat. Důkazy: dílčí protokol se záznamem ústního rozhodnutí, fotodokumentace závady, písemné potvrzení rozhodnutí.
+
+**2. Právní otázka.** Mohl inspektor vydat zákaz používání zařízení ústně s okamžitou vykonatelností a bez odkladného účinku odvolání, nebo byla nutná předchozí písemná forma?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 odst. 1 písm. g) bod 1 ZIP (zákaz používání zařízení bezprostředně ohrožujícího bezpečnost; při nebezpečí z prodlení lze oznámit ústně, odvolání nemá odkladný účinek, nutný dílčí protokol a písemné potvrzení bez zbytečného odkladu); odst. 2 (průkaz inspektora).
+- *Související ustanovení téhož zákona:* § 8 písm. b) (dílčí protokol jako součást protokolu), § 4 odst. 1 písm. e) (průkaz inspektora), § 3 odst. 1 písm. c), d) (BOZP a bezpečnost zařízení).
+- *Související předpisy:* zákon č. 500/2004 Sb., správní řád (ústní rozhodnutí, vykonatelnost, odkladný účinek jako pravidlo a jeho zákonné vyloučení); zákon č. 255/2012 Sb., kontrolní řád (subsidiárně); čl. 2 odst. 2 a čl. 26 Listiny (mez výkonu moci, právo podnikat).
+- *Judikatura:* obecný závěr správních soudů, že zákonné vyloučení odkladného účinku odvolání je ústavně konformní tam, kde je odůvodněno ochranou života a zdraví, a že okamžitě vykonatelné rozhodnutí musí být následně řádně písemně vyhotoveno a přezkoumatelné.
+
+**4. Subsumpce.** Lis „bezprostředně ohrožuje" bezpečnost zaměstnanců → naplněn hmotný znak písm. g) bodu 1. Existovalo „nebezpečí z prodlení" → splněna podmínka pro ústní formu. Inspektor zaznamenal rozhodnutí do dílčího protokolu a má je písemně potvrdit bez zbytečného odkladu → procesní podmínky splněny. Odvolání ze zákona nemá odkladný účinek.
+
+**5. Řešení.** Postup inspektora je zákonný: při nebezpečí z prodlení zákon ústní formu výslovně připouští, odvolání nemá odkladný účinek (§ 7 odst. 1 písm. g) bod 1) — zaměstnavatel nesmí lis dál používat, dokud závadu neodstraní, bez ohledu na podané odvolání. Inspektor je povinen ústní rozhodnutí uvést v dílčím protokolu a písemně je potvrdit kontrolované osobě bez zbytečného odkladu; absence písemného potvrzení by byla vadou, nikoli však důvodem k obnovení provozu. Riziko pro inspektora: musí prokázat bezprostřednost ohrožení i nebezpečí z prodlení.
+
+**6. Varianty.** (a) Šlo-li by o pevné trakční zařízení dráhy, lodě nebo letadlo, zákaz dle bodu 1 by byl vyloučen (zákonná výjimka) a inspektor by musel volit jiný nástroj. (b) Pokud by nešlo o bezprostřední ohrožení (jen formální nedostatek revize), ústní okamžitý zákaz by nebyl namístě; postupovalo by se uložením opatření s přiměřenou lhůtou dle písm. i).
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: vyloučení odkladného účinku porušuje právo na podnikání a na soudní ochranu. Neutralizace: jde o zákonem výslovně připuštěné a účelem (ochrana života a zdraví) odůvodněné opatření; soudní ochrana zůstává zachována (správní žaloba, návrh na odkladný účinek u soudu).
+- Protiargument: ústní rozhodnutí je nepřezkoumatelné. Neutralizace: zákon vyžaduje záznam do dílčího protokolu a následné písemné potvrzení; rozhodnutí je tak dokumentováno a přezkoumatelné.
+- Slabé místo: tajné záznamy dle písm. f) jsou přípustné jen subsidiárně (nelze-li účelu dosáhnout jinak) a nesmí zasahovat do soukromé sféry — důkaz pořízený nad tento rámec může být nepoužitelný.
+
+#### H. Praktický závěr
+
+§ 7 vybavuje inspektora silnými operativními oprávněními: vstup a kontrola za přítomnosti osoby kontrolované osoby (písm. a)), ověření totožnosti (b)), nařízení měření/revizí (c)), soukromé dotazování zaměstnanců (d)), zajištění místa úrazu (e)), tajné záznamy jako ultima ratio (f)), okamžité zákazy s vyloučeným odkladným účinkem (g)), odnětí osvědčení (h)), ukládání opatření (i)) a vstup na vzdálené pracoviště jen se souhlasem (j)). Mez tvoří podmínky každého oprávnění a ochrana základních práv.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U okamžitého zákazu doložit „bezprostřední ohrožení" a „nebezpečí z prodlení"; zaznamenat do dílčího protokolu a písemně potvrdit bez zbytečného odkladu.
+- [ ] Respektovat zákonné výjimky ze zákazu (trakční zařízení, lodě, letadla).
+- [ ] Tajné záznamy pořizovat jen, nelze-li účelu dosáhnout jinak, a bez zásahu do soukromé sféry.
+- [ ] Vstup na pracoviště práce na dálku jen se souhlasem zaměstnance a osob v místě žijících (ochrana domovní svobody).
+- [ ] Při zahájení kontroly mít platný průkaz inspektora a zajistit přítomnost osoby dle písm. a).
+
+**Typicky rozhodné důkazy / podklady:** dílčí protokol a písemné potvrzení zákazu, fotodokumentace/měření závady, doklad o nebezpečí z prodlení, průkaz inspektora, souhlas se vstupem na vzdálené pracoviště, dokumentace revizí a osvědčení.
+
 ---
 
 ### § 8 — Povinnosti inspektora
@@ -660,6 +950,42 @@ Inspektor je povinen pořídit o výsledku kontroly **dílčí protokol** v př�
 
 Pojem „dílčí protokol" je zákonem používán specificky — jde o protokol o konkrétním dílčím úkonu (vydání ústního zákazu), jenž se stává součástí výsledného protokolu o celé kontrole, který se pořizuje dle obecného kontrolního řádu (§ 12 kontrolního řádu).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** U zaměstnavatele působí odborová organizace. Inspektorát provede kontrolu dodržování pracovní doby a BOZP, aniž by o jejím zahájení odborovou organizaci informoval. Kontrola odhalí pochybení a zaměstnavateli je uloženo opatření. Odborová organizace si stěžuje, že byla zkrácena na svém právu být informována a sledovat průběh kontroly, a namítá nezákonnost celé kontroly. Důkazy: doklad o působení odborové organizace u zaměstnavatele, protokol o kontrole, absence informace o zahájení.
+
+**2. Právní otázka.** Zakládá porušení informační povinnosti vůči odborové organizaci (§ 8 písm. a)) nezákonnost kontroly a neplatnost uložených opatření, nebo jde o procesní pochybení bez vlivu na výsledek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 písm. a) ZIP (inspektor je povinen informovat příslušný odborový orgán / radu zaměstnanců / zástupce pro BOZP o zahájení kontroly, působí-li u kontrolované osoby), písm. b) (dílčí protokol).
+- *Související ustanovení téhož zákona:* § 7 odst. 1 písm. d) (dotazování zaměstnanců bez přítomnosti zástupce odborů — protiváha informační povinnosti), § 5 odst. 1 písm. a)–c) (výkon kontroly a opatření).
+- *Související předpisy:* zákon č. 255/2012 Sb., kontrolní řád (subsidiárně — protokol, námitky); zákon č. 262/2006 Sb., zákoník práce (postavení odborové organizace, rady zaměstnanců, zástupce pro BOZP).
+- *Judikatura:* obecný závěr správních soudů, že ne každá procesní vada vede k nezákonnosti rozhodnutí — relevantní je, zda vada mohla mít vliv na zákonnost výsledku (materiální pojetí vad řízení).
+
+**4. Subsumpce.** Odborová organizace u zaměstnavatele „působí" → vznikla povinnost dle § 8 písm. a) informovat ji o zahájení kontroly. Inspektor povinnost porušil. Jde však o povinnost informační (umožnit faktický vliv), nikoli o podmínku platnosti kontroly; zákon nestanoví, že by její porušení bez dalšího rušilo výsledek.
+
+**5. Řešení.** Inspektor pochybil — porušil § 8 písm. a). Toto pochybení samo o sobě zpravidla nezpůsobuje nezákonnost kontroly ani neplatnost opatření, ledaže by mělo konkrétní vliv na zákonnost zjištění (např. odborová organizace by doložila, že mohla poskytnout podstatné informace měnící výsledek). Obrana zaměstnavatele/odborů uspěje jen, prokáže-li takový vliv. Náprava: vada se vytkne v námitkách proti protokolu (kontrolní řád); orgán ji posoudí z hlediska možného vlivu na výsledek. Informační povinnost je přitom protiváhou oprávnění inspektora dotazovat se zaměstnanců bez přítomnosti odborů (§ 7 odst. 1 písm. d)).
+
+**6. Varianty.** (a) Pokud by u zaměstnavatele žádný odborový orgán, rada zaměstnanců ani zástupce pro BOZP nepůsobil, povinnost by nevznikla a námitka by byla bezpředmětná. (b) Pokud by porušení informační povinnosti prokazatelně znemožnilo zjistit klíčové skutečnosti ve prospěch zaměstnavatele, mohlo by vést ke zrušení uloženého opatření pro vadu řízení s vlivem na zákonnost.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: každé porušení zákonné povinnosti inspektora činí kontrolu nezákonnou. Neutralizace: převažuje materiální pojetí vad — rozhodný je vliv vady na zákonnost výsledku, nikoli vada sama o sobě.
+- Protiargument: § 8 obsahuje jen dvě povinnosti, takže inspektor jiné povinnosti nemá. Neutralizace: katalog je neúplný; další povinnosti plynou subsidiárně z kontrolního řádu (§ 8 KŘ) a obecných zásad správního postupu.
+- Slabé místo: tvrzení o vlivu vady na výsledek nese ten, kdo nezákonnost namítá; bez konkrétního doložení vlivu námitka neobstojí.
+
+#### H. Praktický závěr
+
+§ 8 ukládá inspektorovi dvě výslovné povinnosti — informovat působící zástupce zaměstnanců (odbory/radu/zástupce BOZP) o zahájení kontroly (písm. a)) a pořídit dílčí protokol jako součást protokolu (písm. b)). Výčet je neúplný; ostatní povinnosti plynou ze subsidiárního kontrolního řádu. Porušení informační povinnosti je vadou posuzovanou podle vlivu na zákonnost výsledku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Před zahájením kontroly ověřit, zda u kontrolované osoby působí odbory, rada zaměstnanců nebo zástupce pro BOZP, a informovat je (písm. a)).
+- [ ] Ústní rozhodnutí (§ 7 odst. 1 písm. g), h)) zaznamenat do dílčího protokolu a začlenit do protokolu (písm. b)).
+- [ ] Další povinnosti inspektora čerpat subsidiárně z kontrolního řádu (§ 8 KŘ).
+- [ ] Případnou vadu (neinformování) namítat v námitkách proti protokolu a doložit její vliv na výsledek.
+
+**Typicky rozhodné důkazy / podklady:** doklad o (ne)působení zástupců zaměstnanců u kontrolované osoby, doklad o informování o zahájení kontroly, protokol a dílčí protokol, námitky a jejich vypořádání.
+
 ---
 
 ### § 9 — Povinnosti kontrolované osoby
@@ -691,6 +1017,42 @@ Porušení povinnosti uposlechnout výzvy zakládá odpovědnost za přestupek (
 #### Odst. 2 — povinná účast na projednání výsledků kontroly
 
 Oprávnění zaměstnanci nebo zástupci kontrolované osoby jsou povinni dostavit se k projednání výsledků kontroly. Tato povinnost je procesně důležitá: projednání výsledků kontroly před vydáním protokolu je součástí práva kontrolované osoby vyjádřit se ke zjištěním a uplatnit námitky. Nesplnění povinnosti dostavit se k projednání však nevede k tomu, že by kontrolovaná osoba ztratila právo na vyjádření — inspektor je povinen jí toto právo poskytnout jinak (písemně).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Inspektorát kontroluje agenturu práce bez stálého sídla; podklady (smlouvy s vyslanými zaměstnanci, evidence odpracované doby) jsou rozsáhlé a roztroušené. Inspektor písemně vyzve jednatele agentury, aby se v určené lhůtě dostavil na pracoviště inspektorátu a předložil tam dokumenty související s kontrolou. Jednatel se nedostaví ani dokumenty nepředloží; tvrdí, že byl „zaneprázdněn jednáním s klienty", ale nic nedoloží. Inspektorát zahájí řízení o přestupku za neuposlechnutí výzvy. Důkazy: písemná výzva s vymezením lhůty a podkladů, doklad o doručení, evidence (ne)dostavení a (ne)předložení.
+
+**2. Právní otázka.** Byla výzva k dostavení se a předložení podkladů zákonná (odůvodněný případ) a představuje „zaneprázdnění klienty" vážnou překážku zprošťující povinnosti uposlechnout dle § 9 odst. 1?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 odst. 1 ZIP (inspektor může v odůvodněných případech vyzvat kontrolovanou osobu k dostavení se a poskytnutí údajů/dokumentů/věcí; povinnost uposlechnout, neprokáže-li vážnou překážku), odst. 2 (povinná účast na projednání výsledků kontroly).
+- *Související ustanovení téhož zákona:* § 7 odst. 1 (oprávnění inspektora), § 5 odst. 1 (výkon kontroly), část čtvrtá — přestupky za neposkytnutí součinnosti (viz [02-cast4-prestupky-a.md](02-cast4-prestupky-a.md)).
+- *Související předpisy:* zákon č. 255/2012 Sb., kontrolní řád (§ 10 — povinnosti kontrolované osoby, subsidiárně); zákon č. 250/2016 Sb., o odpovědnosti za přestupky; čl. 2 odst. 3 Listiny (povinnosti jen na základě zákona).
+- *Judikatura:* obecný závěr, že povinnost součinnosti při kontrole je zákonná a vynutitelná, přičemž „vážnou překážku" musí prokázat povinný a musí jít o objektivní nemožnost, nikoli o pouhou nepříležitost.
+
+**4. Subsumpce.** Agentura nemá stálé pracoviště a podklady jsou rozsáhlé → „odůvodněný případ" pro výzvu k dostavení se na inspektorát je naplněn. Výzva byla písemná, s lhůtou a vymezením podkladů → splňuje zákonné náležitosti. Jednatel se nedostavil a tvrzenou překážku (zaneprázdnění) nedoložil → vážná překázka prokázána nebyla; pouhá neochota/nepříležitost jí není.
+
+**5. Řešení.** Výzva je zákonná a jednatel byl povinen ji uposlechnout. Neprokázal-li vážnou překážku (objektivní nemožnost — nemoc, havárie, doložená nepřítomnost klíčové osoby), zakládá jeho nesoučinnost odpovědnost za přestupek za neposkytnutí součinnosti. Inspektorát postupuje správně, vede-li řízení o přestupku; současně může trvat na předložení podkladů. Riziko pro orgán: výzva bez řádného odůvodnění „odůvodněného případu" by byla nezákonná a sankce by neobstála — odůvodnění je proto třeba ve výzvě uvést.
+
+**6. Varianty.** (a) Pokud by jednatel doložil objektivní překážku (např. hospitalizaci) bránící splnění ve lhůtě, povinnost by se posunula a sankce by nebyla namístě; inspektor by měl lhůtu přiměřeně prodloužit. (b) Pokud by výzva postrádala odůvodnění (proč nelze podklady získat na místě), šlo by o nezákonný úkon a neuposlechnutí by nebylo sankcionovatelné.
+
+#### G. Protiargumenty a rizika
+
+- Protiargument: přenesení místa plnění na inspektorát je nepřiměřeným zásahem, podklady měly být vyžádány na pracovišti. Neutralizace: zákon výzvu výslovně umožňuje v „odůvodněných případech" (absence pracoviště, rozsáhlost, riziko zatajení); je-li odůvodnění uvedeno, jde o zákonný postup.
+- Protiargument: „vážná překážka" zahrnuje i provozní vytíženost. Neutralizace: vážnou překážkou je objektivní nemožnost, nikoli běžné podnikatelské zaneprázdnění; důkazní břemeno nese povinný.
+- Slabé místo: zákonnost sankce stojí a padá s řádným odůvodněním „odůvodněného případu" ve výzvě; jeho absence je nejčastější vadou.
+
+#### H. Praktický závěr
+
+§ 9 ukládá kontrolované osobě aktivní součinnost: na odůvodněnou písemnou výzvu se dostavit a předložit údaje/dokumenty/věci (odst. 1) a dostavit se k projednání výsledků kontroly (odst. 2). Jedinou obranou proti výzvě je prokázání vážné (objektivní) překážky; neuposlechnutí je přestupkem. Nedostavení se k projednání nezbavuje kontrolovanou osobu práva vyjádřit se (inspektor je povinen toto právo poskytnout jinak, písemně).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ve výzvě dle odst. 1 uvést odůvodnění „odůvodněného případu", lhůtu a konkrétní podklady; zajistit doručení.
+- [ ] Tvrzenou vážnou překážku doložit objektivními důkazy (nestačí pouhé zaneprázdnění).
+- [ ] Při nedostavení se k projednání výsledků (odst. 2) poskytnout právo vyjádřit se jinak (písemně).
+- [ ] Neposkytnutí součinnosti posoudit jako přestupek (viz část čtvrtá), je-li výzva zákonná.
+
+**Typicky rozhodné důkazy / podklady:** písemná výzva s odůvodněním a lhůtou, doklad o doručení, evidence dostavení/předložení podkladů, důkazy o tvrzené vážné překážce, protokol o projednání výsledků kontroly.
 
 ---
 

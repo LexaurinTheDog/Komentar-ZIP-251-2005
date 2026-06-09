@@ -39,6 +39,43 @@ Zatímco § 22a dopadá na právnické osoby a podnikající fyzické osoby, § 
 
 Horní hranice pokuty je 1 000 000 Kč. Sazba je shodná s nejpřísnějšími sankcemi v katalogu přestupků zaměstnavatelů (srov. § 24 odst. 2 písm. a, § 26 odst. 2 písm. a). Při stanovení výše pokuty se postupuje podle zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich; přihlíží se zejména k závažnosti narušení kontrolní činnosti, délce trvání protiprávního stavu a k tomu, zda kontrolovaná osoba odmítla součinnost záměrně nebo v důsledku organizačního selhání.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Oblastní inspektorát práce zahájil u společnosti STAVO s.r.o. kontrolu dodržování pracovněprávních předpisů. Inspektor se prokázal pověřením a vyzval jednatele k předložení mzdových listů, evidence pracovní doby a pracovních smluv za posledních 12 měsíců a ke vstupu na pracoviště (sklad a dílnu). Jednatel inspektora na pracoviště nevpustil s odůvodněním, že „nemá čas", a požadované doklady ani po písemné výzvě s lhůtou 8 dnů nepředložil. Účastníci: STAVO s.r.o. jako kontrolovaná osoba (§ 9 ZoIP), OIP jako kontrolní orgán, inspektor jako pověřená úřední osoba. Důkazy k obstarání: pověření ke kontrole, protokol o odepření vstupu, písemná výzva s doručenkou, úřední záznam inspektora.
+
+**2. Právní otázka.** Zakládá odepření vstupu na pracoviště a nepředložení dokladů ve stanovené lhůtě jeden, či více přestupků podle § 22a ve spojení s § 9 ZoIP, a od kterého okamžiku je přestupek dokonán?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22a ZoIP — přestupek kontrolované osoby (právnické/podnikající FO) za nesplnění povinnosti podle § 9; pokuta do 1 000 000 Kč.
+- *Související ustanovení téhož zákona:* § 9 (povinnosti kontrolované osoby — vstup, součinnost, vysvětlení, opatření k nápravě); § 22 (paralelní přestupek FO dle § 9a, do 100 000 Kč); § 35 (příslušnost k projednání).
+- *Související předpisy:* zákon č. 250/2016 Sb. (řízení a ukládání pokut); zákon č. 255/2012 Sb., kontrolní řád (procesní rámec kontroly a povinnosti kontrolované osoby).
+- *Judikatura:* nosný závěr správních soudů — odepření součinnosti při kontrole je dokonáno již nesplněním povinnosti, bez ohledu na to, zda kontrolní orgán cíl kontroly nakonec splnil jinak; opakované odepření různých povinností lze posoudit jako souběh přestupků téže skutkové podstaty.
+
+**4. Subsumpce.** Subjekt — právnická osoba (s.r.o.) v postavení kontrolované osoby: splněno. Jednání — odepření vstupu (§ 9 odst. 1 písm. a) a nepředložení dokladů (§ 9 odst. 1 písm. b): dvě samostatná porušení § 9. Zavinění u právnické osoby se neposuzuje (objektivní odpovědnost dle § 20 a násl. zák. č. 250/2016 Sb.); liberace by vyžadovala prokázání vynaložení veškerého úsilí. Spornou otázkou je toliko počet skutků, nikoli naplnění znaků.
+
+**5. Řešení.** OIP vydá příkaz/rozhodnutí o přestupku podle § 22a; protiprávní jednání trvalo a bylo úmyslné (odmítnutí „nemám čas"), což je přitěžující. Procesní kroky: úřední záznam o odepření, opakovaná výzva, případně pořádková pokuta dle kontrolního řádu (vedle přestupkové sankce). Pravděpodobný výsledek: pokuta v dolní až střední části sazby, pokud nešlo o maření rozsáhlé kontroly. Riziko: nesprávné kvalifikování dvou porušení jako jednoho skutku snižuje výši pokuty.
+
+**6. Varianty.** (a) Pokud by jednatel doklady předložil hned po druhé výzvě, šlo by jen o dílčí prodlení — nižší závažnost, možnost odložení dle § 36. (b) Pokud by kontrolovaným subjektem byla nepodnikající fyzická osoba (např. pronajímatel bytu kontrolovaný kvůli nelegální práci), aplikoval by se § 22 (do 100 000 Kč), nikoli § 22a.
+
+#### G. Protiargumenty a rizika
+
+- **Tvrzení o nedoručení výzvy:** kontrolovaná osoba namítne, že písemnou výzvu neobdržela. Neutralizace — doložit doručenku / fikci doručení dle správního řádu a úřední záznam o ústní výzvě na místě.
+- **Námitka jediného skutku:** obhajoba bude tvrdit, že odepření vstupu i nepředložení dokladů je jediné pokračující jednání. Nutno odlišit, zda šlo o jeden projev vůle (jedno odmítnutí celé kontroly), či o oddělitelná porušení; chybné posouzení ovlivní zákonnost výroku i výši pokuty.
+- **Slabé místo:** absence přesného protokolu o tom, které doklady a v jaké lhůtě byly požadovány; bez toho hrozí neunesení důkazního břemene o naplnění § 9.
+
+#### H. Praktický závěr
+
+§ 22a je procesní „pojistka" kontroly: postihuje kontrolovanou právnickou/podnikající osobu za maření součinnosti dle § 9, a to již okamžikem nesplnění povinnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo pověření ke kontrole řádné a byla osoba prokazatelně vyzvána ke konkrétní povinnosti dle § 9?
+- [ ] Je zdokumentováno, která povinnost (vstup/doklady/vysvětlení/opatření) nebyla splněna a v jaké lhůtě?
+- [ ] Jde o jeden skutek, nebo souběh více porušení § 9?
+- [ ] Nebyl účel kontroly dosažen jinak tak, že přichází v úvahu odložení dle § 36?
+- [ ] Je subjekt skutečně PO/podnikající FO (§ 22a), nikoli nepodnikající FO (§ 22)?
+
+**Typicky rozhodné důkazy / podklady:** pověření ke kontrole, protokol/úřední záznam o odepření vstupu či součinnosti, písemná výzva s doručenkou, kontrolní protokol, korespondence s kontrolovanou osobou.
+
 ---
 
 ### § 23 — Přestupky právnických a podnikajících fyzických osob na úseku součinnosti zaměstnavatele a orgánu jednajícího za zaměstnance
@@ -69,6 +106,42 @@ Paralela s přestupkem fyzické osoby-zaměstnavatele (§ 12 ZoIP, viz [02-cast4
 #### Sankce
 
 Horní hranice pokuty 200 000 Kč. Jedná se o nejnižší sazbu v celé Části čtvrté, odrážející převážně formálně-procedurální charakter porušení (neposkytnutí informace, neprojednání). Na ukládání pokut se plně vztahuje zákon č. 250/2016 Sb. (§ 37 a násl.); přiměřenost sankce je nutno poměřit zejména závažností narušení práv zaměstnaneckých zástupců a délkou trvání protiprávního stavu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** U zaměstnavatele METALPLAST a.s. (450 zaměstnanců) působí základní odborová organizace. Zaměstnavatel rozhodl o organizační změně se zrušením 60 pracovních míst (hromadné propouštění). Odborové organizaci neposkytl informace dle § 62 ZP (důvody propouštění, počet a profese dotčených zaměstnanců, kritéria výběru) a věc s ní neprojednal; rovněž po celý rok neinformoval radu zaměstnanců o ekonomické situaci dle § 279 ZP. Odbory podaly podnět na inspektorát. Účastníci: METALPLAST a.s. (zaměstnavatel), ZO odborového svazu, OIP. Důkazy: zápisy z jednání (či jejich absence), korespondence, oznámení o hromadném propouštění zaslané úřadu práce, interní rozhodnutí o organizační změně.
+
+**2. Právní otázka.** Naplní neposkytnutí informací a neprojednání hromadného propouštění s odborovou organizací znaky přestupku podle § 23 ZoIP, i když zaměstnavatel splnil oznamovací povinnost vůči úřadu práce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23 ZoIP — přestupek na úseku součinnosti se zástupci zaměstnanců (blanket na §§ 62, 277, 279, 280, 287, 339 odst. 1 ZP); pokuta do 200 000 Kč.
+- *Související ustanovení téhož zákona:* § 12 ZoIP (paralelní přestupek FO-zaměstnavatele); § 35 (příslušnost).
+- *Související předpisy:* zákoník práce — § 62 (hromadné propouštění), § 279, § 280 (právo na informace a projednání); zák. č. 250/2016 Sb. (řízení).
+- *Judikatura:* nosný závěr — informační a projednací povinnost vůči zástupcům zaměstnanců je samostatná a její splnění nelze nahradit oznámením úřadu práce; projednání musí proběhnout v době, kdy lze ještě ovlivnit rozhodnutí, jinak je formální a povinnost není splněna.
+
+**4. Subsumpce.** Subjekt — akciová společnost jako zaměstnavatel: splněno. Existuje odborová organizace, tedy adresát součinnosti: splněno. Porušení § 62 ZP (neinformování a neprojednání hromadného propouštění) a § 279 ZP (neinformování rady): naplněno. Splnění povinnosti vůči úřadu práce je samostatná povinnost a nevylučuje přestupek dle § 23. Sporné může být, zda projednání proběhlo „včas" — pokud zaměstnavatel doložil byť opožděné jednání, jde o nižší závažnost, nikoli o vyloučení odpovědnosti.
+
+**5. Řešení.** OIP kvalifikuje skutek dle § 23; půjde zpravidla o jeden přestupek se dvěma porušeními ZP, případně o souběh. Sazba je relativně nízká (200 000 Kč), ale závažnost zvyšuje rozsah propouštění a dotčení kolektivních práv. Procesně: opatřit zápisy/jejich absenci, vyžádat oznámení úřadu práce. Pravděpodobně pokuta ve střední části sazby. Riziko: pokud zaměstnavatel prokáže alespoň částečné projednání, závažnost klesá.
+
+**6. Varianty.** (a) Kdyby u zaměstnavatele žádný zástupce zaměstnanců nepůsobil, povinnosti dle § 279/280 ZP by se transformovaly na přímou informační povinnost vůči zaměstnancům a skutková podstata § 23 (vůči odborům/radě) by se neuplatnila. (b) Kdyby pachatelem byla podnikající FO-zaměstnavatel místo a.s., kvalifikace dle § 23 zůstává (subjektem je i podnikající FO); u nepodnikající FO by šlo o § 12.
+
+#### G. Protiargumenty a rizika
+
+- **„Projednání proběhlo neformálně":** zaměstnavatel namítne ústní informování. Neutralizace — § 62/280 ZP vyžaduje projednání s cílem dosáhnout shody a v zákonné struktuře; bez doložitelného obsahu a včasnosti je povinnost nesplněna.
+- **Spor o okruh povinností:** obhajoba zúží přestupek jen na jedno z odkazovaných ustanovení ZP. Nutno přesně identifikovat, které konkrétní ustanovení (§ 62 vs. § 279) bylo porušeno — blanket vyžaduje konkretizaci ve výroku.
+- **Slabé místo:** nízká horní sazba činí sankci málo odstrašující; chybí-li přesná dokumentace termínů, hrozí důkazní nouze ohledně „včasnosti".
+
+#### H. Praktický závěr
+
+§ 23 vynucuje kolektivní informační a projednací práva; je to nejmírněji sankcionovaná skutková podstata Části čtvrté (do 200 000 Kč), procedurální povahy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Které konkrétní ustanovení ZP (§ 62/277/279/280/287/339) bylo porušeno?
+- [ ] Existoval u zaměstnavatele odborový orgán, rada zaměstnanců či zástupce pro BOZP?
+- [ ] Bylo projednání/informování provedeno včas a v zákonné struktuře, nebo jen formálně?
+- [ ] Je porušení doloženo zápisy, resp. jejich prokazatelnou absencí?
+
+**Typicky rozhodné důkazy / podklady:** zápisy z jednání s odbory/radou, písemná oznámení a informace, kolektivní smlouva, oznámení o hromadném propouštění úřadu práce, podnět zástupců zaměstnanců.
 
 ---
 
@@ -119,6 +192,43 @@ Horní hranice pokuty 200 000 Kč. Jedná se o nejnižší sazbu v celé Části
 
 Vyšší sazba pro skupinu 1 odráží závažnost diskriminace a viktimizace jako závažných zásahů do lidské důstojnosti a pracovněprávního postavení zaměstnance.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyně paní N. pracuje jako účetní u společnosti FINSERV s.r.o. Po návratu z rodičovské dovolené podala zaměstnavateli stížnost, že muž na srovnatelné pozici pobírá o 20 % vyšší mzdu při stejné náplni práce. Zaměstnavatel stížnost neprojednal a o měsíc později ji bez objektivního důvodu přeřadil na méně placenou pozici a odebral jí osobní příplatek. Ve mzdovém předpisu má klauzuli zakazující zaměstnancům „sdělovat třetím osobám výši své mzdy". Účastníci: paní N. (zaměstnankyně), FINSERV s.r.o. (zaměstnavatel), OIP. Důkazy: mzdové listy obou zaměstnanců, popisy pracovních míst, stížnost a doklad o jejím (ne)projednání, rozhodnutí o přeřazení, mzdový předpis.
+
+**2. Právní otázka.** Naplnil zaměstnavatel současně více skutkových podstat § 24 (nerovné odměňování / viktimizace / neprojednání stížnosti / omezení nakládání s informacemi o mzdě) a v jaké sazbě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 ZoIP — rovné zacházení; písm. a)/b)/c) do 1 000 000 Kč, písm. d)/e) do 400 000 Kč.
+- *Související ustanovení téhož zákona:* § 26 ZoIP (odměňování — písm. a stejná mzda za stejnou práci); § 12 (paralela u FO).
+- *Související předpisy:* § 16, § 110, § 276 odst. 9 ZP; zákon č. 198/2009 Sb. (antidiskriminační); zák. č. 285/2020 Sb. (právo sdílet informace o mzdě); zák. č. 250/2016 Sb.
+- *Judikatura:* nosný závěr — v diskriminačních sporech platí sdílené důkazní břemeno (žalobce/oznamovatel tvrdí a osvědčí znevýhodnění + důvod, zaměstnavatel prokazuje objektivní ospravedlnění); odlišná mzda za stejnou práci je důvodná jen při objektivních a měřitelných kritériích (výkon, praxe, kvalifikace).
+
+**4. Subsumpce.** Subjekt — s.r.o. jako zaměstnavatel: splněno. (i) Nerovné odměňování / případná diskriminace dle pohlaví — písm. a), event. b): rozdíl 20 % bez objektivního důvodu indikuje naplnění. (ii) Přeřazení a odebrání příplatku po podání stížnosti — písm. c) viktimizace: časová a věcná souvislost svědčí o postihu za uplatnění práva. (iii) Neprojednání stížnosti — písm. d). (iv) Klauzule o zákazu sdílení mzdy — písm. e). Spornou zůstává otázka objektivního ospravedlnění mzdového rozdílu, kterou musí prokázat zaměstnavatel.
+
+**5. Řešení.** Jde o souběh několika přestupků v rámci § 24 s odlišnými sazbami; pokuta se ukládá podle zásad pro souběh (zásada absorpce dle zák. č. 250/2016 Sb. — sankce dle nejpřísněji postižitelného, k ostatním se přihlédne jako k přitěžující okolnosti). Nejpřísnější je písm. a)/c) (1 000 000 Kč). Procesně: porovnat mzdové listy a popisy práce, vyžádat zdůvodnění rozdílu. Pravděpodobný výsledek: citelná pokuta, neboť viktimizace je závažný zásah. Riziko: pokud zaměstnavatel doloží objektivní kritéria (vyšší výkon, delší praxe muže), odpadne písm. a)/b), zůstanou písm. c), d), e).
+
+**6. Varianty.** (a) Kdyby zaměstnavatel rozdíl doložil doložitelně vyšší kvalifikací a výkonem srovnávaného zaměstnance, nešlo by o porušení písm. a). (b) Kdyby přeřazení proběhlo z prokazatelně provozních důvodů a bez vazby na stížnost, odpadla by viktimizace (písm. c).
+
+#### G. Protiargumenty a rizika
+
+- **Objektivní ospravedlnění rozdílu:** nejsilnější obrana zaměstnavatele. Nutno trvat na tom, že kritéria musí být předem stanovená, transparentní a měřitelná, ne dodatečně konstruovaná.
+- **Příčinná souvislost u viktimizace:** obhajoba popře vazbu přeřazení na stížnost. Neutralizace — krátký časový odstup, absence jiného důvodu a dosavadní dobré hodnocení zaměstnankyně tvoří indicie postihu.
+- **Slabé místo:** subjektivní prvek diskriminace se obtížně prokazuje; bez srovnatelného „komparátora" (zaměstnance v obdobném postavení) hrozí neunesení důkazního břemene u písm. a)/b).
+
+#### H. Praktický závěr
+
+§ 24 je centrální nástroj proti nerovnému zacházení, diskriminaci a viktimizaci; rozlišuje přísné jádro (písm. a–c, 1 000 000 Kč) a procedurální okraj (písm. d, e, 400 000 Kč).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje srovnatelný zaměstnanec a je rozdíl objektivně ospravedlnitelný?
+- [ ] Následoval znevýhodňující úkon po uplatnění práva (viktimizace) a je dána příčinná souvislost?
+- [ ] Byla stížnost zaměstnance projednána (písm. d)?
+- [ ] Neomezuje zaměstnavatel smluvně/fakticky sdílení informací o mzdě (písm. e)?
+- [ ] Která sazba je rozhodná a jak se posoudí souběh skutkových podstat?
+
+**Typicky rozhodné důkazy / podklady:** mzdové listy a popisy pracovních míst srovnávaných zaměstnanců, stížnost a doklad o projednání, rozhodnutí o přeřazení/odebrání složky mzdy, mzdový/vnitřní předpis, pracovní hodnocení.
+
 ---
 
 ### § 24a — Přestupky právnických a podnikajících fyzických osob na úseku ochrany soukromí a osobních práv zaměstnanců
@@ -152,6 +262,42 @@ Vyšší sazba pro skupinu 1 odráží závažnost diskriminace a viktimizace ja
 | písm. c) | § 316 odst. 4 ZP | Dotazy na osobní nebo rodinné poměry, politické nebo náboženské přesvědčení, případně jiné informace nesouvisející s výkonem práce |
 
 Sazby odrážejí intenzitu zásahu: aktivní narušení soukromí (písm. a) a neoprávněné dotazy (písm. c) jsou sankcionovány až 1 000 000 Kč, zatímco pouhé nesplnění informační povinnosti o způsobu kontroly (písm. b) jen 100 000 Kč.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost LOGISTIK s.r.o. nainstalovala na pracovišti kamerový systém se záznamem snímající i odpočinkovou místnost zaměstnanců a software monitorující obsah služebních e-mailů a navštívené webové stránky jednotlivých zaměstnanců. Zaměstnance o rozsahu a způsobu sledování předem neinformovala. Při přijímacím pohovoru navíc personalistka uchazečům kladla dotazy na plánované rodičovství a členství v odborech. Účastníci: LOGISTIK s.r.o. (zaměstnavatel), zaměstnanci a uchazeči, OIP. Důkazy: dokumentace kamerového a monitorovacího systému, vnitřní předpis, záznam o (ne)informování zaměstnanců, svědecké výpovědi uchazečů, formuláře pohovorů.
+
+**2. Právní otázka.** Naplnilo zavedení monitoringu bez informování a kladení dotazů nesouvisejících s prací znaky přestupků dle § 24a písm. a), b) a c) ZoIP, a v jakých sazbách?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24a ZoIP — ochrana soukromí; písm. a)/c) do 1 000 000 Kč, písm. b) do 100 000 Kč.
+- *Související ustanovení téhož zákona:* § 11a ZoIP (paralela u FO-zaměstnavatele); § 35 (příslušnost).
+- *Související předpisy:* § 316 odst. 2, 3, 4 ZP; nařízení (EU) 2016/679 (GDPR) a zákon č. 110/2019 Sb. (souběžná odpovědnost ÚOOÚ za ochranu osobních údajů).
+- *Judikatura:* nosný závěr — sledování zaměstnance na pracovišti je přípustné jen při existenci závažného důvodu na straně zaměstnavatele, v nezbytném rozsahu a po předchozím informování; plošný a trvalý monitoring soukromé komunikace bez závažného důvodu je nepřípustným zásahem do soukromí.
+
+**4. Subsumpce.** Subjekt — s.r.o. jako zaměstnavatel: splněno. (i) Snímání odpočinkové místnosti a monitoring e-mailů bez závažného důvodu / nad nezbytnou míru — písm. a) (§ 316 odst. 2 ZP): naplněno. (ii) Absence předchozí informace o rozsahu a způsobu kontroly — písm. b) (§ 316 odst. 3 ZP): naplněno. (iii) Dotazy na rodičovství a odbory — písm. c) (§ 316 odst. 4 ZP, informace nesouvisející s prací): naplněno. Sporné může být u písm. a) posouzení „závažného důvodu" (např. ochrana majetku ve skladu může ospravedlnit kamery ve skladu, nikoli v odpočinkové místnosti).
+
+**5. Řešení.** Souběh tří přestupků; sankce dle absorpce s nejpřísnější sazbou (písm. a) nebo c) — 1 000 000 Kč), k písm. b) (100 000 Kč) se přihlédne. Procesně: vyžádat dokumentaci systému a doklad o informování, vyslechnout uchazeče. Pravděpodobně střední pokuta vzhledem k intenzitě zásahu do soukromí a rodičovských/odborových dotazům. Riziko: částečné ospravedlnění kamer ve skladu zúží rozsah písm. a) jen na odpočinkovou místnost a monitoring e-mailů.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel kamery omezil výhradně na skladové prostory s cennostmi a zaměstnance předem informoval, odpadla by jak písm. a) (důvod + přiměřenost), tak písm. b). (b) Kdyby monitoring e-mailů sloužil jen k anonymnímu statistickému měření zátěže sítě bez individuálního přiřazení, nešlo by o narušení soukromí konkrétního zaměstnance.
+
+#### G. Protiargumenty a rizika
+
+- **„Závažný důvod" a souhlas:** zaměstnavatel namítne ochranu majetku a souhlas zaměstnanců. Neutralizace — souhlas zaměstnance nelegalizuje plošný zásah; rozhodující je objektivní závažný důvod a přiměřenost, nikoli souhlas v nerovném vztahu.
+- **Překryv s GDPR:** obhajoba poukáže na to, že věc spadá pod ÚOOÚ. Nutno odlišit ochranu soukromí dle § 316 ZP (kompetence inspekce práce) od ochrany osobních údajů (ÚOOÚ) — jde o souběžné, nikoli vylučující se režimy.
+- **Slabé místo:** posouzení „nezbytné míry" je hodnotové; bez znaleckého/technického popisu rozsahu monitoringu hrozí spor o intenzitu zásahu.
+
+#### H. Praktický závěr
+
+§ 24a chrání soukromí zaměstnance na pracovišti; aktivní zásah (písm. a) a neoprávněné dotazy (písm. c) jsou přísně sankcionovány (1 000 000 Kč), pouhé neinformování mírně (písm. b, 100 000 Kč).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje závažný důvod dotýkající se zvlášť důležitého zájmu zaměstnavatele a je sledování přiměřené a nezbytné?
+- [ ] Byli zaměstnanci předem informováni o rozsahu a způsobu kontroly (§ 316 odst. 3 ZP)?
+- [ ] Vyžaduje zaměstnavatel informace nesouvisející s výkonem práce (§ 316 odst. 4 ZP)?
+- [ ] Je třeba věc koordinovat s ÚOOÚ (GDPR)?
+
+**Typicky rozhodné důkazy / podklady:** technická dokumentace kamerového a monitorovacího systému, vnitřní předpis o kontrole, doklad o informování zaměstnanců, formuláře/záznamy z přijímacích pohovorů, svědecké výpovědi.
 
 ---
 
@@ -203,6 +349,43 @@ Sazby odrážejí intenzitu zásahu: aktivní narušení soukromí (písm. a) a 
 
 Nejvyšší pokuta v celé Části čtvrté — 10 000 000 Kč — míří na zaměstnavatele, kteří nepořídí písemné vyhotovení pracovní smlouvy nebo dohody. Tato sazba je záměrně represivní: formální požadavek písemnosti slouží jako základní záchranná síť ochrany zaměstnance (prokazatelnost obsahu, přítomnost zákonem stanovených náležitostí). Bezformálnost pracovní smlouvy je přitom poměrně rozšířenou praxí u menších zaměstnavatelů a v odvětvích s vysokou fluktuací; zákonodárce ji hodnotí jako závažnou a systémovou hrozbu pro pracovněprávní jistotu zaměstnanců.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Restaurace GRILL s.r.o. zaměstnává 6 brigádníků v kuchyni a obsluze. S nimi nikdy neuzavřela písemné dohody o provedení práce (DPP) — pracují „na ústní dohodu". Dva z nich odpracovali přes 300 hodin ročně na DPP (zákonný limit DPP je 300 hodin u téhož zaměstnavatele za kalendářní rok dle § 75 ZP). Při kontrole inspektor zjistil absenci písemných dohod i překročení limitu. Účastníci: GRILL s.r.o. (zaměstnavatel), brigádníci, OIP. Důkazy: rozpisy směn, výplatní doklady, evidence odpracovaných hodin, výslechy brigádníků, absence písemných smluv.
+
+**2. Právní otázka.** Jaká sazba se uplatní za absenci písemné formy dohod (§ 25 odst. 1 písm. b) ve srovnání s překročením rozsahu práce na dohodu (písm. c), a lze obě jednání postihnout současně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25 ZoIP — pracovní poměr a dohody; písm. b) až 10 000 000 Kč (nepisemnost), písm. a)/c)/g) až 2 000 000 Kč, písm. d)–f) až 200 000 Kč.
+- *Související ustanovení téhož zákona:* § 13 ZoIP (paralela u FO); § 33a (agenturní zaměstnávání); § 35.
+- *Související předpisy:* § 34, § 35, § 37, § 37a, § 75, § 77 odst. 4, § 77a, § 77b, § 279 odst. 1 písm. j) ZP; zák. č. 250/2016 Sb.
+- *Judikatura:* nosný závěr — písemná forma pracovní smlouvy/dohody chrání zaměstnance; její absence je samostatným, závažným přestupkem, i když fakticky vztah trvá a mzda je vyplácena; překročení rozsahu DPP je samostatné porušení limitu dle § 75 ZP.
+
+**4. Subsumpce.** Subjekt — s.r.o. jako zaměstnavatel: splněno. (i) Neuzavření DPP písemně — písm. b): naplněno u všech 6 dohod, sazba až 10 000 000 Kč (záměrně represivní). (ii) Překročení 300 hodin u dvou brigádníků — písm. c) (nezajištění nepřekročení rozsahu): naplněno, sazba do 2 000 000 Kč. Jednání jsou oddělitelná (forma vs. rozsah), proto souběh. Sporné není naplnění znaků, ale výše pokuty s ohledem na počet dohod a velikost zaměstnavatele.
+
+**5. Řešení.** Souběh přestupků dle písm. b) a c); absorpční zásada — východiskem je nejpřísněji postižitelné jednání (písm. b, 10 000 000 Kč), počet dotčených dohod a překročení limitu jsou přitěžující. U malého zaměstnavatele je nutno respektovat zásadu přiměřenosti a majetkové poměry — horní sazba je strop, nikoli automatická výše. Procesně: doložit rozpisy směn a výplaty jako důkaz faktického výkonu práce bez písemné dohody. Pravděpodobný výsledek: citelná pokuta výrazně pod horní hranicí. Riziko: nepřiměřeně vysoká pokuta by byla v rozporu se zásadou proporcionality.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel dohody uzavřel písemně, ale opomněl některé informační náležitosti dle § 37/37a ZP, šlo by jen o písm. d) se sazbou 200 000 Kč. (b) Kdyby brigádníci nepřekročili limit 300 hodin, odpadlo by písm. c) a zůstala jen nepisemnost (písm. b).
+
+#### G. Protiargumenty a rizika
+
+- **Faktický pracovní poměr:** obhajoba namítne, že vztah platně vznikl konkludentně. Neutralizace — i fakticky vzniklý vztah nezhojuje absenci písemné formy, jejíž porušení § 25 odst. 1 písm. b) sankcionuje samostatně.
+- **Proporcionalita sazby:** u drobného podnikatele hrozí likvidační pokuta. Nutno argumentovat majetkovými poměry a polehčujícími okolnostmi; horní hranice 10 mil. Kč míří na systémové porušovatele.
+- **Slabé místo:** prokázání výkonu práce bez písemné dohody stojí na svědectvích a nepřímých dokladech (rozpisy, výplaty); při jejich absenci hrozí důkazní nouze.
+
+#### H. Praktický závěr
+
+§ 25 chrání základní formální a obsahové standardy pracovněprávních vztahů; nepisemnost smlouvy/dohody (písm. b) je nejpřísněji postižitelným přestupkem celé Části čtvrté (10 000 000 Kč).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla pracovní smlouva / DPP / DPČ uzavřena písemně (písm. b)?
+- [ ] Nepřekročil zaměstnanec zákonný rozsah práce na dohodu (písm. c, § 75 ZP)?
+- [ ] Byly splněny informační povinnosti dle § 37/37a/77a/77b ZP (písm. d)?
+- [ ] Jde o souběh více skutkových podstat a jak se promítne do výše pokuty?
+- [ ] Je výše sankce přiměřená majetkovým poměrům zaměstnavatele?
+
+**Typicky rozhodné důkazy / podklady:** písemná vyhotovení (či jejich absence) smluv a dohod, rozpisy směn, evidence odpracovaných hodin, výplatní doklady, výslechy zaměstnanců, informace o náležitostech dle § 37/37a ZP.
+
 ---
 
 ### § 25a — Přestupky právnických a podnikajících fyzických osob na úseku práce na dálku
@@ -229,6 +412,42 @@ Nejvyšší pokuta v celé Části čtvrté — 10 000 000 Kč — míří na za
 | písm. b) | § 317 odst. 2 a 3 ZP — povinnosti zaměstnavatele (podmínky výkonu, náhrady nákladů, rozvrhování pracovní doby na dálku) |
 
 Jednotná horní hranice 300 000 Kč je nižší než u srovnatelného porušení písemnosti pracovní smlouvy (§ 25 písm. b), přičemž nedohoda o práci na dálku nemá stejně fatální důsledky jako absence písemné pracovní smlouvy.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost SOFTDEV s.r.o. umožnila polovině svých vývojářů pracovat trvale z domova. Dohodu o práci na dálku s nimi neuzavřela písemně (vše jen e-mailem bez podpisu) a nesjednala podmínky náhrady nákladů ani způsob rozvržení pracovní doby na dálku. Zaměstnanec, který vykonával práci v noci a o víkendech bez evidence, podal podnět na inspektorát. Účastníci: SOFTDEV s.r.o. (zaměstnavatel), zaměstnanci na dálku, OIP. Důkazy: e-mailová komunikace o home office, absence písemné dohody, vnitřní předpis (či jeho absence), evidence pracovní doby.
+
+**2. Právní otázka.** Naplnilo neuzavření písemné dohody o práci na dálku a nesplnění souvisejících povinností znaky přestupku dle § 25a odst. 1 písm. a) a b) ZoIP?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25a ZoIP — práce na dálku; pokuta až 300 000 Kč.
+- *Související ustanovení téhož zákona:* § 25 ZoIP (písemnost pracovní smlouvy — vyšší sazby); § 28 (pracovní doba a evidence); § 35.
+- *Související předpisy:* § 317 odst. 1, 2, 3 ZP (po novele č. 281/2023 Sb.); zák. č. 250/2016 Sb.
+- *Judikatura:* (oblast nová — ustálená judikatura se teprve vytváří) nosný výkladový závěr — písemná forma dohody o práci na dálku je obligatorní a chrání zaměstnance ohledně podmínek a náhrad; její absence je samostatným přestupkem nezávisle na tom, že práce na dálku fakticky probíhá.
+
+**4. Subsumpce.** Subjekt — s.r.o. jako zaměstnavatel: splněno. (i) Neuzavření dohody o práci na dálku písemně — písm. a) (§ 317 odst. 1 ZP): e-mail bez podpisu nesplňuje požadavek písemné formy → naplněno. (ii) Nesplnění povinností dle § 317 odst. 2–3 ZP (náhrady nákladů, podmínky výkonu) — písm. b): naplněno. Jde o dvě porušení jednoho úseku. Sporné: zda e-mailová komunikace nemohla naplnit písemnou formu — u prosté e-mailové zprávy bez uznávaného el. podpisu zpravidla nikoli.
+
+**5. Řešení.** OIP kvalifikuje skutek dle § 25a; jednotná horní sazba 300 000 Kč. Pokuta se stanoví podle počtu dotčených zaměstnanců a délky trvání stavu. Procesně: vyžádat dohody (jejich absenci), vnitřní předpis, evidenci. Pravděpodobný výsledek: pokuta v dolní až střední části sazby, neboť následky nejsou tak fatální jako absence pracovní smlouvy (§ 25 písm. b). Souběh s § 28 (chybějící evidence pracovní doby) je možný a posuzuje se samostatně.
+
+**6. Varianty.** (a) Kdyby dohoda byla uzavřena s uznávaným elektronickým podpisem, byla by splněna písemná forma a písm. a) by odpadlo. (b) Kdyby zaměstnavatel sjednal náhrady i rozvržení doby a doložil je, odpadlo by písm. b) a zůstala jen otázka formy.
+
+#### G. Protiargumenty a rizika
+
+- **„E-mail je písemná forma":** zaměstnavatel namítne, že korespondence postačuje. Neutralizace — § 562 obč. zák. a § 317 ZP vyžadují u dohody o práci na dálku kvalifikovanou písemnost; prostý e-mail bez podpisu ji zpravidla nenaplňuje.
+- **Novost úpravy a omluvitelný omyl:** obhajoba poukáže na čerstvost úpravy (novela 2023). Nutno odlišit neznalost práva (neomlouvá) od skutkového omylu; u profesionálního subjektu se předpokládá znalost.
+- **Slabé místo:** malá horní sazba činí sankci málo odstrašující; chybějící ustálená judikatura k § 317 ZP zvyšuje výkladovou nejistotu o rozsahu povinností dle písm. b).
+
+#### H. Praktický závěr
+
+§ 25a sankcionuje pochybení při sjednání práce na dálku; jednotná sazba 300 000 Kč je nižší než u absence pracovní smlouvy, protože důsledky jsou méně závažné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla dohoda o práci na dálku uzavřena v písemné formě dle § 317 odst. 1 ZP?
+- [ ] Sjednal zaměstnavatel náhrady nákladů a podmínky výkonu dle § 317 odst. 2–3 ZP (písm. b)?
+- [ ] Nejde současně o porušení evidence pracovní doby (souběh s § 28)?
+- [ ] Kolik zaměstnanců a jak dlouho bylo stavem dotčeno?
+
+**Typicky rozhodné důkazy / podklady:** písemná dohoda o práci na dálku (či její absence), vnitřní předpis o home office, doklady o náhradách nákladů, evidence pracovní doby, e-mailová a jiná komunikace.
 
 ---
 
@@ -300,6 +519,43 @@ Jednotná horní hranice 300 000 Kč je nižší než u srovnatelného porušen�
 
 **Písm. n) — ručitel za mzdové nároky:** § 324a ZP zavádí ručení v řetězci subdodavatelů — hlavní zhotovitel ručí za mzdové nároky zaměstnanců svého subdodavatele. Nesplnění ručitelské povinnosti je sankcionováno až 2 000 000 Kč.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební firma BUILD s.r.o. zaměstnává 40 dělníků. Po dobu tří měsíců vyplácela mzdu se zpožděním 3 týdnů po splatnosti, některým dělníkům vyplatila méně než minimální mzdu (zařadila je do nižší skupiny prací, než jakou skutečně vykonávali), za přesčasovou práci neposkytla mzdu ani příplatek a srážela 500 Kč měsíčně „na nářadí" bez písemné dohody o srážkách. Účastníci: BUILD s.r.o. (zaměstnavatel), dělníci, OIP. Důkazy: mzdové listy, evidence pracovní doby a přesčasů, pracovní náplně, nařízení vlády o minimální/zaručené mzdě, doklady o srážkách, výplatní termíny.
+
+**2. Právní otázka.** Které skutkové podstaty § 26 byly naplněny (minimální/zaručená mzda, prodlení, přesčasy, srážky) a jak se posoudí jejich souběh a sazby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26 ZoIP — odměňování; sazby diferencovány do tří pásem (500 000 / 1 000 000 / 2 000 000 Kč).
+- *Související ustanovení téhož zákona:* § 24 ZoIP (stejná mzda za stejnou práci — překryv s § 26 písm. a); § 27 (náhrady); § 35.
+- *Související předpisy:* § 110, § 111, § 112, § 141 (splatnost), § 114 (přesčas), § 146–149 (srážky) ZP; nařízení vlády o minimální a zaručené mzdě; zák. č. 250/2016 Sb.
+- *Judikatura:* nosný závěr — nedoplacení mzdy do minimální/zaručené výše a opakované prodlení s výplatou jsou závažné přestupky; zařazení do nesprávné (nižší) skupiny prací za účelem obcházení zaručené mzdy je porušením § 112 ZP; srážky bez dohody jsou nepřípustné mimo zákonem stanovené případy.
+
+**4. Subsumpce.** Subjekt — s.r.o. jako zaměstnavatel: splněno. (i) Mzda pod zaručenou úrovní — písm. b) (pásmo III, 2 000 000 Kč): naplněno nesprávným zařazením do skupiny prací. (ii) Prodlení s výplatou — písm. c) (pásmo III): opakované 3týdenní zpoždění. (iii) Neposkytnutí mzdy/příplatku za přesčas — písm. d)/e) (pásmo II, 1 000 000 Kč). (iv) Neoprávněné srážky bez dohody — písm. i) (pásmo III). Naplnění více podstat zakládá souběh; sporné je správné zařazení prací do skupin (skutková otázka vyžadující porovnání náplně práce s nařízením vlády).
+
+**5. Řešení.** Souběh několika přestupků § 26; sankce dle absorpce — východiskem nejpřísnější pásmo III (2 000 000 Kč), ostatní porušení přitěžují. Procesně: porovnat skutečnou náplň práce se zařazením do skupin, vyčíslit nedoplatky, doložit výplatní termíny. Pravděpodobný výsledek: citelná pokuta vzhledem k systémovosti a počtu dotčených zaměstnanců a k zásahu do minimální/zaručené mzdy. Riziko: spor o správné zařazení do skupin prací může část jednání (písm. b) zpochybnit.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel zařadil dělníky do správné skupiny a doplatil rozdíl ještě před rozhodnutím, klesla by závažnost a hrozilo by jen prodlení (písm. c). (b) Kdyby srážky probíhaly na základě řádné písemné dohody o srážkách, písm. i) by odpadlo.
+
+#### G. Protiargumenty a rizika
+
+- **Spor o skupinu prací:** nejsilnější obrana — zaměstnavatel tvrdí správné zařazení dle náplně. Neutralizace — porovnat skutečně vykonávané činnosti s charakteristikami skupin prací dle nařízení vlády, nikoli formální označení pozice.
+- **Platební neschopnost:** obhajoba uvede dočasné finanční potíže jako důvod prodlení. Nutno trvat na tom, že insolvenční potíže neomlouvají porušení povinnosti vyplatit mzdu řádně a včas (objektivní odpovědnost).
+- **Slabé místo:** vyčíslení nedoplatků a přesčasů stojí na evidenci pracovní doby; je-li vedena nedbale nebo chybí, hrozí důkazní obtíže (pak nutno řešit i přestupek dle § 28 písm. k).
+
+#### H. Praktický závěr
+
+§ 26 je nejrozsáhlejší katalog přestupků na úseku odměňování (16 písmen, tři pásma sankcí); jádrem ochrany je minimální/zaručená mzda, řádná a včasná výplata a zákaz neoprávněných srážek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Dosahuje mzda alespoň minimální a zaručené výše dle správného zařazení do skupiny prací (písm. b)?
+- [ ] Byla mzda/plat vyplacena ve stanoveném termínu (písm. c)?
+- [ ] Byla poskytnuta mzda/příplatek/náhradní volno za přesčas a svátek (písm. d, e)?
+- [ ] Probíhají srážky jen na základě dohody nebo zákonného titulu (písm. i)?
+- [ ] Jak se posoudí souběh více podstat a které pásmo je rozhodné?
+
+**Typicky rozhodné důkazy / podklady:** mzdové listy a výplatní pásky, evidence pracovní doby a přesčasů, pracovní náplně/popisy pozic, nařízení vlády o minimální a zaručené mzdě, dohody o srážkách, doklady o termínech výplat.
+
 ---
 
 ### § 27 — Přestupky právnických a podnikajících fyzických osob na úseku náhrad
@@ -319,6 +575,42 @@ Jednotná horní hranice 300 000 Kč je nižší než u srovnatelného porušen�
 - náhrada škody zaměstnanci (§ 265 a násl. ZP).
 
 Horní hranice 200 000 Kč je nižší než u přestupků ve vlastní oblasti odměňování (§ 26), neboť náhrady mají doplňkový charakter. Přestupek na úseku náhrad fyzické osoby-zaměstnavatele (§ 16 ZoIP) je svým obsahem identický; srovnej [02-cast4-prestupky-a.md](02-cast4-prestupky-a.md).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodní společnost TRADE s.r.o. vysílá obchodní zástupce na pravidelné služební cesty po ČR. Po dobu půl roku zaměstnancům neproplácela stravné ani náhradu za použití vlastního vozidla (jízdné dle § 157 a násl. ZP), ačkoli cesty byly řádně nařízeny a doloženy. Jednomu zaměstnanci, který při výkonu práce poškodil vlastní notebook používaný se souhlasem zaměstnavatele, odmítla nahradit škodu. Účastníci: TRADE s.r.o. (zaměstnavatel), obchodní zástupci, OIP. Důkazy: cestovní příkazy, vyúčtování cest, kniha jízd, doklady o nákladech, evidence náhrad.
+
+**2. Právní otázka.** Naplnilo neproplacení cestovních náhrad a náhrady za opotřebení/poškození vlastní věci zaměstnance znaky přestupku na úseku náhrad dle § 27 ZoIP?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27 ZoIP — obecný blanket, neposkytnutí zákonné náhrady mzdy/platu nebo výdajů spojených s výkonem práce; pokuta až 200 000 Kč.
+- *Související ustanovení téhož zákona:* § 26 ZoIP (odměňování — vyšší sazby); § 16 ZoIP (paralela u FO); § 35.
+- *Související předpisy:* § 151 a násl. (cestovní náhrady), § 157 a násl. (jízdné), § 190 (opotřebení vlastního nářadí), § 265 a násl. (náhrada škody) ZP; vyhláška o sazbách stravného; zák. č. 250/2016 Sb.
+- *Judikatura:* nosný závěr — nárok na cestovní náhrady vzniká ze zákona při splnění podmínek pracovní cesty a nelze jej smluvně vyloučit; neproplacení zákonných náhrad je samostatným přestupkem nezávislým na výplatě mzdy.
+
+**4. Subsumpce.** Subjekt — s.r.o. jako zaměstnavatel: splněno. Pracovní cesty byly nařízeny a doloženy → vznikl nárok na stravné a jízdné (§ 151 a násl. ZP). Neproplacení = neposkytnutí náhrady výdajů spojených s výkonem práce → naplnění § 27. Náhrada za poškozený notebook spadá pod náhradu výdajů/škody dle ZP. Sporné může být u notebooku, zda byl používán se souhlasem a v souvislosti s prací (skutková otázka).
+
+**5. Řešení.** OIP kvalifikuje skutek dle § 27; jednotná sazba do 200 000 Kč (nižší než § 26, neboť náhrady mají doplňkový charakter). Pokuta dle počtu zaměstnanců a délky neproplácení. Procesně: doložit cestovní příkazy a vyúčtování, vyčíslit dlužné náhrady. Pravděpodobný výsledek: pokuta ve střední části sazby. Riziko: u náhrady škody na notebooku hrozí spor o souvislost s výkonem práce; tu část lze případně z přestupku vyloučit, samotné cestovní náhrady ji unesou.
+
+**6. Varianty.** (a) Kdyby cesty nebyly nařízeny ani v zájmu zaměstnavatele (soukromé cesty), nárok na náhrady by nevznikl a § 27 by se neuplatnil. (b) Kdyby zaměstnavatel náhrady proplatil opožděně, ale dobrovolně před rozhodnutím, lze zvážit odložení dle § 36 pro dosažení účelu jinak.
+
+#### G. Protiargumenty a rizika
+
+- **Sjednané paušály:** zaměstnavatel namítne, že náhrady byly „zahrnuty do mzdy". Neutralizace — cestovní náhrady jsou samostatným zákonným nárokem, nelze je nahradit mzdou ani vyloučit dohodou v neprospěch zaměstnance.
+- **Spor o souvislost s prací (notebook):** obhajoba popře pracovní souvislost. Nutno doložit pokyn/souhlas k používání vlastní věci a vznik škody při plnění úkolů.
+- **Slabé místo:** nízká sazba činí sankci málo citelnou; rozhraní mezi § 27 (náhrady) a § 26 (odměňování) může vést ke sporu o správnou kvalifikaci a tím i o sazbu.
+
+#### H. Praktický závěr
+
+§ 27 je obecný „záchytný" přestupek pro veškeré neposkytnuté zákonné náhrady (cestovní, za opotřebení, náhrada mzdy při překážkách, náhrada škody); doplňkový charakter náhrad se promítá do nízké sazby (200 000 Kč).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vznikl zaměstnanci zákonný nárok na konkrétní náhradu (cestovní, za opotřebení, náhrada mzdy, škody)?
+- [ ] Byla náhrada poskytnuta v zákonné výši a včas?
+- [ ] Nejde spíše o přestupek na úseku odměňování dle § 26 (správné rozlišení sazby)?
+- [ ] Lze část jednání řešit odložením dle § 36, byla-li náhrada dobrovolně doplacena?
+
+**Typicky rozhodné důkazy / podklady:** cestovní příkazy a jejich vyúčtování, kniha jízd, doklady o výdajích, evidence vyplacených/nevyplacených náhrad, doklad o souhlasu s užitím vlastní věci, podklady k náhradě škody.
 
 ---
 
@@ -406,6 +698,43 @@ Zákon výslovně a přísněji (pásmo III) postihuje:
 - zákaz noční práce mladistvých mimo výchovné účely (§ 245 ZP) — písm. r).
 Práce přesčas mladistvých (§ 245 ZP) je zařazena do pásma IV (2 000 000 Kč) — písm. q) — jako ještě závažnější porušení, neboť jde o absolutní zákaz.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Logistické centrum WAREHOUSE s.r.o. provozuje nepřetržitý třísměnný provoz. Inspektor zjistil, že firma nevede řádnou evidenci pracovní doby (rozpisy jen v sešitě bez začátku/konce směn), pravidelně nařizuje přesčasy nad zákonný limit 8 hodin týdně v průměru / 150 hodin ročně bez dohody, neposkytuje nepřetržitý denní odpočinek v minimálním rozsahu (11 hodin) a jedné těhotné skladnici nařídila přesčasy. Účastníci: WAREHOUSE s.r.o. (zaměstnavatel), zaměstnanci včetně těhotné, OIP. Důkazy: evidence/rozpisy pracovní doby, mzdové listy s přesčasy, lékařské potvrzení o těhotenství, výslechy zaměstnanců.
+
+**2. Právní otázka.** Které skutkové podstaty § 28 byly naplněny (evidence, přesčasy nad limit, denní odpočinek, přesčasy těhotné) a jak se promítnou do čtyř sankčních pásem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 28 ZoIP — pracovní doba; čtyři pásma sankcí (300 000 / 400 000 / 1 000 000 / 2 000 000 Kč).
+- *Související ustanovení téhož zákona:* § 31 ZoIP (zvláštní podmínky — těhotné, mladiství; překryv ochrany); § 30 (BOZP — bezpečnostní přestávky); § 35.
+- *Související předpisy:* § 78–100 ZP (pracovní doba a odpočinek), § 93 (přesčas), § 90 (denní odpočinek), § 96 (evidence), § 241 odst. 3 ZP (zákaz přesčasů těhotných); zák. č. 250/2016 Sb.
+- *Judikatura:* nosný závěr — povinnost vést evidenci pracovní doby je samostatná a její porušení usnadňuje další porušení (přesčasy, odpočinek); zákaz práce přesčas těhotných je absolutní a nelze jej prolomit ani souhlasem zaměstnankyně.
+
+**4. Subsumpce.** Subjekt — s.r.o. jako zaměstnavatel: splněno. (i) Nevedení evidence pracovní doby — písm. k) (pásmo II, 400 000 Kč). (ii) Nestanovení začátku/konce směn — písm. d) (pásmo IV, 2 000 000 Kč). (iii) Přesčasy nad zákonný rámec — písm. n)/o) (pásmo IV/III). (iv) Neposkytnutí denního odpočinku — písm. h) (pásmo III, 1 000 000 Kč). (v) Přesčasy těhotné — písm. p) (pásmo III, 1 000 000 Kč). Naplněno více podstat napříč pásmy → souběh. Sporné může být přesné vyčíslení přesčasů při absentující evidenci (řeší se v neprospěch zaměstnavatele).
+
+**5. Řešení.** Souběh přestupků § 28; absorpční zásada — východiskem nejpřísnější pásmo IV (2 000 000 Kč), ostatní porušení (vč. ochrany těhotné, pásmo III) přitěžují. Procesně: rekonstruovat skutečnou dobu z dostupných podkladů (docházka, kamery, výplaty), využít domněnku v neprospěch toho, kdo nevede evidenci. Pravděpodobný výsledek: vysoká pokuta vzhledem k systémovosti a zásahu do ochrany těhotné. Riziko: bez evidence je obtížné přesně prokázat rozsah přesčasů — nutno opřít se o nepřímé důkazy.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel vedl řádnou evidenci a přesčasy se vešly do limitu se sjednanou dohodou, odpadla by většina podstat a zůstal by jen denní odpočinek či dílčí pochybení. (b) Kdyby u těhotné nešlo o přesčas, ale o noční práci mladistvého (písm. r), kvalifikace by se přesunula, ale rovněž do pásma III.
+
+#### G. Protiargumenty a rizika
+
+- **Konto pracovní doby / nerovnoměrné rozvržení:** zaměstnavatel namítne zvláštní režim. Neutralizace — i konto a nerovnoměrné rozvržení mají zákonné limity a vyžadují řádnou evidenci; nezbavují povinnosti dodržet odpočinek a limity přesčasů.
+- **Souhlas zaměstnankyně s přesčasem:** obhajoba u těhotné namítne dobrovolnost. Nutno trvat na absolutní povaze zákazu (§ 241 odst. 3 ZP) — souhlas je právně irelevantní.
+- **Slabé místo:** absence evidence komplikuje kvantifikaci porušení; nutno pečlivě budovat skutkový stav z nepřímých důkazů, jinak hrozí zpochybnění rozsahu.
+
+#### H. Praktický závěr
+
+§ 28 (24 skutkových podstat, čtyři pásma) chrání limity pracovní doby a doby odpočinku; evidence pracovní doby je klíčem k prokázání ostatních porušení, ochrana těhotných a mladistvých je v přísnějších pásmech.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vede zaměstnavatel řádnou evidenci pracovní doby (písm. k) a stanoví začátek/konec směn (písm. d)?
+- [ ] Dodržuje limity přesčasů a poskytuje za ně mzdu/náhradní volno (písm. m–o)?
+- [ ] Je poskytován nepřetržitý denní a týdenní odpočinek v minimálním rozsahu (písm. h)?
+- [ ] Není porušen zákaz přesčasů těhotných (písm. p) či noční práce mladistvých (písm. r)?
+- [ ] Jak se posoudí souběh napříč pásmy a které pásmo je rozhodné pro sazbu?
+
+**Typicky rozhodné důkazy / podklady:** evidence/rozpisy pracovní doby, docházkové a mzdové podklady k přesčasům, lékařská potvrzení (těhotenství), rodné listy (mladiství), výslechy zaměstnanců, případně kamerové či přístupové záznamy.
+
 ---
 
 ### § 29 — Přestupky právnických a podnikajících fyzických osob na úseku dovolené
@@ -426,6 +755,42 @@ Práce přesčas mladistvých (§ 245 ZP) je zařazena do pásma IV (2 000 000 K
 - porušení pravidel pro určení nástupu dovolené (§ 217 odst. 2 ZP: oznámení alespoň 14 dní předem, pokud se nedohodnou jinak).
 
 Horní hranice 200 000 Kč řadí dovolené přestupky mezi méně závažné. Zákon č. 285/2020 Sb. zásadně novelizoval systém dovolené (přechod z týdenní na hodinovou bázi), což rozšířilo spektrum možných pochybení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost CLEAN s.r.o. odmítla zaměstnankyni proplatit a umožnit čerpání zbývajících 12 dnů dovolené z předchozího roku s tím, že „nárok propadl". Současně několika zaměstnancům jednostranně nařídila hromadné čerpání dovolené ze dne na den (bez oznámení 14 dnů předem) a zaměstnancům pracujícím v ztížených podmínkách neposkytla dodatkovou dovolenou. Účastníci: CLEAN s.r.o. (zaměstnavatel), zaměstnanci, OIP. Důkazy: evidence dovolené, mzdové listy, rozhodnutí o určení nástupu dovolené, doklady o pracovních podmínkách (pro dodatkovou dovolenou).
+
+**2. Právní otázka.** Naplnilo nesprávné určení nástupu dovolené, neposkytnutí dodatkové dovolené a odepření převedené dovolené znaky přestupku na úseku dovolené dle § 29 ZoIP?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29 ZoIP — obecný blanket k povinnostem o dovolené; pokuta až 200 000 Kč.
+- *Související ustanovení téhož zákona:* § 26/27 ZoIP (odměňování/náhrady — náhrada mzdy za dovolenou); § 17 ZoIP (paralela u FO); § 35.
+- *Související předpisy:* § 211–223 ZP (dovolená), § 215 (dodatková dovolená), § 217 (určení nástupu, oznámení 14 dní předem) ZP; zák. č. 285/2020 Sb. (přechod na hodinovou bázi dovolené); zák. č. 250/2016 Sb.
+- *Judikatura:* nosný závěr — dobu čerpání dovolené určuje zaměstnavatel, musí však přihlížet k oprávněným zájmům zaměstnance a oznámit nástup zpravidla 14 dnů předem; nárok na dovolenou ani její náhradu zásadně „nepropadá" způsobem, který tvrdí zaměstnavatel.
+
+**4. Subsumpce.** Subjekt — s.r.o. jako zaměstnavatel: splněno. (i) Určení nástupu dovolené bez oznámení 14 dnů předem — porušení § 217 odst. 2 ZP → § 29. (ii) Neposkytnutí dodatkové dovolené v ztížených podmínkách — porušení § 215 ZP → § 29. (iii) Odepření čerpání převedené dovolené — porušení pravidel o čerpání → § 29. Vše spadá pod jednu blanketní podstatu § 29. Sporné: zda u dodatkové dovolené byly splněny podmínky ztížených podmínek (skutková otázka).
+
+**5. Řešení.** OIP kvalifikuje skutek dle § 29 (jednotná sazba 200 000 Kč); více porušení téhož úseku se zpravidla posoudí jako jeden přestupek s vyšší závažností, případně souběh. Procesně: doložit evidenci dovolené, rozhodnutí o nástupu, doklady o podmínkách práce. Pravděpodobný výsledek: pokuta ve střední části nízké sazby. Riziko: spor o naplnění podmínek dodatkové dovolené.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel nástup dovolené řádně oznámil a respektoval zájmy zaměstnance, jednání o určení nástupu by nebylo přestupkem. (b) Kdyby zaměstnanci nepracovali ve ztížených podmínkách dle § 215 ZP, nárok na dodatkovou dovolenou by nevznikl a tato část by odpadla.
+
+#### G. Protiargumenty a rizika
+
+- **„Provozní důvody":** zaměstnavatel namítne, že nutné provozní potřeby ospravedlnily okamžité určení dovolené. Neutralizace — i provozní potřeby nezbavují povinnosti oznámení 14 dnů předem a zohlednění zájmů zaměstnance; výjimky jsou úzké.
+- **Tvrzení o „propadnutí" dovolené:** obhajoba uvede uplynutí doby. Nutno odlišit zákonné krácení a převod dovolené od neexistujícího „propadnutí"; náhrada mzdy za nevyčerpanou dovolenou při skončení PP náleží vždy.
+- **Slabé místo:** nízká sazba a převážně individuální dopad; bez přesné evidence dovolené hrozí spory o zůstatky a nároky.
+
+#### H. Praktický závěr
+
+§ 29 je obecná blanketní podstata k povinnostem o dovolené (délka, dodatková dovolená, čerpání, určení nástupu); řadí se k méně závažným přestupkům (200 000 Kč), reforma 2020 (hodinová báze) rozšířila prostor pro pochybení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl nástup dovolené určen se zohledněním zájmů zaměstnance a oznámen zpravidla 14 dnů předem (§ 217 ZP)?
+- [ ] Byla poskytnuta dodatková dovolená osobám ve ztížených podmínkách (§ 215 ZP)?
+- [ ] Byla dodržena minimální délka dovolené a správně proveden převod/krácení?
+- [ ] Byla při skončení PP poskytnuta náhrada mzdy za nevyčerpanou dovolenou?
+
+**Typicky rozhodné důkazy / podklady:** evidence dovolené a jejích zůstatků, rozhodnutí o určení nástupu dovolené, mzdové listy (náhrada mzdy), doklady o pracovních podmínkách rozhodných pro dodatkovou dovolenou.
 
 ---
 
@@ -534,6 +899,43 @@ Písmena y) až zg) dopadají výhradně na stavební provoz a subjekty v postav
 
 Zákaz přenosu nákladů na zaměstnance (§ 101 odst. 6 ZP) je absolutní — zaměstnavatel nesmí ani smluvně, ani fakticky přenést na zaměstnance náklady na OOPP, zdravotní prohlídky, školení BOZP nebo jiná opatření. Maximální sankce 2 000 000 Kč odráží systémovou nebezpečnost tohoto jednání.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Na staveništi bytového domu, který realizuje generální zhotovitel CONSTRUCT a.s. za účasti čtyř subdodavatelů, došlo k pádu zedníka z lešení z výšky 8 m (těžký pracovní úraz). Inspektor zjistil: zadavatel neurčil koordinátora BOZP na staveništi, nebyl zpracován plán BOZP, lešení nemělo zábradlí ani jištění proti pádu, OOPP (postroje) nebyly poskytnuty bezplatně, úraz nebyl řádně vyšetřen ani zaznamenán a náklady na školení BOZP byly strhávány zaměstnancům ze mzdy. Účastníci: CONSTRUCT a.s. (zhotovitel/zadavatel), subdodavatelé, zraněný zaměstnanec, OIP. Důkazy: dokumentace stavby, (chybějící) plán BOZP, doklad o určení koordinátora, fotodokumentace lešení, záznam o úrazu, doklady o OOPP a srážkách.
+
+**2. Právní otázka.** Které skutkové podstaty § 30 byly naplněny (prevence rizik, OOPP, přenos nákladů, koordinátor a plán BOZP, vyšetření a záznam úrazu) a jak se promítnou do čtyř sankčních pásem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 ZoIP — bezpečnost práce (33 podstat, čtyři pásma: 300 000 / 400 000 / 1 000 000 / 2 000 000 Kč).
+- *Související ustanovení téhož zákona:* § 32, § 33 (technická a vyhrazená zařízení); § 31 (mladiství, těhotné); § 35.
+- *Související předpisy:* § 101–106, § 108 ZP; zákon č. 309/2006 Sb. (ZBOZP, § 14–18 koordinátor a plán BOZP); nařízení vlády o staveništích, o práci ve výškách, o OOPP; zák. č. 250/2016 Sb. Souběh s trestním právem (§ 143 TZ usmrcení z nedbalosti, § 147/148 TZ těžké ublížení na zdraví z nedbalosti) při vážném následku.
+- *Judikatura:* nosný závěr — povinnosti prevence rizik a zajištění BOZP jsou objektivní a nepřenosné na zaměstnance; absence koordinátora a plánu BOZP na staveništi s více zhotoviteli je závažným porušením; přenos nákladů BOZP na zaměstnance je absolutně zakázán.
+
+**4. Subsumpce.** Subjekt — a.s. jako zaměstnavatel/zhotovitel: splněno. (i) Neurčení koordinátora BOZP — písm. zc) (pásmo II, 400 000 Kč). (ii) Nezpracování plánu BOZP — písm. zd) (pásmo II). (iii) Nezajištění prevence rizik / chybějící zábradlí — písm. e), event. q) (pásmo IV/III). (iv) Neposkytnutí OOPP bezplatně — písm. g) (pásmo IV, 2 000 000 Kč). (v) Přenos nákladů BOZP na zaměstnance — písm. d) (pásmo IV). (vi) Nevyšetření a nezaznamenání úrazu — písm. j)/k) (pásmo III). Naplněno mnoho podstat napříč všemi pásmy → rozsáhlý souběh. Sporné je rozdělení odpovědnosti mezi zhotovitele, subdodavatele a koordinátora.
+
+**5. Řešení.** Rozsáhlý souběh přestupků § 30; absorpční zásada — východiskem nejpřísnější pásmo IV (2 000 000 Kč, OOPP/prevence/přenos nákladů), všechna ostatní porušení významně přitěžují; vážný následek (těžký úraz) je rovněž přitěžující. Procesně: ohledat staveniště, opatřit dokumentaci a záznam o úrazu, určit odpovědné subjekty. Paralelně hrozí trestní stíhání odpovědných osob. Pravděpodobný výsledek: velmi vysoká pokuta blízko horní hranice. Riziko: spory o rozdělení odpovědnosti mezi více subjektů na staveništi mohou rozmělnit individuální postih.
+
+**6. Varianty.** (a) Kdyby zadavatel řádně určil koordinátora, nechal zpracovat plán BOZP a lešení bylo jištěné, k úrazu by pravděpodobně nedošlo a odpadla by většina podstat. (b) Kdyby šlo o vyhrazené technické zařízení (např. stavební výtah) s vadnou revizí, část jednání by se kvalifikovala dle § 33 (VTZ), nikoli jen § 30.
+
+#### G. Protiargumenty a rizika
+
+- **Přenesení odpovědnosti na subdodavatele/zaměstnance:** zhotovitel namítne, že za jištění odpovídal subdodavatel nebo sám zaměstnanec. Neutralizace — povinnosti prevence a součinnosti na společném pracovišti (§ 101 ZP, § 14 ZBOZP) jsou objektivní a nepřenosné; spoluodpovědnost více subjektů se nevylučuje.
+- **Tvrzení o porušení ze strany zaměstnance:** obhajoba uvede, že zaměstnanec nepoužil OOPP. Nutno odlišit — pokud OOPP nebyly bezplatně poskytnuty a používání nebylo kontrolováno (písm. g, h), nese odpovědnost zaměstnavatel.
+- **Slabé místo:** mnohost subjektů na staveništi komplikuje individuální přičitatelnost; bez přesného ohledání a dokumentace hrozí zpochybnění jednotlivých podstat a tím i výše sankce.
+
+#### H. Praktický závěr
+
+§ 30 je nejrozsáhlejší skutková podstata zákona (33 alternativ, čtyři pásma); jádro tvoří prevence rizik, OOPP, zákaz přenosu nákladů na zaměstnance (pásmo IV) a stavební segment (koordinátor a plán BOZP). Při vážném následku hrozí souběh s trestním právem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla přijata opatření k prevenci rizik a poskytnuty bezplatně OOPP (písm. e, g)?
+- [ ] Nebyly náklady BOZP přeneseny na zaměstnance (písm. d)?
+- [ ] Na staveništi s více zhotoviteli: byl určen koordinátor a zpracován plán BOZP (písm. zc, zd)?
+- [ ] Byl pracovní úraz řádně vyšetřen, zaznamenán a ohlášen (písm. j, k, n)?
+- [ ] Hrozí při následku souběh s trestní odpovědností odpovědných osob?
+
+**Typicky rozhodné důkazy / podklady:** dokumentace stavby a plán BOZP, doklad o určení koordinátora, fotodokumentace/protokol o ohledání pracoviště, záznam o úrazu a jeho hlášení, doklady o poskytnutí OOPP a o (ne)oprávněných srážkách, školení BOZP.
+
 ---
 
 ### § 31 — Přestupky právnických a podnikajících fyzických osob na úseku zvláštních pracovních podmínek některých zaměstnanců
@@ -595,6 +997,42 @@ Zákaz přenosu nákladů na zaměstnance (§ 101 odst. 6 ZP) je absolutní — 
 
 Anomálie: písm. d) a e) (neodůvodnění zamítnutí žádostí) jsou zařazeny do nejnižší sazby 200 000 Kč, přestože faktické odmítnutí těchto žádostí (písm. c) je na 300 000 Kč — zákonodárce zjevně hodnotí formální pochybení (bez písemného odůvodnění) mírněji než věcné odmítnutí.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní podnik FACTORY s.r.o. zaměstnává zaměstnankyni paní K., která je ve čtvrtém měsíci těhotenství a pracuje na lince s expozicí chemickým látkám a fyzickou zátěží. Lékařský posudek doporučil převedení na jinou práci, zaměstnavatel ji však ponechal na stejné pozici. Současně odmítl písemnou žádost otce dvou malých dětí o kratší pracovní dobu bez uvedení vážných provozních důvodů a zamítnutí neodůvodnil písemně. Účastníci: FACTORY s.r.o. (zaměstnavatel), těhotná zaměstnankyně, pečující zaměstnanec, OIP. Důkazy: lékařský posudek, žádost o převedení, žádost o kratší pracovní dobu, písemné (ne)odůvodnění zamítnutí, popis pracoviště a rizik.
+
+**2. Právní otázka.** Naplnilo nepřevedení těhotné zaměstnankyně a (ne)vyřízení žádosti pečujícího zaměstnance o kratší pracovní dobu znaky přestupků dle § 31 ZoIP a v jakých sazbách?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 31 ZoIP — zvláštní pracovní podmínky; sazby 200 000 / 300 000 / 500 000 / 1 000 000 Kč dle písmen.
+- *Související ustanovení téhož zákona:* § 28 ZoIP (pracovní doba — přesčasy těhotných, mladiství); § 30 (BOZP); § 35.
+- *Související předpisy:* § 41 (převedení na jinou práci), § 80, § 240, § 241, § 241a, § 242, § 244–247 ZP; nařízení vlády o zakázaných pracích těhotných a mladistvých; zák. č. 250/2016 Sb.
+- *Judikatura:* nosný závěr — zaměstnavatel je povinen převést těhotnou zaměstnankyni na vhodnou práci, koná-li práci pro ni zakázanou nebo ohrožující; žádosti pečujících rodičů o kratší pracovní dobu lze odmítnout jen pro vážné provozní důvody, které musí být doloženy a zamítnutí písemně odůvodněno.
+
+**4. Subsumpce.** Subjekt — s.r.o. jako zaměstnavatel: splněno. (i) Nepřevedení těhotné zaměstnankyně konající rizikovou práci — písm. a) (sazba 1 000 000 Kč): naplněno (existuje lékařský posudek). (ii) Nevyhovění žádosti pečujícího o kratší pracovní dobu bez vážných provozních důvodů — písm. c) (300 000 Kč). (iii) Písemné neodůvodnění zamítnutí žádosti — písm. d) (200 000 Kč). Souběh tří podstat s odlišnými sazbami. Sporné: existence „vážných provozních důvodů" pro odmítnutí kratší doby (důkazní břemeno na zaměstnavateli).
+
+**5. Řešení.** Souběh přestupků § 31; absorpční zásada — východiskem nejpřísnější písm. a) (1 000 000 Kč, ochrana těhotné), ostatní přitěžují. Procesně: opatřit lékařský posudek, žádosti a (ne)odůvodnění, posoudit doloženost provozních důvodů. Pravděpodobný výsledek: citelná pokuta vzhledem k ohrožení těhotné zaměstnankyně. Riziko: pokud zaměstnavatel doloží reálné vážné provozní důvody bránící kratší době, písm. c) odpadne; písm. d) (chybějící písemné odůvodnění) však zůstává.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel těhotnou ihned převedl na vhodnou práci dle posudku, písm. a) by odpadlo. (b) Kdyby žádosti o kratší dobu vyhověl nebo ji řádně písemně a doloženě zamítl pro vážné provozní důvody, odpadla by písm. c) i d).
+
+#### G. Protiargumenty a rizika
+
+- **„Nebyla volná vhodná práce":** zaměstnavatel namítne nemožnost převedení. Neutralizace — povinnost převedení je důsledná; nelze-li převést, je nutné uvolnit zaměstnankyni s náhradou mzdy, nikoli ji ponechat na rizikové práci.
+- **Vážné provozní důvody:** obhajoba uvede provozní nutnost u kratší doby. Nutno trvat na konkrétním doložení (rozpis směn, nezastupitelnost), nikoli na paušálním tvrzení; břemeno nese zaměstnavatel.
+- **Slabé místo:** anomálie sazeb — věcné odmítnutí žádosti (písm. c, 300 000) je přísnější než chybějící písemné odůvodnění (písm. d, 200 000); při kvalifikaci je nutné pečlivě odlišit formální a věcné pochybení.
+
+#### H. Praktický závěr
+
+§ 31 chrání těhotné, pečující a mladistvé zaměstnance; nejpřísněji (1 000 000 Kč) je sankcionováno nepřevedení těhotné, přestávky ke kojení a nepřiměřené práce mladistvých, nejmírněji (200 000 Kč) chybějící písemné odůvodnění zamítnutí žádosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla těhotná/kojící zaměstnankyně převedena na vhodnou práci dle posudku (písm. a)?
+- [ ] Byla žádost pečujícího o kratší pracovní dobu vyřízena a existují vážné provozní důvody pro případné odmítnutí (písm. c)?
+- [ ] Bylo zamítnutí žádosti písemně odůvodněno (písm. d, e)?
+- [ ] Jsou dodrženy zvláštní podmínky práce mladistvých (písm. h, i, j)?
+
+**Typicky rozhodné důkazy / podklady:** lékařské posudky a doporučení, písemné žádosti zaměstnanců a jejich vyřízení, písemné odůvodnění zamítnutí, popis pracoviště a rizik, rozpisy směn dokládající provozní důvody.
+
 ---
 
 ### § 32 — Přestupky právnických a podnikajících fyzických osob na úseku bezpečnosti technických zařízení se zvýšenou mírou ohrožení života a zdraví
@@ -613,6 +1051,43 @@ Přestupek je charakteristický:
 - **jednopísmennou skutkovou podstatou** (bez dalšího dělení),
 - **přísnou sankcí** 2 000 000 Kč shodnou s nejvyššími sazbami celé Části čtvrté,
 - **subjektivní stránkou**: zaměstnavatel odpovídá za to, že obsluhu nevykonávají osoby bez zdravotní a odborné způsobilosti — přestupek může být spáchán i opomenutím systémové kontroly způsobilosti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Skladová firma DEPO s.r.o. provozuje vysokozdvižné vozíky a mostový jeřáb. Obsluhou jeřábu pověřila skladníka, který nemá platný jeřábnický průkaz ani zdravotní prohlídku pro tuto práci; obsluhou vozíku zaměstnance s prošlým oprávněním a po vážném onemocnění bez nové zdravotní způsobilosti. Při manipulaci došlo k pádu břemene a poškození zdraví. Účastníci: DEPO s.r.o. (zaměstnavatel/provozovatel), obsluhující zaměstnanci, OIP. Důkazy: doklady o odborné a zdravotní způsobilosti obsluhy (či jejich absence), provozní dokumentace zařízení, záznam o incidentu.
+
+**2. Právní otázka.** Naplnilo pověření obsluhou technického zařízení se zvýšenou mírou ohrožení osobami bez zdravotní a odborné způsobilosti znaky přestupku dle § 32 ZoIP?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 ZoIP — jednopísmenná podstata, pokuta až 2 000 000 Kč; nezajištění, aby zařízení se zvýšenou mírou ohrožení obsluhovaly jen zdravotně a odborně způsobilé osoby.
+- *Související ustanovení téhož zákona:* § 33 ZoIP (vyhrazená technická zařízení — revize, oprávnění); § 30 (obecná BOZP); § 35.
+- *Související předpisy:* zákon č. 250/2021 Sb. (bezpečnost provozu VTZ), dříve zák. č. 174/1968 Sb.; § 103 ZP (povinnost zajistit školení a způsobilost); nařízení vlády o způsobilosti k obsluze; zák. č. 250/2016 Sb.
+- *Judikatura:* nosný závěr — zaměstnavatel odpovídá objektivně za to, že rizikové zařízení obsluhují jen způsobilé osoby; přestupek může být spáchán i opomenutím systémové kontroly platnosti oprávnění a zdravotní způsobilosti, bez ohledu na vznik konkrétního následku.
+
+**4. Subsumpce.** Subjekt — s.r.o. jako provozovatel: splněno. Jeřáb a vysokozdvižný vozík jsou zařízeními se zvýšenou mírou ohrožení (zdvihací zařízení). Obsluha bez platného oprávnění a zdravotní způsobilosti → nezajištění, aby zařízení obsluhovaly jen způsobilé osoby → naplnění § 32. Přestupek je dokonán již samotným pověřením nezpůsobilé osoby; následek (pád břemene) je přitěžující okolností, nikoli znakem. Spornost je minimální — jde o jednoznačnou objektivní povinnost.
+
+**5. Řešení.** OIP kvalifikuje skutek dle § 32 (jednotná přísná sazba 2 000 000 Kč). Jde o jednu skutkovou podstatu, byť spáchanou u dvou zařízení (zvážit jeden skutek/souběh dle okolností). Procesně: doložit absenci průkazů a zdravotní způsobilosti, provozní dokumentaci. Při vzniku úrazu hrozí souběh s § 30 a s trestním právem. Pravděpodobný výsledek: vysoká pokuta vzhledem k ohrožení života/zdraví a vzniklému následku. Riziko: nesprávné posouzení, zda jde o jeden či více skutků, ovlivní výši sankce.
+
+**6. Varianty.** (a) Kdyby obsluha měla platné průkazy a aktuální zdravotní prohlídky, přestupek by nevznikl ani při incidentu (odpovědnost by se posuzovala dle § 30). (b) Kdyby šlo navíc o vadnou revizi jeřábu jako vyhrazeného zařízení, přidal by se souběh s § 33 (VTZ).
+
+#### G. Protiargumenty a rizika
+
+- **„Zaměstnanec zatajil prošlou způsobilost":** zaměstnavatel namítne pochybení zaměstnance. Neutralizace — povinnost ověřit a kontrolovat platnost oprávnění a zdravotní způsobilosti je na zaměstnavateli (objektivní odpovědnost); jde o systémové selhání.
+- **Spor o povahu zařízení:** obhajoba popře, že jde o zařízení „se zvýšenou mírou ohrožení". Nutno doložit zařazení dle zákona č. 250/2021 Sb. a prováděcích předpisů (zdvihací zařízení sem typicky patří).
+- **Slabé místo:** rozhraní § 32 a § 33 — u vyhrazených technických zařízení může být správnější (nebo souběžná) kvalifikace dle § 33; chybná volba normy ohrožuje zákonnost výroku.
+
+#### H. Praktický závěr
+
+§ 32 přísně (2 000 000 Kč) sankcionuje pověření obsluhy rizikových technických zařízení nezpůsobilými osobami; jde o objektivní povinnost dokonanou již samotným pověřením nezpůsobilé osoby, nezávisle na následku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o technické zařízení se zvýšenou mírou ohrožení (zdvihací, tlakové, elektrické, plynové)?
+- [ ] Měla obsluha platné odborné oprávnění/průkaz pro daný typ zařízení?
+- [ ] Měla obsluha platnou zdravotní způsobilost pro tuto práci?
+- [ ] Ověřuje a kontroluje zaměstnavatel platnost způsobilosti systémově?
+- [ ] Nejde současně o vyhrazené technické zařízení dle § 33 (souběh/správná kvalifikace)?
+
+**Typicky rozhodné důkazy / podklady:** odborné průkazy a osvědčení obsluhy, lékařské posudky o zdravotní způsobilosti, provozní a průvodní dokumentace zařízení, vnitřní předpis o pověření obsluhou, záznam o incidentu.
 
 ---
 
@@ -654,6 +1129,43 @@ Přestupek je charakteristický:
 
 Přestupek podle písm. b) je specifický tím, že pachatel sám provede zakázanou odbornou činnost (revizi, montáž) bez příslušného oprávnění — jde o porušení systému státního odborného dozoru nad bezpečností VTZ. Paralela s trestným činem ohrožení bezpečnosti práce (§ 272 TZ) je zjevná; trestní odpovědnost nastupuje v závažnějších případech.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel kotelny HEAT s.r.o. má tlakovou nádobu (parní kotel) jako vyhrazené technické zařízení. Pravidelná revize byla provedena osobou bez platného osvědčení odborné způsobilosti vydaného podle zákona o bezpečnosti práce v souvislosti s provozem VTZ; revizní technik navíc zjistil korozi pláště, kterou provozovatel neodstranil. Po čase došlo k úniku páry a havárii, kterou provozovatel TIČR neohlásil. Účastníci: HEAT s.r.o. (provozovatel VTZ), osoba provádějící revizi, OIP, TIČR. Důkazy: revizní zprávy, doklad o osvědčení revizního technika (či jeho absence), záznam o zjištěných závadách, dokumentace havárie, doklad o (ne)ohlášení.
+
+**2. Právní otázka.** Které skutkové podstaty § 33 byly naplněny (revize bez osvědčení, neodstranění závad, neohlášení havárie) a v jakých sazbách?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33 ZoIP — vyhrazená technická zařízení (VTZ); písm. a)/b)/e) až 2 000 000 Kč, písm. c)/d) až 1 000 000 Kč.
+- *Související ustanovení téhož zákona:* § 32 ZoIP (technická zařízení se zvýšenou mírou ohrožení — způsobilost obsluhy); § 30; § 35.
+- *Související předpisy:* zákon č. 250/2021 Sb. (VTZ) — § 20 odst. 2 písm. d), § 20 odst. 5, § 22; oprávnění a osvědčení vydávaná Technickou inspekcí ČR (TIČR); zák. č. 250/2016 Sb. Souběh s § 272 TZ (obecné ohrožení) při závažném následku.
+- *Judikatura:* nosný závěr — revize a opravy VTZ smí provádět jen držitel příslušného oprávnění/osvědčení; provozovatel je povinen odstranit závady zjištěné revizí a ohlásit havárii; porušení systému státního odborného dozoru nad VTZ je závažným přestupkem.
+
+**4. Subsumpce.** Subjekt — s.r.o. jako provozovatel VTZ: splněno. Parní kotel je VTZ (tlakové zařízení). (i) Revize osobou bez osvědčení — písm. b) (2 000 000 Kč): naplněno. (ii) Neodstranění zjištěných závad (koroze) — písm. c) (§ 20 odst. 5, 1 000 000 Kč). (iii) Neohlášení havárie — písm. e) (§ 22, 2 000 000 Kč). Souběh tří podstat. Sporné může být, zda osoba provádějící revizi měla oprávnění v rozhodné době (skutková otázka — platnost osvědčení).
+
+**5. Řešení.** Souběh přestupků § 33; absorpční zásada — východiskem nejpřísnější písm. b)/e) (2 000 000 Kč), ostatní přitěžují; havárie a ohrožení jsou významně přitěžující. Procesně: opatřit revizní zprávy, ověřit osvědčení technika u TIČR, doložit závady a havárii. Hrozí souběh s trestním právem. Pravděpodobný výsledek: vysoká pokuta. Riziko: bez ověření platnosti osvědčení technika u TIČR hrozí důkazní obtíže u písm. b).
+
+**6. Varianty.** (a) Kdyby revizi provedl řádně osvědčený technik a provozovatel závady odstranil, odpadla by písm. b) i c). (b) Kdyby k havárii nedošlo (jen zjištěné závady), odpadla by ohlašovací povinnost (písm. e) a zůstaly by písm. b)/c).
+
+#### G. Protiargumenty a rizika
+
+- **Spoléhání na dodavatele revize:** provozovatel namítne, že najal externí firmu. Neutralizace — provozovatel odpovídá za to, že revizi provede osoba s oprávněním; výběr nezpůsobilého dodavatele jej nezbavuje odpovědnosti.
+- **Spor o povahu havárie:** obhajoba popře, že událost dosáhla intenzity „havárie" dle § 22 zák. č. 250/2021 Sb. Nutno vymezit pojem havárie a doložit naplnění jeho znaků.
+- **Slabé místo:** rozhraní § 32 a § 33 a vůči trestnímu právu; nepřesná kvalifikace (zařízení se zvýšenou mírou ohrožení vs. vyhrazené zařízení) ohrožuje zákonnost; chybějící součinnost TIČR komplikuje dokazování.
+
+#### H. Praktický závěr
+
+§ 33 chrání bezpečnost vyhrazených technických zařízení; nejpřísněji (2 000 000 Kč) jsou postiženy vadná revize/montáž, činnost bez oprávnění a neohlášení havárie, mírněji (1 000 000 Kč) neodstranění závad a nezajištění obsluhy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o vyhrazené technické zařízení dle zákona č. 250/2021 Sb. (tlakové/zdvihací/elektrické/plynové)?
+- [ ] Provedl revizi/montáž/opravu držitel platného oprávnění nebo osvědčení (písm. a, b)?
+- [ ] Byly odstraněny závady zjištěné revizí (písm. c, § 20 odst. 5)?
+- [ ] Byla zajištěna řádná obsluha VTZ (písm. d) a ohlášena případná havárie (písm. e, § 22)?
+- [ ] Hrozí při následku souběh s § 272 TZ?
+
+**Typicky rozhodné důkazy / podklady:** revizní zprávy a protokoly, doklad o oprávnění/osvědčení technika (ověření u TIČR), dokumentace zjištěných závad a jejich odstranění, hlášení havárie, provozní dokumentace zařízení.
+
 ---
 
 ### § 33a — Přestupky právnických a podnikajících fyzických osob na úseku agenturního zaměstnávání
@@ -690,6 +1202,42 @@ Přestupek podle písm. b) je specifický tím, že pachatel sám provede zakáz
 
 Klíčová skutková podstata písm. c) zahrnuje porušení principu rovného zacházení s agenturními zaměstnanci (§ 309 ZP): agenturní zaměstnanec musí mít pracovní podmínky srovnatelné se zaměstnanci uživatele. Jednotná sazba 1 000 000 Kč bez rozlišení závažnosti jednotlivých porušení je legislativně simplifikující; přiměřenost konkrétní sankce je na uvážení správního orgánu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Agentura práce PERSONAL s.r.o. (s povolením ke zprostředkování zaměstnání) dočasně přidělila 15 dělníků uživateli — výrobnímu závodu MANUF a.s. Dohodu o dočasném přidělení uzavřela jen ústně, bez písemné formy a bez údajů o pracovních a mzdových podmínkách srovnatelného kmenového zaměstnance uživatele. Agenturní dělníci pobírali nižší mzdu než srovnatelní kmenoví zaměstnanci. Uživatel v dohodě neuvedl podmínky přidělení dle § 308 odst. 1 písm. f) ZP. Účastníci: PERSONAL s.r.o. (agentura), MANUF a.s. (uživatel), agenturní zaměstnanci, OIP. Důkazy: dohoda o dočasném přidělení (či její absence), mzdové listy agenturních i kmenových zaměstnanců, povolení agentury, srovnání pracovních podmínek.
+
+**2. Právní otázka.** Které skutkové podstaty § 33a naplnila agentura (písm. b, c) a které uživatel (písm. d), a jak se posoudí porušení principu rovných podmínek agenturních zaměstnanců?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33a ZoIP — agenturní zaměstnávání; jednotná pokuta až 1 000 000 Kč; odlišní pachatelé (agentura vs. uživatel).
+- *Související ustanovení téhož zákona:* § 25 ZoIP (písemnost smluv/dohod); § 24/26 (rovné zacházení a odměňování); § 35.
+- *Související předpisy:* § 307b, § 308 odst. 1, 2, § 309, § 309a ZP; zákon č. 435/2004 Sb., o zaměstnanosti (povolení ke zprostředkování); zák. č. 250/2016 Sb.
+- *Judikatura:* nosný závěr — agenturní zaměstnanec musí mít srovnatelné pracovní a mzdové podmínky jako kmenový zaměstnanec uživatele na stejné práci (§ 309 ZP); odpovědnost za srovnatelné podmínky nesou agentura i uživatel.
+
+**4. Subsumpce.** Subjekty — agentura (PO) a uživatel (PO): splněno. Agentura: (i) dohoda neuzavřena písemně — písm. b/2 (§ 308 odst. 2 ZP); (ii) chybějící obligatorní údaje — písm. b/1 (§ 308 odst. 1); (iii) porušení rovných podmínek (nižší mzda) — písm. c (§ 309 ZP). Uživatel: neuvedení podmínek dle § 308 odst. 1 písm. f) — písm. d). Naplnění více podstat, avšak u dvou odlišných pachatelů → samostatná řízení. Sporné: srovnatelnost konkrétních podmínek (skutková otázka porovnání pozic).
+
+**5. Řešení.** Vedou se zpravidla samostatná řízení proti agentuře a proti uživateli (každý je samostatným pachatelem). U agentury souběh písm. b) a c) — absorpce s jednotnou sazbou 1 000 000 Kč; rozhodující je závažnost porušení rovných podmínek. Procesně: porovnat mzdy a podmínky agenturních a kmenových zaměstnanců, doložit (ne)existenci písemné dohody. Pravděpodobný výsledek: citelné pokuty oběma subjektům. Riziko: jednotná sazba bez diferenciace ztěžuje odstupňování dle závažnosti — záleží na uvážení správního orgánu.
+
+**6. Varianty.** (a) Kdyby agentura dohodu uzavřela písemně se všemi údaji a zajistila srovnatelné podmínky, odpadly by písm. b) i c). (b) Kdyby uživatel řádně sdělil a agentura uvedla podmínky dle § 308 odst. 1 písm. f), odpadlo by písm. d).
+
+#### G. Protiargumenty a rizika
+
+- **„Za podmínky odpovídá jen agentura":** uživatel namítne, že rovné podmínky zajišťuje agentura. Neutralizace — § 309 ZP a § 308 odst. 1 písm. f) zakládají povinnosti i uživateli (sdělení a zajištění srovnatelných podmínek); odpovědnost je sdílená.
+- **Spor o srovnatelnost:** obhajoba popře existenci srovnatelného kmenového zaměstnance. Nutno doložit konkrétní porovnatelnou pozici a podmínky, nikoli paušální tvrzení.
+- **Slabé místo:** jednotná sazba 1 000 000 Kč bez rozlišení závažnosti je legislativně simplifikující; přiměřenost je plně na uvážení orgánu, což zvyšuje riziko nejednotného postihu.
+
+#### H. Praktický závěr
+
+§ 33a postihuje porušení pravidel agenturního zaměstnávání; rozlišuje pachatele — agenturu práce (písm. a–c) a uživatele (písm. d); klíčem je písemná forma dohody a srovnatelné podmínky agenturních zaměstnanců (jednotná sazba 1 000 000 Kč).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla dohoda o dočasném přidělení uzavřena písemně a obsahuje obligatorní údaje (písm. b)?
+- [ ] Mají agenturní zaměstnanci srovnatelné pracovní a mzdové podmínky jako kmenoví (písm. c, § 309 ZP)?
+- [ ] Uvedl uživatel podmínky dle § 308 odst. 1 písm. f) pravdivě (písm. d)?
+- [ ] Kdo je pachatelem u které podstaty (agentura vs. uživatel) a vedou se samostatná řízení?
+
+**Typicky rozhodné důkazy / podklady:** dohoda o dočasném přidělení a její náležitosti, mzdové listy agenturních i srovnatelných kmenových zaměstnanců, popisy pracovních pozic, povolení agentury ke zprostředkování, korespondence agentury a uživatele.
+
 ---
 
 ### § 34 — Přestupek na úseku výkonu umělecké, kulturní, sportovní a reklamní činnosti
@@ -709,6 +1257,42 @@ Přestupek lze spáchat dvěma způsoby:
 2. **Porušení podmínek povolení** — povolení bylo vydáno, ale zaměstnavatel (organizátor) nedodržuje podmínky v něm stanovené (max. délka pracovní doby dítěte, druhy prací, zdravotní dohled apod.).
 
 Vysoká sankce 2 000 000 Kč je odůvodněna ochranou dítěte jako zvláště zranitelného subjektu. Porovnej s § 22 ZoIP (přestupek fyzické osoby-zaměstnavatele na tomtéž úseku — shodná sazba), viz [02-cast4-prestupky-a.md](02-cast4-prestupky-a.md).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Produkční společnost MOVIE s.r.o. obsadila do reklamního spotu desetileté dítě. Natáčení probíhalo přes noc, dítě odpracovalo 9 hodin v kuse, aniž společnost požádala krajskou pobočku Úřadu práce o povolení k výkonu reklamní činnosti dítěte. V jiném případě sice povolení měla, ale nedodržela v něm stanovenou maximální délku denní činnosti a podmínku přítomnosti pedagogického dozoru. Účastníci: MOVIE s.r.o. (organizátor/zaměstnavatel), nezletilé dítě a jeho zákonní zástupci, krajská pobočka ÚP, OIP. Důkazy: doklad o povolení ÚP (či jeho absence), natáčecí plán a časový harmonogram, smlouva se zákonnými zástupci, podmínky povolení.
+
+**2. Právní otázka.** Naplnilo umožnění výkonu reklamní činnosti dítěte bez povolení, resp. porušení podmínek povolení, znaky přestupku dle § 34 ZoIP?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34 ZoIP — umělecká, kulturní, sportovní a reklamní činnost dítěte; pokuta až 2 000 000 Kč.
+- *Související ustanovení téhož zákona:* § 22 ZoIP (paralelní přestupek FO-zaměstnavatele na témže úseku — shodná sazba); § 35.
+- *Související předpisy:* § 121–124 zákona č. 435/2004 Sb., o zaměstnanosti (povolení krajské pobočky ÚP k činnosti dítěte); zák. č. 250/2016 Sb. Souvislost se zákonem č. 359/1999 Sb., o sociálně-právní ochraně dětí.
+- *Judikatura:* nosný závěr — výkon umělecké/reklamní činnosti dítěte je možný jen na základě povolení správního orgánu a za jím stanovených podmínek chránících zdraví a vývoj dítěte; jejich porušení je závažným ohrožením zvláště zranitelného subjektu.
+
+**4. Subsumpce.** Subjekt — s.r.o. jako organizátor: splněno. (i) První případ: umožnění činnosti dítěte bez povolení ÚP → naplnění § 34 (varianta „bez povolení"). (ii) Druhý případ: porušení podmínek povolení (délka činnosti, dozor) → naplnění § 34 (varianta „porušení podmínek"). Přestupek je dokonán umožněním činnosti; následek (únava dítěte) je přitěžující, nikoli znakem. Spornost je nízká — existence/absence povolení a jeho podmínek je doložitelná listinně.
+
+**5. Řešení.** OIP kvalifikuje skutek dle § 34 (přísná sazba až 2 000 000 Kč, odůvodněná ochranou dítěte). Jde o dvě jednání (dvě různá natáčení) → souběh nebo dva samostatné skutky. Procesně: opatřit povolení/jeho absenci a podmínky, natáčecí harmonogram. Pravděpodobný výsledek: citelná pokuta, zejména u noční práce malého dítěte. Riziko: záměna příslušnosti — povolení vydává ÚP, ale přestupek projednává inspektorát; nutná koordinace podkladů.
+
+**6. Varianty.** (a) Kdyby společnost měla povolení a dodržela všechny jeho podmínky, přestupek by nevznikl. (b) Kdyby šlo o organizátora-fyzickou osobu (např. OSVČ pořadatel), kvalifikace by se přesunula na § 22 ZoIP (shodná sazba) — viz [02-cast4-prestupky-a.md](02-cast4-prestupky-a.md).
+
+#### G. Protiargumenty a rizika
+
+- **„Šlo o zájmovou/amatérskou činnost":** organizátor namítne, že nešlo o činnost vyžadující povolení. Neutralizace — rozhodující je povaha činnosti (umělecká/reklamní výdělečná) a věk dítěte; výjimky jsou úzké a je nutné je doložit.
+- **Souhlas rodičů:** obhajoba uvede souhlas zákonných zástupců. Nutno trvat na tom, že souhlas rodičů nenahrazuje správní povolení ÚP, které chrání veřejný zájem na zdraví dítěte.
+- **Slabé místo:** rozhraní kompetencí (ÚP vydává povolení, inspektorát postihuje) může vést k důkazním a procesním komplikacím; nutné získat podklady od ÚP.
+
+#### H. Praktický závěr
+
+§ 34 přísně (až 2 000 000 Kč) chrání děti před výkonem umělecké/kulturní/sportovní/reklamní činnosti bez povolení ÚP nebo v rozporu s jeho podmínkami; vysoká sazba odráží zvláštní zranitelnost dítěte.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyžadovala činnost dítěte povolení krajské pobočky ÚP (§ 121 a násl. zák. o zaměstnanosti)?
+- [ ] Bylo povolení vydáno před zahájením činnosti?
+- [ ] Byly dodrženy podmínky povolení (délka činnosti, druhy prací, dozor, zdravotní dohled)?
+- [ ] Jde o jedno jednání, nebo souběh více skutků (více natáčení/akcí)?
+
+**Typicky rozhodné důkazy / podklady:** povolení krajské pobočky ÚP a jeho podmínky (či doklad o jeho absenci), natáčecí/akční harmonogram a časový rozpis, smlouva se zákonnými zástupci, doklady o dozoru a zdravotním dohledu.
 
 ---
 
@@ -748,6 +1332,44 @@ Vysoká sankce 2 000 000 Kč je odůvodněna ochranou dítěte jako zvláště z
 
 Anomálie: sankce za nesplnění povinnosti uveřejnění informací (písm. c) je nižší (400 000 Kč) než za ostatní porušení (1 000 000 Kč); zákonodárce zjevně pokládá absenci veřejně přístupných informací za méně závažnou než absenci samotného vnitřního oznamovacího systému nebo porušení důvěrnosti.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost CORP s.r.o. zaměstnává 80 zaměstnanců, a je tedy povinným subjektem podle zákona o ochraně oznamovatelů. Společnost neurčila žádnou příslušnou osobu pro přijímání oznámení, nezavedla vnitřní oznamovací systém (nelze podat oznámení ústně ani písemně) a na webu nezveřejnila stanovené informace o způsobu oznamování. Zaměstnanec, který chtěl oznámit podezření na korupci, neměl kam oznámení podat; o jeho podání učiněném na e-mail vedení se dozvěděli i další manažeři (porušení důvěrnosti). Účastníci: CORP s.r.o. (povinný subjekt), oznamovatel, OIP (vedle Ministerstva spravedlnosti). Důkazy: vnitřní předpisy o oznamovacím systému (či jejich absence), doklad o určení příslušné osoby, obsah webu, doklad o nakládání s oznámením.
+
+**2. Právní otázka.** Které skutkové podstaty § 34a byly naplněny (neurčení příslušné osoby, neumožnění podání oznámení, nezveřejnění informací, porušení důvěrnosti) a v jakých sazbách?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34a ZoIP — ochrana oznamovatelů; písm. c) do 400 000 Kč, písm. a)/b)/d)/e) do 1 000 000 Kč.
+- *Související ustanovení téhož zákona:* § 24 ZoIP (viktimizace — souvislost s ochranou oznamovatele před odvetou); § 35.
+- *Související předpisy:* zákon č. 171/2023 Sb., o ochraně oznamovatelů (ZOO) — § 9 odst. 1 a 2, § 10 odst. 7, § 12, § 20; směrnice (EU) 2019/1937; zák. č. 250/2016 Sb.
+- *Judikatura:* (oblast nová) nosný výkladový závěr — povinný subjekt musí zřídit funkční vnitřní oznamovací systém, určit příslušnou osobu, zajistit důvěrnost a vyrozumívat oznamovatele; jádrem ochrany je důvěrnost a samotná existence systému.
+
+**4. Subsumpce.** Subjekt — s.r.o. jako povinný subjekt dle ZOO: splněno (≥ 50 zaměstnanců). (i) Neurčení příslušné osoby — písm. a) (§ 9 odst. 1 ZOO, 1 000 000 Kč). (ii) Neumožnění podat oznámení — písm. b) (§ 9 odst. 2 písm. a, 1 000 000 Kč). (iii) Nezveřejnění informací dálkově — písm. c) (§ 9 odst. 2 písm. b, 400 000 Kč). (iv) Porušení důvěrnosti (seznámení dalších osob) — písm. d) (§ 9 odst. 2 písm. d, § 20, 1 000 000 Kč). Naplnění více podstat → souběh. Spornost je nízká — jde o doložitelné organizační povinnosti.
+
+**5. Řešení.** Souběh přestupků § 34a; absorpční zásada — východiskem nejpřísnější písm. a)/b)/d) (1 000 000 Kč), k písm. c) (400 000 Kč) se přihlédne. Procesně: vyžádat vnitřní předpisy a doklad o určení příslušné osoby, ověřit web, prošetřit nakládání s oznámením. Pravděpodobně citelná pokuta, neboť chybí samotný systém i důvěrnost. Pozor na dělenou působnost — dozor vykonává i Ministerstvo spravedlnosti; nutno vyjasnit, který orgán vede řízení (zásada ne bis in idem).
+
+**6. Varianty.** (a) Kdyby společnost měla funkční systém a určenou příslušnou osobu, ale jen opomněla zveřejnit informace na webu, šlo by jen o písm. c) (400 000 Kč). (b) Kdyby subjekt zaměstnával méně než 50 osob a nebyl povinným subjektem dle ZOO, skutkové podstaty § 34a by se neuplatnily.
+
+#### G. Protiargumenty a rizika
+
+- **„Nejsme povinný subjekt":** obhajoba popře dosažení zákonného limitu zaměstnanců. Neutralizace — doložit počet zaměstnanců k rozhodnému dni a postavení povinného subjektu dle ZOO.
+- **Dělená působnost a ne bis in idem:** subjekt namítne souběžné řízení Ministerstva spravedlnosti. Nutno vyjasnit příslušnost a vyloučit dvojí postih za týž skutek.
+- **Slabé místo:** novost úpravy (účinnost od 8/2023) a chybějící ustálená judikatura zvyšují výkladovou nejistotu ohledně rozsahu povinností a hranic důvěrnosti; anomálie nižší sazby u písm. c) vyžaduje pečlivé odlišení od ostatních podstat.
+
+#### H. Praktický závěr
+
+§ 34a vynucuje povinnosti povinných subjektů dle zákona o ochraně oznamovatelů; jádrem (1 000 000 Kč) je existence systému, určení příslušné osoby a důvěrnost, mírněji (400 000 Kč) je postiženo nezveřejnění informací. Dozor je dělen s Ministerstvem spravedlnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je subjekt povinným subjektem dle ZOO (zejm. počet zaměstnanců)?
+- [ ] Určil příslušnou osobu (písm. a, § 9 odst. 1 / § 10 odst. 7 ZOO)?
+- [ ] Umožňuje podat oznámení ústně i písemně (písm. b) a zveřejnil informace dálkově (písm. c)?
+- [ ] Je zajištěna důvěrnost oznámení a totožnosti oznamovatele (písm. d, § 20)?
+- [ ] Je oznamovatel vyrozumíván o přijetí a výsledku (písm. e, § 12)?
+- [ ] Nevede o témže skutku řízení Ministerstvo spravedlnosti (ne bis in idem)?
+
+**Typicky rozhodné důkazy / podklady:** vnitřní předpis o oznamovacím systému, doklad o určení příslušné osoby, obsah webové stránky s informacemi pro oznamovatele, evidence a způsob nakládání s oznámeními, doklady o počtu zaměstnanců.
+
 ---
 
 ## Hlava III — Společná ustanovení o přestupcích
@@ -772,6 +1394,42 @@ Anomálie: sankce za nesplnění povinnosti uveřejnění informací (písm. c) 
 Systém vychází z principu „kdo kontroloval, ten rozhoduje" — kontrolující orgán má nejlepší znalost zjištěného skutkového stavu a shromážděných podkladů. Toto pravidlo je odchylkou od obecného pravidla § 55 odst. 1 zákona č. 250/2016 Sb., který jako příslušný orgán určuje správní orgán, v jehož správním obvodu byl přestupek spáchán; ZoIP jako lex specialis toto pravidlo pro oblast inspekce práce modifikuje.
 
 Odvolacím orgánem vůči OIP je SÚIP; odvolacím orgánem vůči SÚIP je Ministerstvo práce a sociálních věcí (§ 9 odst. 1 ZoIP ve spojení s § 89 a násl. správního řádu).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Státní úřad inspekce práce (SÚIP) provedl celostátní mimořádnou kontrolu velkého řetězce SHOP a.s. (provozovny ve více krajích) zaměřenou na evidenci pracovní doby. Při kontrole zjistil porušení a zahájil přestupkové řízení. Současně v jednom kraji provedl kontrolu téže provozovny i místně příslušný oblastní inspektorát (OIP). Vzniká otázka, který orgán je příslušný věc v prvním stupni projednat a kdo rozhoduje o odvolání. Účastníci: SHOP a.s. (kontrolovaná osoba), SÚIP, OIP, MPSV (odvolací orgán vůči SÚIP). Důkazy: pověření ke kontrole označující kontrolní orgán, kontrolní protokoly, spis o zahájení řízení.
+
+**2. Právní otázka.** Který orgán je věcně příslušný projednat přestupek v prvním stupni, vykonal-li kontrolu SÚIP, a jak se určí odvolací orgán?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35 ZoIP — věcná příslupnost: přestupky projednává v I. stupni inspektorát; vykonal-li kontrolu úřad (SÚIP), projednává je úřad.
+- *Související ustanovení téhož zákona:* § 36 (odložení věci); § 37 (příjemce pokuty); ustanovení o soustavě inspekce práce (SÚIP a OIP).
+- *Související předpisy:* § 55 odst. 1 zák. č. 250/2016 Sb. (obecná místní příslušnost dle místa spáchání — modifikovaná tímto lex specialis); § 89 a násl. správního řádu (odvolání).
+- *Judikatura:* nosný závěr — zásada „kdo kontroloval, ten rozhoduje" zakládá příslušnost orgánu, který fakticky provedl kontrolu; tím se předchází sporům o místní příslušnost u subjektů s provozovnami ve více obvodech.
+
+**4. Subsumpce.** Kontrolu vykonal SÚIP → dle § 35 věty za středníkem je k projednání přestupku v I. stupni příslušný SÚIP (úřad), nikoli OIP. Pravidlo § 55 zák. č. 250/2016 Sb. (místo spáchání) se neuplatní, neboť ZoIP je lex specialis. Odvolacím orgánem vůči SÚIP je MPSV; vůči OIP by jím byl SÚIP. Sporné může být, pokud kontrolu fakticky prováděly oba orgány — pak je rozhodující, z čí kontroly přestupkové řízení vzešlo.
+
+**5. Řešení.** Řízení v I. stupni vede SÚIP; OIP není příslušný a případně postoupí věc. Odvolání směřuje k MPSV. Procesně: ověřit z pověření a protokolu, který orgán kontrolu provedl. Pravděpodobný výsledek: správné určení příslušnosti zajistí zákonnost řízení; opačný postup (rozhodnutí nepříslušným orgánem) by byl důvodem zrušení rozhodnutí. Riziko: souběžné kontroly obou orgánů mohou vyvolat spor o příslušnost, řešitelný postoupením a vyloučením dvojího řízení o témže skutku.
+
+**6. Varianty.** (a) Kdyby kontrolu provedl pouze místní OIP, byl by k projednání příslušný OIP a odvolacím orgánem SÚIP. (b) Kdyby šlo o přestupek na úseku, kde kontrolu z titulu zvláštní působnosti provedl úřad, projednával by jej úřad i u provozovny mimo jeho „domovský" kraj.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka místní nepříslušnosti:** kontrolovaná osoba namítne, že měl rozhodovat orgán dle místa spáchání. Neutralizace — § 35 ZoIP je lex specialis vůči § 55 zák. č. 250/2016 Sb. a váže příslušnost na orgán, který kontrolu provedl.
+- **Souběžné kontroly:** riziko sporu, vykonaly-li kontrolu SÚIP i OIP. Nutno určit, z které kontroly řízení vzešlo, a vyloučit dvojí postih (ne bis in idem).
+- **Slabé místo:** nejasnost „kdo vykonal kontrolu" u společných či navazujících kontrol; rozhodující je obsah pověření a protokolu, jejich nejednoznačnost ohrožuje zákonnost příslušnosti.
+
+#### H. Praktický závěr
+
+§ 35 určuje věcnou příslušnost podle zásady „kdo kontroloval, ten rozhoduje"; je-li kontrola provedena OIP, rozhoduje OIP (odvolání k SÚIP), je-li provedena SÚIP, rozhoduje SÚIP (odvolání k MPSV). Jde o lex specialis k § 55 zák. č. 250/2016 Sb.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Který orgán (OIP/SÚIP) fakticky vykonal kontrolu, z níž řízení vzešlo?
+- [ ] Je v I. stupni příslušný tento orgán (nikoli orgán dle místa spáchání)?
+- [ ] Který orgán je odvolací (SÚIP vůči OIP; MPSV vůči SÚIP)?
+- [ ] Nehrozí při souběžných kontrolách dvojí řízení o témže skutku?
+
+**Typicky rozhodné důkazy / podklady:** pověření ke kontrole s označením kontrolního orgánu, kontrolní protokoly, spis o zahájení řízení, doklady o případném postoupení věci mezi orgány.
 
 ---
 
@@ -803,6 +1461,42 @@ Orgán hodnotí kumulativně nebo alternativně:
 
 Druhá věta § 36 ZoIP výslovně vylučuje použití § 76 odst. 3 zákona č. 250/2016 Sb. o povinnosti vyrozumět oznamovatele nebo poškozeného o odložení věci. Odložení se pouze poznamená do spisu. Tato odchylka je zdůvodnitelná procesní ekonomií v oblasti pracovněprávní inspekce, kde přestupky vznikají zpravidla z úřední kontroly (bez externího oznamovatele).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Při kontrole malého zaměstnavatele BISTRO s.r.o. inspektor zjistil drobné formální pochybení — chybějící písemné rozvržení směn u tří zaměstnanců. Zaměstnavatel ještě v průběhu kontroly nedostatek odstranil, doložil nápravu, šlo o jeho první pochybení a žádný zaměstnanec nebyl reálně poškozen. Inspektorát zvažuje, zda věc projednat, nebo ji odložit, neboť účelu řízení (náprava a prevence) již bylo dosaženo. Účastníci: BISTRO s.r.o. (kontrolovaná osoba), OIP. Důkazy: kontrolní protokol, doklad o odstranění závady, evidence předchozích kontrol (bezúhonnost).
+
+**2. Právní otázka.** Jsou splněny podmínky pro odložení věci bez zahájení řízení podle § 36 ZoIP, byl-li účel řízení dosažen dobrovolnou nápravou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36 ZoIP — zvláštní důvod odložení věci (účelu lze dosáhnout jinak); vyloučení povinnosti vyrozumění o odložení.
+- *Související ustanovení téhož zákona:* § 35 (příslušnost); skutkové podstaty (zde § 28 — rozvržení směn).
+- *Související předpisy:* § 76 zák. č. 250/2016 Sb. (obecné důvody odložení, jejichž odst. 3 o vyrozumění se zde nepoužije); § 4 odst. 2 kontrolního řádu (preventivní funkce kontroly).
+- *Judikatura:* nosný závěr — odložení věci je projevem zásady proporcionality a oportunity; je namístě tam, kde represe není nutná, protože účelu (náprava, prevence) bylo dosaženo dobrovolným odstraněním závady a nejde o závažné porušení.
+
+**4. Subsumpce.** Orgán hodnotí kritéria § 36: význam a míra porušení (drobné, formální), způsob provedení (nedbalostní), následek (žádné poškození zaměstnanců), okolnosti a chování po spáchání (okamžitá dobrovolná náprava, první pochybení). Kumulativně svědčí pro závěr, že účelu řízení bylo dosaženo jinak → podmínky odložení dle § 36 jsou naplněny. Sporné by bylo odložení u závažného nebo opakovaného porušení (tam by represe byla namístě).
+
+**5. Řešení.** OIP může věc usnesením odložit a poznamenat do spisu; nevyrozumívá oznamovatele/poškozeného (druhá věta § 36 vylučuje § 76 odst. 3 zák. č. 250/2016 Sb.). Procesně: zdokumentovat nápravu a bezúhonnost, odůvodnit naplnění kritérií. Pravděpodobný výsledek: odložení místo pokuty — přiměřené a hospodárné. Riziko: odložení u závažnějšího porušení by bylo nezákonné (zneúměrná shovívavost) a mohlo by být napadeno; je nutné pečlivé odůvodnění výjimečnosti.
+
+**6. Varianty.** (a) Kdyby šlo o opakované porušení téže povinnosti nebo o poškození zaměstnanců (např. nevyplacení mzdy), účel by nebyl dosažen pouhou nápravou a odložení by nebylo namístě. (b) Kdyby ve věci vystupoval poškozený oznamovatel se zájmem na potrestání, vyloučení vyrozumění dle § 36 by mohlo být citlivé, byť zákon je výslovně připouští.
+
+#### G. Protiargumenty a rizika
+
+- **Zneúměrná shovívavost:** námitka, že odložení podkopává vymahatelnost. Neutralizace — § 36 je výjimkou pro bagatelní případy s dosaženým účelem; u závažných/opakovaných porušení se neuplatní.
+- **Absence vyrozumění poškozeného:** kritika, že poškozený se o odložení nedozví. Nutno respektovat, že druhá věta § 36 vyrozumění výslovně vylučuje (procesní ekonomie inspekce); jde o vědomou volbu zákonodárce.
+- **Slabé místo:** kritéria odložení jsou hodnotová (neurčité právní pojmy); nedostatečné odůvodnění usnesení o odložení je zranitelné při přezkumu — je třeba doložit naplnění každého kritéria.
+
+#### H. Praktický závěr
+
+§ 36 umožňuje inspektorátu/úřadu odložit věc bez zahájení řízení, byl-li účel (náprava, prevence) dosažen jinak; jde o nástroj proporcionality pro bagatelní případy, s vyloučením povinnosti vyrozumět o odložení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o méně závažné porušení s nízkým či žádným následkem?
+- [ ] Byl účel řízení (náprava, prevence) dosažen jinak (dobrovolná náprava, splněné opatření)?
+- [ ] Jsou kritéria § 36 (význam, způsob, následek, okolnosti, chování po činu) náležitě posouzena a odůvodněna?
+- [ ] Je odložení poznamenáno do spisu (bez vyrozumění dle § 76 odst. 3 zák. č. 250/2016 Sb.)?
+
+**Typicky rozhodné důkazy / podklady:** kontrolní protokol, doklad o dobrovolném odstranění závady / splnění opatření k nápravě, evidence předchozích kontrol (bezúhonnost), usnesení o odložení s odůvodněním kritérií.
+
 ---
 
 ### § 37 — Určení příjemce pokuty
@@ -816,6 +1510,42 @@ Druhá věta § 36 ZoIP výslovně vylučuje použití § 76 odst. 3 zákona č.
 § 37 zakotvuje, že pokuta uložená za přestupek podle ZoIP plyne do **státního rozpočtu** — nikoli do rozpočtu kraje, obce ani jiného veřejného fondu. Toto pravidlo je shodné s obecným pravidlem § 91 zákona č. 250/2016 Sb. pro přestupky projednávané ústředními správními úřady nebo jimi řízenými orgány. Inspekce práce (SÚIP a OIP) jsou orgány podřízenými Ministerstvu práci a sociálních věcí, a proto je výnos pokut příjmem státního rozpočtu.
 
 Toto ustanovení vylučuje jakékoli motivační prvky v podobě podílu inspektorátu na výnosu pokut — inspektoři nejsou finančně zainteresováni na výsledku řízení, což je důležitá zárukou nestrannosti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Oblastní inspektorát práce uložil zaměstnavateli MEGA s.r.o. pravomocně pokutu 800 000 Kč za přestupek na úseku odměňování. Zaměstnavatel se domnívá, že pokuta plyne do rozpočtu obce, v níž má sídlo, a chce ji „kompenzovat" dohodou s obcí; současně namítá, že inspektorát má na vysoké pokutě vlastní finanční zájem. Účastníci: MEGA s.r.o. (pokutovaný), OIP, stát (správce daně vymáhající pokutu). Důkazy: pravomocné rozhodnutí o pokutě, platební údaje pro úhradu do státního rozpočtu.
+
+**2. Právní otázka.** Komu plyne výnos pokuty uložené za přestupek podle ZoIP a má kontrolní/rozhodující orgán na výnosu finanční zájem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 37 ZoIP — pokuta je příjmem státního rozpočtu.
+- *Související ustanovení téhož zákona:* § 35 (příslupnost k projednání); skutkové podstaty (§§ 22a–34a).
+- *Související předpisy:* § 91 zák. č. 250/2016 Sb. (příjem z pokut u ústředních úřadů a jimi řízených orgánů); zákon č. 218/2000 Sb., o rozpočtových pravidlech; postavení SÚIP a OIP jako orgánů podřízených MPSV.
+- *Judikatura:* (otázka spíše rozpočtově-kompetenční) nosný závěr — výnos pokut uložených orgány státní správy podřízenými ústřednímu úřadu je příjmem státního rozpočtu, nikoli rozpočtu územního samosprávného celku; orgán nemá na výnosu vlastní podíl.
+
+**4. Subsumpce.** Pokutu uložil OIP (orgán podřízený MPSV) za přestupek dle ZoIP → dle § 37 je výnos příjmem státního rozpočtu, nikoli obce. Představa zaměstnavatele o příjmu obce je mylná; „kompenzace" s obcí je právně bezpředmětná. Inspektorát nemá na výnosu podíl (záruka nestrannosti). Spornost je nulová — pravidlo je jednoznačné a kogentní.
+
+**5. Řešení.** Pokuta se hradí do státního rozpočtu dle platebních údajů v rozhodnutí; při neuhrazení ji vymáhá příslušný správce daně. Procesně: poučit pokutovaného o správném příjemci a následcích neuhrazení. Pravděpodobný výsledek: úhrada/vymáhání ve prospěch státu; námitka o finančním zájmu inspektorátu je nedůvodná. Riziko: prakticky žádné — jde o určovací (kompetenční) normu bez výkladového prostoru.
+
+**6. Varianty.** (a) Kdyby šlo o pokutu uloženou obecním úřadem za jiný přestupek dle jiného zákona, mohl by být příjemcem rozpočet obce — to však není případ ZoIP. (b) Pořádková pokuta dle kontrolního řádu má rovněž režim příjmu státního rozpočtu; nejde o odlišný osud výnosu.
+
+#### G. Protiargumenty a rizika
+
+- **Tvrzení o příjmu obce:** pokutovaný namítne územní určení výnosu. Neutralizace — § 37 ZoIP a § 91 zák. č. 250/2016 Sb. jednoznačně určují státní rozpočet.
+- **Námitka „motivace" inspektorátu:** obrana tvrdí podjatost kvůli zájmu na výši pokuty. Nutno poukázat na to, že právě § 37 vylučuje podíl orgánu na výnosu, čímž nestrannost zaručuje.
+- **Slabé místo:** ustanovení je technické a samo o sobě nezakládá spory; riziko je jen v nesprávném poučení o platebních údajích, které lze snadno odstranit.
+
+#### H. Praktický závěr
+
+§ 37 určuje, že pokuty za přestupky dle ZoIP jsou příjmem státního rozpočtu; orgán inspekce práce na výnosu nemá podíl, což posiluje nestrannost řízení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl pokutovaný správně poučen, že pokuta je příjmem státního rozpočtu (nikoli obce/kraje)?
+- [ ] Obsahuje rozhodnutí správné platební údaje pro úhradu do státního rozpočtu?
+- [ ] Je vyloučena námitka finančního zájmu orgánu na výši pokuty (záruka nestrannosti)?
+- [ ] Při neuhrazení: je věc předána příslušnému správci daně k vymáhání?
+
+**Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí o uložení pokuty s platebními údaji, doklad o úhradě / podklady pro vymáhání správcem daně.
 
 ---
 
