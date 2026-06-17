@@ -494,6 +494,13 @@ Zákon výslovně připouští, aby orgány inspekce práce předaly takto získ
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 Ad 5/2018 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/424690) — 27. 2. 2020
+  > „Za pracoviště konkrétního zaměstnavatele je standardně považováno místo obvyklé pro výkon činnosti zaměstnavatele. Ve vztahu ke konkrétnímu zaměstnanci je pracovištěm zaměstnavatele nejčastěji místo výkonu práce sjednané v pracovní smlouvě či v dohodě o provedení práce (případně v dohodě o pracovní činnosti). Pokud v takové dohodě místo výkonu práce (pracoviště) uvedeno není, lze za pracoviště považovat místo, na němž zaměstnanec zpravidla vykonává svoji činnost pro zaměstnavatele. […] nachází-li se místo výkonu práce zaměstnance dlouhodobě a setrvale na jednom konkrétním místě […], je nutno splnit informační povinnost […] na tomto obvyklém místě výkonu práce zaměstnance"
+- *NSS* [30 Ad 5/2024 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/780257) — 29. 1. 2026
+  > „[…] definice v zákonu o inspekci práce sleduje z logiky věci veškerou činnost kontrolované osoby, tedy výrobu, poskytování služeb či jinou součinnost; pracovištěm pak jsou všechna místa, kde se tato činnost vykonává dle rozhodnutí kontrolované osoby, či se koná na základě obvyklosti"
+
 #### Strukturální anomálie — chybějící §§ 41–44
 
 V konsolidovaném textu zákona k 1. 1. 2026 přechází číslování ze § 40 přímo na § 45. Paragrafy 41 až 44 v textu zákona zcela chybí — byly postupem novelizací zrušeny bez náhrady nebo jejich obsah byl přesun do jiných ustanovení. Jde o legislativní anomálii, která nemá vliv na výklad § 45, avšak je třeba si ji být vědom při práci s číslováním.

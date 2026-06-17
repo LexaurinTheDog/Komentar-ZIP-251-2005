@@ -817,6 +817,11 @@ SÚIP může z důvodu **podjatosti nebo jiné hodné zvláštního zřetele** *
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Ad 10/2021 - 48](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/711114) — 4. 4. 2023
+  > „Soud souhlasí se žalovaným i v tom, že zákon nestanovuje další požadavky na osobu, které je předkládán průkaz pro účely zahájení kontroly. Nestanoví ani, aby tato rozuměla českému jazyku či byla české státní příslušnosti. … Kontrola byla zahájena samotným předložením průkazu, nebylo třeba další součinnosti této osoby s inspektorem a ani po ní nebyla požadována"
+
 #### Písm. a) — podmínka přítomnosti při zahájení kontroly
 
 Zákon podmiňuje zahájení kontroly **přítomností alespoň jedné z vyjmenovaných fyzických osob** — člena statutárního orgánu, zástupce, zaměstnance, spolupracujícího rodinného příslušníka nebo jiné fyzické osoby vykonávající činnost kontrolované osoby. Smyslem je zajistit, aby kontrolovaná osoba měla možnost účastnit se kontroly od jejího zahájení.

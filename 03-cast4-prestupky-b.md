@@ -88,6 +88,11 @@ Horní hranice pokuty je 1 000 000 Kč. Sazba je shodná s nejpřísnějšími s
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [38 Ad 17/2011 - 39](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/552603) — 28. 11. 2013
+  > „… žalobkyně jakožto zaměstnavatel povinnosti jí dané ustanovením § 287 zákoníku práce neplnila, porušila tedy povinnost vzájemného poskytování informací v pracovněprávních vztazích mezi zaměstnavatelem a odborovou organizací a v jednom prokazatelném případě porušila i povinnost respektovat zákonem uložené spolurozhodování v případě výpovědi dané zaměstnanci – členu odborového orgánu"
+
 #### Chráněný zájem a skutková podstata
 
 § 23 chrání právo zaměstnanců na kolektivní zastoupení a právo odborových orgánů, rad zaměstnanců a zástupců pro BOZP na součinnost ze strany zaměstnavatele. Skutková podstata je formulována jako **blanketní norma** — přestupek spočívá v porušení povinností stanovených v odkazovaných ustanoveních zákoníku práce (zákon č. 262/2006 Sb., dále „ZP"). Rozsah zakázaného jednání tak závisí na obsahu těchto ustanovení:
@@ -168,6 +173,11 @@ Horní hranice pokuty 200 000 Kč. Jedná se o nejnižší sazbu v celé Části
 > *- b) písm. d) a e) lze uložit pokutu až do výše 400 000 Kč.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [38 Ad 16/2011 - 219](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/548229) — 25. 9. 2014
+  > „Povinnost zaměstnavatele projednat stížnost patří k základním zásadám pracovněprávních vztahů, jejíž cílem je především smírné řešení sporů. V těchto případech je nezbytné uplatnit obecné pravidlo tzv. spravedlivého očekávání, tj., stížnost projednat v přiměřené lhůtě a bez zbytečného odkladu …"
 
 #### Systematika skutkových podstat
 
@@ -330,6 +340,11 @@ Sazby odrážejí intenzitu zásahu: aktivní narušení soukromí (písm. a) a 
 > *- c) písm. d) až f) lze uložit pokutu až do výše 200 000 Kč.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Ads 135/2020 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/700262) — 10. 5. 2022
+  > „… Otázku existence základního pracovněprávního vztahu a platnosti právního jednání, který jej založil, je nutno hodnotit především podle rozhodných ustanovení zákoníku práce. … Pokud je taková smlouva uzavřena, avšak nikoli písemně, jedná se o správní delikt podle § 12 odst. 1 písm. b) nebo podle § 25 odst. 1 písm. b) zákona č. 251/2005 Sb., o inspekci práce"
 
 #### Struktura skutkových podstat
 
@@ -499,6 +514,11 @@ Jednotná horní hranice 300 000 Kč je nižší než u srovnatelného porušen�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 A 144/2019 - 28](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/700627) — 22. 3. 2022
+  > „Stanovení minimální mzdy obecně slouží k ochraně zaměstnanců (nastavení alespoň minimální úrovně spravedlivého odměňování); sledování plnění (resp. sankcionování neplnění) této povinnosti má tedy smysl pouze ve vztahu k zaměstnavatelům (srov. přestupky zaměstnavatelů zakotvené v § 13 odst. 1 písm. b) a v § 26 odst. 1 písm. b) zákona č. 251/2005 Sb., o inspekci práce)"
+
 #### Rozsah a systematika
 
 § 26 představuje nejrozsáhlejší katalog skutkových podstat v oblasti pracovněprávních přestupků zaměstnavatelů — šestnáct písmen postihujících prakticky veškerá pochybení v oblasti mezd, platů a odměn. Zákon rozlišuje tři pásma sankcí:
@@ -575,6 +595,11 @@ Jednotná horní hranice 300 000 Kč je nižší než u srovnatelného porušen�
 - náhrada škody zaměstnanci (§ 265 a násl. ZP).
 
 Horní hranice 200 000 Kč je nižší než u přestupků ve vlastní oblasti odměňování (§ 26), neboť náhrady mají doplňkový charakter. Přestupek na úseku náhrad fyzické osoby-zaměstnavatele (§ 16 ZoIP) je svým obsahem identický; srovnej [02-cast4-prestupky-a.md](02-cast4-prestupky-a.md).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Ads 370/2019 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/669854) — 15. 6. 2021
+  > „… mzda je plnění, které poskytuje zaměstnavatel zaměstnanci za práci (srov. § 109 odst. 2 zákoníku práce), přičemž pokud zaměstnanec práci nevykonává, mzda mu uchází. Uchází-li zaměstnanci mzda v důsledku státního svátku, má právo na její náhradu ve smyslu § 115 odst. 3 zákoníku práce"
 
 #### F. Kazuistika
 
@@ -679,6 +704,11 @@ Horní hranice 200 000 Kč je nižší než u přestupků ve vlastní oblasti od
 > *- d) písm. a), b), d), g), m), n) a q) lze uložit pokutu až do výše 2 000 000 Kč.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Ads 4/2017 - 28](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/643658) — 13. 9. 2017
+  > „Směna je podle zákoníku práce ucelený úsek rozvržené týdenní pracovní doby; jejím smyslem je také vymezit, resp. garantovat dobu nepřetržitého odpočinku mezi dvěma směnami. … cílem stanovení maximální délky směny zaměstnanců v městské hromadné dopravě je též ochrana bezpečnosti, zdraví a životů ostatních účastníků provozu, zejména cestujících"
 
 #### Rozsah a čtyři pásma sankcí
 
@@ -1201,6 +1231,13 @@ Přestupek podle písm. b) je specifický tím, že pachatel sám provede zakáz
 | písm. d) | Uživatel | § 308 odst. 1 písm. f) ZP — podmínky přidělení ze strany uživatele v dohodě |
 
 Klíčová skutková podstata písm. c) zahrnuje porušení principu rovného zacházení s agenturními zaměstnanci (§ 309 ZP): agenturní zaměstnanec musí mít pracovní podmínky srovnatelné se zaměstnanci uživatele. Jednotná sazba 1 000 000 Kč bez rozlišení závažnosti jednotlivých porušení je legislativně simplifikující; přiměřenost konkrétní sankce je na uvážení správního orgánu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [31 Ad 2/2024 - 43](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/742361) — 20. 5. 2025
+  > „Jak uživatel, tak i agentura práce … mají povinnost zabezpečit, aby mzdové a pracovní podmínky agenturního zaměstnance nebyly horší než ty, které má kmenový zaměstnanec ve srovnatelném postavení (§ 309 odst. 5 zákoníku práce). Jsou přitom povinni tyto podmínky nejen zajistit, ale také o nich zaměstnance informovat. Zákoník práce totiž za účelem ochrany práv agenturního zaměstnance stanoví výčet informací, které mu agentura práce musí sdělit ještě před vysláním"
+- *NSS* [3 Ads 107/2024 - 23](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/737189) — 5. 12. 2024
+  > „… cílem této zákonné úpravy je ochrana zaměstnance, který je pokynem již na počátku dočasného přidělení informován o tom, jak dlouho bude dočasné přidělení trvat"
 
 #### F. Kazuistika
 

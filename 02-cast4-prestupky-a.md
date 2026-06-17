@@ -353,6 +353,13 @@ Přestupek dle písm. a) zahrnuje nejen kamerový dohled bez zákonného důvodu
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Ads 88/2014 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/631921) — 9. 7. 2014
+  > „Současná právní úprava sankcionuje na jedné straně umožnění výkonu nelegální práce [§ 140 odst. 1 písm. c) zákona o zaměstnanosti] a na straně druhé nedostatek písemné formy pracovní smlouvy, dohody o provedení práce či dohody o pracovní činnost [§ 12 odst. 1 písm. b) zákona č. 251/2005 Sb., o inspekci práce, ve znění pozdějších předpisů, v případě fyzických osob, § 25 odst. 1 písm. b) téhož zákona v případě osob právnických]. Z toho vyplývá logický závěr, že zákonodárce měl zájem tyto skutkové podstaty rozlišovat. S ohledem na to je třeba v každém jednotlivém případě pečlivě zkoumat, zda se jedná o nelegální práci…"
+- *NSS* [7 Ads 52/2014 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/631480) — 30. 4. 2014
+  > „…neuzavření pracovní smlouvy, dohody o provedení práce nebo dohody o pracovní činnosti v písemné formě [je] speciálním deliktem dle ust. § 12 odst. 1 písm. b) zákona č. 251/2005 Sb., o inspekci práce, ve znění pozdějších předpisů… I s ohledem na odkaz na ustanovení zákoníku práce je proto zřejmé, že otázku existence základního pracovněprávního vztahu a platnosti právního jednání, který jej založil, je nutno hodnotit právě především podle rozhodných ustanovení zákoníku práce"
+
 #### Systematika a ochranný zájem
 
 § 12 postihuje porušení formálních a věcných povinností při vzniku, trvání a skončení základních pracovněprávních vztahů. Chrání zaměstnance před nelegálními a neformálními formami zaměstnání, informačně asymetrickými podmínkami a překračováním povolené pracovní zátěže u dohod.
