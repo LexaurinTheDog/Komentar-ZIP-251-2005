@@ -76,3 +76,6 @@ Rozcestník podle paragrafů. Konsolidace k 1. 1. 2026. Úvod viz [00-uvod.md](0
 - **§ 49** — Zrušovací ustanovení
 - **§ 50** — Účinnost
 
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
