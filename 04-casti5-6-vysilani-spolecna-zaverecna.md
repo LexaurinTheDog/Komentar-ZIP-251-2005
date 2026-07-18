@@ -112,6 +112,68 @@ Spolupráce je reciproční: úřad je oprávněn (nikoli povinen) požádat př
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=aaa69966e6fd4fceb8c5 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 37a — Přístup k informacím a správní spolupráce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Úřad ve spolupráci s inspektoráty na základě odůvodněné žádosti příslušného cizího orgánu nebo Evropské komise podané na jednotném formuláři postupem podle přímo použitelného předpisu Evropské unie80), která se týká zaměstnavatele usazeného v České republice, bezplatně
+>
+> - a) poskytne příslušnému orgánu informace za účelem identifikace vyslání a kontroly dodržování právních předpisů upravujících postavení zaměstnanců vyslaných k výkonu práce v rámci nadnárodního poskytování služeb,
+>
+> - b) prošetří skutečnosti související s vysláním zaměstnance,
+>
+> - c) poskytne písemnosti související s vysláním zaměstnance.
+>
+> (2) Úřad poskytne informace podle odstavce 1 písm. a)
+>
+> - a) v odůvodněných naléhavých případech vyžadujících nahlížení do příslušných rejstříků bez zbytečného odkladu, nejvýše však do 2 pracovních dnů,
+>
+> - b) v ostatních případech nejpozději do 25 pracovních dnů od obdržení žádosti.
+>
+> (3) Nelze-li žádost podle odstavce 1 vyřídit, informuje o tom úřad příslušný cizí orgán. Úřad bez zbytečného odkladu informuje příslušný cizí orgán o skutečnostech souvisejících s vysláním, pokud jsou pochybnosti o dodržování pracovních a mzdových podmínek.
+>
+> (4) Úřad může požádat příslušný cizí orgán o poskytnutí přeshraniční spolupráce v rozsahu podle odstavce 1 písm. a), b) a c), která se týká zaměstnavatele usazeného v jiném členském státě Evropské unie. Informace poskytnuté příslušným cizím orgánem na základě této žádosti může úřad využít pouze za účelem kontroly dodržování právních předpisů upravujících vysílání zaměstnanců k výkonu práce v rámci nadnárodního poskytování služeb.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aaa69966e6fd4fceb8c5 -->
+
 ### § 37b — Doručování rozhodnutí o uložení pokuty nebo jiné sankce zaměstnavateli usazenému v jiném členském státě Evropské unie a její vymáhání
 
 > **§ 37b**
@@ -188,6 +250,56 @@ Pokud zaměstnavatel napadne české rozhodnutí (odvoláním, správní žalobo
 **Typicky rozhodné důkazy / podklady:** pravomocné a vykonatelné rozhodnutí o pokutě; doklad o odeslání a osudu poštovní zásilky; jednotné formuláře IMI (žádost o doručení, žádost o výkon); potvrzení o přijetí žádosti cizím orgánem; doklad o podaném opravném prostředku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cda623cfb1ab89bb19e9 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 37b — Doručování rozhodnutí o uložení pokuty nebo jiné sankce zaměstnavateli usazenému v jiném členském státě Evropské unie a její vymáhání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Rozhodnutí o uložení pokuty nebo jiné sankce a s ním související písemnosti doručuje úřad a inspektorát zaměstnavateli usazenému v jiném členském státě Evropské unie, který vysílá zaměstnance k výkonu práce v rámci nadnárodního poskytování služeb na území České republiky, prostřednictvím provozovatele poštovních služeb nebo prostřednictvím příslušného orgánu státní správy pověřeného k doručování písemností do ciziny. Pokud se tímto způsobem nepodaří písemnost zaměstnavateli usazenému v jiném členském státě Evropské unie doručit, požádá úřad na jednotném formuláři postupem podle přímo použitelného předpisu Evropské unie80) příslušný cizí orgán o doručení písemností podle věty první.
+>
+> (2) Pokud zaměstnavatel usazený v jiném členském státě Evropské unie, který vysílá zaměstnance k výkonu práce v rámci nadnárodního poskytování služeb na území České republiky, nesplnil dobrovolně povinnost na základě pravomocného a vykonatelného rozhodnutí o uložení pokuty nebo jiné sankce v České republice v určené lhůtě, požádá úřad na jednotném formuláři postupem podle přímo použitelného předpisu Evropské unie80) o výkon rozhodnutí příslušný cizí orgán. Přijetím žádosti příslušným cizím orgánem podle věty první zaniká pohledávka České republiky.
+>
+> (3) V případě, že rozhodnutí o uložení pokuty nebo jiné sankce, o jehož výkon úřad požádal podle odstavce 2, bylo napadeno v souladu s právními předpisy České republiky, oznámí úřad tuto skutečnost bezodkladně příslušnému cizímu orgánu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cda623cfb1ab89bb19e9 -->
 
 ### § 37c — Doručování rozhodnutí o uložení pokuty nebo jiné sankce zaměstnavateli usazenému v České republice a její vymáhání
 
@@ -292,6 +404,72 @@ Pokuta v cizí měně se přepočítá dle kurzu ČNB **ke dni uložení pokuty*
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c62bd36d44083dfd3b37 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 37c — Doručování rozhodnutí o uložení pokuty nebo jiné sankce zaměstnavateli usazenému v České republice a její vymáhání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Úřad na základě žádosti příslušného cizího orgánu podané na jednotném formuláři postupem podle přímo použitelného předpisu Evropské unie80)
+>
+> - a) doručí zaměstnavateli usazenému v České republice vysílajícímu zaměstnance k výkonu práce v rámci nadnárodního poskytování služeb na území jiného členského státu Evropské unie rozhodnutí o uložení pokuty vydané v jiném členském státě Evropské unie, nebo
+>
+> - b) zabezpečí výkon pravomocného a vykonatelného rozhodnutí vydaného v jiném členském státě Evropské unie podle právních předpisů České republiky.
+>
+> (2) Úřad bez zbytečného odkladu, nejpozději však do 1 měsíce od přijetí žádosti podle odstavce 1 doručí zaměstnavateli usazenému v České republice vysílajícímu zaměstnance k výkonu práce v rámci nadnárodního poskytování služeb na území jiného členského státu Evropské unie rozhodnutí o uložení pokuty a doručí podle odstavce 1 písm. b) obecnému správci daně podle zvláštního právního předpisu žádost o vymáhání pokuty.
+>
+> (3) Úřad odmítne žádost podle odstavce 1, pokud žádost obsahuje takové formální nebo obsahové vady, pro něž je třeba ji považovat za zmatečnou, anebo pokud zjevně neodpovídá příslušnému rozhodnutí. Úřad může odmítnout žádost, pokud je zjevné, že vymáhání pokuty či jiné správní sankce by bylo nehospodárné.
+>
+> (4) Pokuta uložená v jiném členském státě Evropské unie je příjmem státního rozpočtu, který spravuje a vymáhá obecný správce daně podle jiného právního předpisu. Vykonatelné rozhodnutí cizího orgánu přiložené k této žádosti je exekučním titulem.
+>
+> (5) Úřad informuje bez zbytečného odkladu příslušný cizí orgán o
+>
+> - a) úkonech, které byly uskutečněny na základě jeho žádosti podle odstavce 1, a datu doručení rozhodnutí,
+>
+> - b) důvodech odmítnutí žádosti.
+>
+> (6) Pokud po přijetí žádosti podle odstavce 1 došlo k napadení rozhodnutí podle právních předpisů jiného členského státu Evropské unie, ve kterém byla pokuta uložena, a toto napadení má vliv na vykonatelnost rozhodnutí, je výkon tohoto rozhodnutí v České republice přerušen, dokud v této věci nerozhodne příslušný cizí orgán.
+>
+> (7) Pokuta uložená cizím orgánem v jiné měně, než je česká koruna, se převede na české koruny podle kursů devizového trhu vyhlášených Českou národní bankou pro den uložení pokuty.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c62bd36d44083dfd3b37 -->
+
 ## Část šestá — Společná, přechodná a závěrečná ustanovení
 
 ---
@@ -369,6 +547,64 @@ Zákon o inspekci práce svěřuje Ministerstvu práce a sociálních věcí vů
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bbbdf6eec0955afda471 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 38 — Působnost ministerstva
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> Ministerstvo
+>
+> - a) schvaluje roční program kontrolních akcí [§ 4 odst. 1 písm. c)],
+>
+> - b) koordinuje kontrolní priority; za tím účelem spolupracuje se státním zdravotním dozorem27),
+>
+> - c) v případech hodných zvláštního zřetele je oprávněno určit rozsah a počet kontrolních akcí v ročním programu těchto akcí [§ 4 odst. 1 písm. c)],
+>
+> - d) přezkoumává správní rozhodnutí vydaná úřadem v prvním stupni,
+>
+> - e) shromažďuje a projednává podněty příslušných odborových orgánů, organizací zaměstnavatelů týkající se kontroly podle tohoto zákona,
+>
+> - f) je vůči úřadu nadřízeným služebním úřadem v organizačních věcech státní služby a služebních vztazích státních zaměstnanců.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bbbdf6eec0955afda471 -->
+
 ### § 39 — Průkazy inspektorů
 
 > **§ 39**
@@ -418,6 +654,52 @@ Zákon o inspekci práce svěřuje Ministerstvu práce a sociálních věcí vů
 **Typicky rozhodné důkazy / podklady:** průkaz inspektora a platná vyhláška o jeho vzoru; protokol o zahájení kontroly se záznamem o prokázání oprávnění; pověření inspektora ke kontrole; případný záznam o ověření totožnosti u OIP.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5e65d182da2b8d59a747 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 39 — Průkazy inspektorů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> Vzor a provedení průkazu inspektorů podle § 4 odst. 1 písm. f) stanoví ministerstvo vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5e65d182da2b8d59a747 -->
 
 ### § 40 — Přístup k informacím správce daně
 
@@ -486,6 +768,54 @@ Zákon výslovně připouští, aby orgány inspekce práce předaly takto získ
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=254200625d040fe18de7 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 40
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Úřad a inspektoráty jsou při plnění konkrétních úkolů spadajících do jejich působnosti v oblasti umožnění výkonu nelegální práce, zastřeného zprostředkovávání zaměstnání nebo umožnění výkonu zastřeného zprostředkovávání zaměstnání oprávněny od správce daně vyžádat informace nezbytné pro jejich plnění. Správce daně žádosti vyhoví, ledaže by poskytnutím informací mohlo dojít k narušení řádného výkonu správy daní.
+>
+> (2) Poskytnutí informací podle odstavce 1 není porušením povinnosti mlčenlivosti podle [[daňového řádu|daňového řádu]], a to ani v případě, že úřad nebo inspektorát tyto informace poskytne orgánům činným v trestním řízení pro účely trestního řízení v souvislosti s objasněním okolností nasvědčujících tomu, že byl spáchán trestný čin neoprávněného zaměstnávání cizinců.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=254200625d040fe18de7 -->
+
 ### § 45 — Definice pracoviště kontrolované osoby
 
 > **§ 45**
@@ -553,6 +883,52 @@ Definice „činnosti kontrolované osoby" v druhé větě je rovněž extenzivn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5cebd6b0d476a759c441 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 45
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> Pracovištěm kontrolované osoby se pro účely tohoto zákona rozumí místa určená nebo obvyklá pro výkon činnosti kontrolované osoby, včetně jiného místa, než je pracoviště zaměstnavatele, je-li tam vykonávána práce na dálku83) nebo služba z jiného místa84). Za činnost kontrolované osoby se považuje zajišťování výroby nebo poskytování služeb, jakož i jiná činnost vykonávaná podle zvláštních právních předpisů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5cebd6b0d476a759c441 -->
+
 ### Přechodná ustanovení
 
 ---
@@ -608,6 +984,52 @@ Toto řešení chrání jak zahájená řízení a jejich procesní hodnotu (shr
 **Typicky rozhodné důkazy / podklady:** doklad o datu zahájení řízení/kontroly (oznámení o zahájení); identifikace orgánu, který řízení zahájil; spisový materiál se shromážděnými podklady a provedenými úkony; doklady o právním nástupnictví dle § 47 a přílohy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0d3712a05dcac31d5ed7 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 46
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> Kontroly a správní řízení zahájené přede dnem nabytí účinnosti tohoto zákona inspektoráty bezpečnosti práce, Českým úřadem bezpečnosti práce, úřady práce nebo ministerstvem se dokončí podle dosavadních právních předpisů v působnosti inspektorátů, pokud kontrolu a správní řízení zahájil inspektorát bezpečnosti práce nebo úřad práce, a v působnosti úřadu, pokud kontrolu a správní řízení zahájil Český úřad bezpečnosti práce nebo ministerstvo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0d3712a05dcac31d5ed7 -->
 
 ### § 47 — Přechod pracovněprávních vztahů
 
@@ -690,6 +1112,78 @@ Toto řešení chrání jak zahájená řízení a jejich procesní hodnotu (shr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=799fde819f3e395e6acb generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 47
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Výkon práv a povinností z pracovněprávních vztahů zaměstnanců v Českém úřadu bezpečnosti práce přechází na úřad73).
+>
+> (2) Výkon práv a povinností z pracovněprávních vztahů zaměstnanců v inspektorátech bezpečnosti práce přechází z
+>
+> - a) Inspektorátu bezpečnosti práce pro hlavní město Prahu na inspektorát pro hlavní město Prahu73),
+>
+> - b) Inspektorátu bezpečnosti práce pro Středočeský kraj na inspektorát pro Středočeský kraj73),
+>
+> - c) Inspektorátu bezpečnosti práce pro Jihočeský kraj a Vysočinu na inspektorát pro Jihočeský kraj a kraj Vysočina73),
+>
+> - d) Inspektorátu bezpečnosti práce pro Plzeňský a Karlovarský kraj na inspektorát pro Plzeňský kraj a Karlovarský kraj73),
+>
+> - e) Inspektorátu bezpečnosti práce pro Ústecký kraj a Liberecký kraj na inspektorát pro Ústecký kraj a Liberecký kraj73),
+>
+> - f) Inspektorátu bezpečnosti práce pro Královéhradecký kraj a Pardubický kraj na inspektorát pro Královéhradecký kraj a Pardubický kraj73),
+>
+> - g) Inspektorátu bezpečnosti práce pro Jihomoravský kraj a Zlínský kraj na inspektorát pro Jihomoravský kraj a Zlínský kraj73),
+>
+> - h) Inspektorátu bezpečnosti práce pro Moravskoslezský kraj a Olomoucký kraj na inspektorát pro Moravskoslezský kraj a Olomoucký kraj73).
+>
+> (3) Výkon práv a závazků Českého úřadu bezpečnosti práce přechází na úřad. Výkon práv a závazků inspektorátů bezpečnosti práce přechází na inspektoráty podle odstavce 2.
+>
+> (4) Výkon práv a povinností z pracovněprávních vztahů zaměstnanců v úřadech práce, k jejichž pracovním úkolům patří kontrola nad dodržováním povinností vyplývajících z pracovněprávních předpisů, s výjimkou pracovněprávních předpisů o zaměstnanosti a pracovněprávních předpisů o ochraně zaměstnanců při platební neschopnosti zaměstnavatele, přechází dnem 1. července 2005 z úřadů práce na inspektoráty podle odstavce 2. Úřad práce dohodne se zaměstnancem v úřadu práce podle věty první, na který inspektorát výkon jeho práv a povinností z pracovněprávních vztahů přejde.
+>
+> (5) Úřad práce na základě dohody podle odstavce 4 provede delimitaci zaměstnanců v úřadech práce podle odstavce 4 věty první na inspektoráty podle odstavce 2. Takto provedená delimitace je závazná.
+>
+> (6) Nedojde-li k dohodě podle odstavce 4 nejpozději do 30. dubna 2005, stanoví počty a pravidla delimitace zaměstnanců v úřadech práce na inspektoráty podle odstavce 2 na návrh ředitele úřadu práce ministerstvo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=799fde819f3e395e6acb -->
+
 ### § 48 — Jmenování a odvolávání vedoucích pracovníků do nabytí účinnosti zákona o státní službě
 
 > **§ 48**
@@ -741,6 +1235,52 @@ K 1. 1. 2026, kdy zákon č. 234/2014 Sb. plně platí a je aplikován, je § 48
 **Typicky rozhodné důkazy / podklady:** doklad o stavu účinnosti zákona o státní službě k rozhodnému dni; jmenovací/odvolací akt a jeho právní titul; (v dobovém režimu) doklad o projednání jmenování vedoucího inspektora s generálním inspektorem; interní předpis ministerstva o obsazování služebních míst.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a24df626efdfd35554cb generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 48
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> Do doby nabytí úplné účinnosti zákona o státní službě jmenuje a odvolává74) generálního inspektora a vedoucího inspektora ministr práce a sociálních věcí; vedoucího inspektora jmenuje a odvolává po projednání s generálním inspektorem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a24df626efdfd35554cb -->
 
 ### Závěrečná ustanovení
 
@@ -798,6 +1338,52 @@ Funkční a personální nástupnictví je zajištěno §§ 46 a 47 tohoto záko
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3381479e1bc954c768d6 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 49
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> Zrušují se Český úřad bezpečnosti práce a inspektoráty bezpečnosti práce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3381479e1bc954c768d6 -->
+
 ### § 50 — Účinnost
 
 > **§ 50**
@@ -851,6 +1437,52 @@ Funkční a personální nástupnictví je zajištěno §§ 46 a 47 tohoto záko
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=09f28334a00b6e29755a generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 50
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. července 2005, s výjimkou ustanovení § 47 odst. 4 až 6, která nabývají účinnosti dnem jeho vyhlášení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 47
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=09f28334a00b6e29755a -->
+
 ## Příloha k zákonu — Oblastní inspektoráty práce
 
 Zákon obsahuje přílohu, jež taxativně stanoví **označení, sídla a územní působnost** osmi oblastních inspektorátů práce:
@@ -871,3 +1503,65 @@ Zákon přiřazuje každému inspektorátu jedno krajské sídlo a dvě krajská
 ---
 
 > Tato kapitola uzavírá komentář k zákonu č. 251/2005 Sb., o inspekci práce, pro části pátou a šestou. Přestupkové a sankční ustanovení části čtvrté, na která tato kapitola odkazuje, jsou komentována v [03-cast4-prestupky-b.md](03-cast4-prestupky-b.md).
+
+<!-- LEGAL-REVISION:BEGIN id=584ddaf0481f65e60800 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+### Revizní doplnění k příloze — Označení, sídla a působnost oblastních inspektorátů práce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+#### Znění ustanovení
+
+> Příloha k zákonu č. 251/2005 Sb.
+> Označení, sídla a působnost oblastních inspektorátů práce
+>
+> - 1. Oblastní inspektorát práce pro hlavní město Prahu se sídlem v Praze vykonává působnost v hlavním městě Praze
+>
+> - 2. Oblastní inspektorát práce pro Středočeský kraj se sídlem v Praze vykonává působnost ve Středočeském kraji
+>
+> - 3. Oblastní inspektorát práce pro Jihočeský kraj a Vysočinu se sídlem v Českých Budějovicích vykonává působnost v Jihočeském kraji a v kraji Vysočina
+>
+> - 4. Oblastní inspektorát práce pro Plzeňský kraj a Karlovarský kraj se sídlem v Plzni vykonává působnost v Plzeňském kraji a v Karlovarském kraji
+>
+> - 5. Oblastní inspektorát práce pro Ústecký kraj a Liberecký kraj se sídlem v Ústí nad Labem vykonává působnost v Ústeckém kraji a v Libereckém kraji
+>
+> - 6. Oblastní inspektorát práce pro Královéhradecký kraj a Pardubický kraj se sídlem v Hradci Králové vykonává působnost v Královéhradeckém kraji a v Pardubickém kraji
+>
+> - 7. Oblastní inspektorát práce pro Jihomoravský kraj a Zlínský kraj se sídlem v Brně vykonává působnost v Jihomoravském kraji a Zlínském kraji
+>
+> - 8. Oblastní inspektorát práce pro Moravskoslezský kraj a Olomoucký kraj se sídlem v Ostravě vykonává působnost v Moravskoslezském kraji a Olomouckém kraji
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- zákon č. 251/2005 Sb. (výslovně uvedeno v místním znění)
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=584ddaf0481f65e60800 -->

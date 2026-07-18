@@ -79,6 +79,54 @@ Při maření výkonu kontroly v závažnějším rozsahu může jednání fyzic
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d606ac357b1b6250d178 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 9a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se jako osoba, která vykonává nebo zabezpečuje činnost, která je předmětem činnosti kontrolované osoby, dopustí přestupku tím, že nesplní některou z povinností podle [[#§ 9|§ 9]].
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 1 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d606ac357b1b6250d178 -->
+
 ### § 10 — Přestupky na úseku součinnosti zaměstnavatele a orgánu jednajícího za zaměstnance
 
 > **§ 10**
@@ -152,6 +200,54 @@ Porušení povinností vůči zástupcům zaměstnanců může současně zaklá
 **Typicky rozhodné důkazy / podklady:** zápisy z projednání a doklady o informování, data doručení výpovědí, oznámení krajské pobočce ÚP, evidence počtu zaměstnanců a propouštěných v rozhodném období.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=325464b7cf6063f888d4 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 10 — Přestupky na úseku součinnosti zaměstnavatele a orgánu jednajícího za zaměstnance
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku na úseku součinnosti zaměstnavatele a orgánu jednajícího za zaměstnance tím, že poruší povinnosti vůči příslušným odborovým orgánům, radám zaměstnanců nebo zástupcům pro oblast bezpečnosti a ochrany zdraví při práci vyplývající z [[§ 62|§ 62]], [[277|277]], [[279|279]], [[280|280]], [[287|287]] a [[§ 339 odst. 1|§ 339 odst. 1]] [[zákoníku práce|zákoníku práce]].
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu až do výše 200 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 62, § 339
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=325464b7cf6063f888d4 -->
 
 ### § 11 — Přestupky na úseku rovného zacházení
 
@@ -246,6 +342,68 @@ Přestupkové řízení dle § 11 se nezávisle souběhuje s nároky zaměstnanc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=760f378c00fb93de04db generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 11 — Přestupky na úseku rovného zacházení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku na úseku rovného zacházení tím, že
+>
+> - a) nezajistí rovné zacházení se všemi zaměstnanci, pokud jde o jejich pracovní podmínky, odměňování za práci a poskytování jiných peněžitých plnění a plnění peněžité hodnoty, a odbornou přípravu a příležitost dosáhnout funkčního nebo jiného postupu v zaměstnání,
+>
+> - b) diskriminuje zaměstnance ([[§ 16|§ 16]] [[zákoníku práce|zákoníku práce]]),
+>
+> - c) postihne nebo znevýhodní zaměstnance proto, že se zákonným způsobem domáhal svých práv a nároků vyplývajících z pracovněprávních vztahů,
+>
+> - d) neprojedná se zaměstnancem nebo na jeho žádost se zástupci zaměstnanců jeho stížnost na výkon práv a povinností vyplývajících z pracovněprávního vztahu39),
+>
+> - e) omezí zaměstnance v nakládání s informacemi o výši a struktuře jeho mzdy, platu nebo odměny z dohody.
+>
+> (2) Za přestupek podle odstavce 1
+>
+> - a) písm. a), b) nebo c) lze uložit pokutu až do výše 1 000 000 Kč,
+>
+> - b) písm. d) a e) lze uložit pokutu až do výše 400 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=760f378c00fb93de04db -->
+
 ### § 11a — Přestupky na úseku ochrany soukromí a osobních práv zaměstnanců
 
 > **§ 11a**
@@ -322,6 +480,64 @@ Přestupek dle písm. a) zahrnuje nejen kamerový dohled bez zákonného důvodu
 **Typicky rozhodné důkazy / podklady:** technická a organizační dokumentace monitoringu, vnitřní předpis a doklad o informování zaměstnanců, DPIA, dotazníky a podklady z přijímacího řízení, záznamy o účelu a době uchovávání dat.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ad95a5071a6561d7b1a1 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 11a — Přestupky na úseku ochrany soukromí a osobních práv zaměstnanců
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se jako zaměstnavatel dopustí přestupku na úseku ochrany soukromí a osobních práv zaměstnanců tím, že
+>
+> - a) naruší soukromí zaměstnance na pracovištích a ve společných prostorách zaměstnavatele některým ze způsobů uvedených v [[§ 316 odst. 2|§ 316 odst. 2]] [[zákoníku práce|zákoníku práce]],
+>
+> - b) neinformuje zaměstnance o rozsahu kontroly a o způsobech jejího provádění podle [[§ 316 odst. 3|§ 316 odst. 3]] [[zákoníku práce|zákoníku práce]], nebo
+>
+> - c) v rozporu s [[§ 316 odst. 4|§ 316 odst. 4]] [[zákoníku práce|zákoníku práce]] vyžaduje od zaměstnance informace, které bezprostředně nesouvisejí s výkonem práce a se základním pracovněprávním vztahem.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do
+>
+> - a) 1 000 000 Kč, jde-li o přestupek podle písmene a) nebo c),
+>
+> - b) 100 000 Kč, jde-li o přestupek podle písmene b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 316
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ad95a5071a6561d7b1a1 -->
 
 ### § 12 — Přestupky na úseku pracovního poměru nebo dohod o pracích konaných mimo pracovní poměr
 
@@ -429,6 +645,74 @@ Horní hranice pokuty za neuzavření základního pracovněprávního vztahu v 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=497121ef37ce8cacce4a generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 12 — Přestupky na úseku pracovního poměru nebo dohod o pracích konaných mimo pracovní poměr
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku na úseku pracovního poměru nebo dohod o pracích konaných mimo pracovní poměr tím, že
+>
+> - a) poruší stanovené povinnosti při vzniku, změnách, skončení pracovního poměru, dohody o provedení práce nebo dohody o pracovní činnosti,
+>
+> - b) neuzavře písemně pracovní smlouvu, dohodu o provedení práce nebo dohodu o pracovní činnosti,
+>
+> - c) nezajistí, aby zaměstnanec nepřekročil jiným právním předpisem stanovený rozsah práce konané na základě dohody o provedení práce nebo dohody o pracovní činnosti,
+>
+> - d) poruší některou z povinností stanovených v [[#§ 37|§ 37]], [[#§ 37a|37a]], [[77a|77a]] nebo v [[§ 77b|§ 77b]] [[zákoníku práce|zákoníku práce]],
+>
+> - e) poruší povinnost stanovenou v [[§ 77 odst. 4|§ 77 odst. 4]] [[zákoníku práce|zákoníku práce]],
+>
+> - f) nesplní informační povinnost podle [[§ 279 odst. 1 písm. j)|§ 279 odst. 1 písm. j)]] [[zákoníku práce|zákoníku práce]],
+>
+> - g) poruší povinnost stanovenou v [[§ 35|§ 35]] [[zákoníku práce|zákoníku práce]].
+>
+> (2) Za přestupek podle odstavce 1
+>
+> - a) písm. a), c) a g) lze uložit pokutu až do výše 2 000 000 Kč,
+>
+> - b) písm. b) lze uložit pokutu až do výše 10 000 000 Kč,
+>
+> - c) písm. d) až f) lze uložit pokutu až do výše 200 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 37, § 37a, § 77b, § 77, § 279, § 35
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=497121ef37ce8cacce4a -->
+
 ### § 12a — Přestupky na úseku práce na dálku
 
 > **§ 12a**
@@ -495,6 +779,58 @@ Horní hranice **300 000 Kč** je mírná; zákonodárce zjevně sledoval, aby s
 **Typicky rozhodné důkazy / podklady:** písemná dohoda o práci na dálku, doklady o proplácení/paušalizaci nákladů, evidence pracovní doby zaměstnance pracujícího na dálku, komunikace prokazující režim a rozsah práce z domova.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a2ad49ad599d3cc6fdd8 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 12a — Přestupky na úseku práce na dálku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se jako zaměstnavatel dopustí přestupku na úseku práce na dálku tím, že
+>
+> - a) v rozporu s [[§ 317 odst. 1|§ 317 odst. 1]] [[zákoníku práce|zákoníku práce]] neuzavře dohodu o práci na dálku písemně,
+>
+> - b) nesplní některou povinnost podle [[§ 317 odst. 2|§ 317 odst. 2]] nebo [[3|3]] [[zákoníku práce|zákoníku práce]].
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu až do výše 300 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 317
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a2ad49ad599d3cc6fdd8 -->
 
 ### § 13 — Přestupky na úseku odměňování zaměstnanců
 
@@ -618,6 +954,92 @@ Horní hranice **300 000 Kč** je mírná; zákonodárce zjevně sledoval, aby s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=88f76e409c3ce969d371 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 13 — Přestupky na úseku odměňování zaměstnanců
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku na úseku odměňování zaměstnanců tím, že
+>
+> - a) neposkytne zaměstnanci za stejnou práci nebo práci stejné hodnoty stejnou mzdu, plat nebo odměnu z dohody jako jinému zaměstnanci,
+>
+> - b) neposkytne zaměstnanci mzdu alespoň ve výši minimální mzdy40), nebo plat ve stanovené výši, nejméně ve výši zaručeného platu,
+>
+> - c) neposkytne zaměstnanci ve stanoveném termínu mzdu nebo plat nebo některou její složku,
+>
+> - d) neposkytne zaměstnanci mzdu nebo plat nebo náhradní volno za práci přesčas,
+>
+> - e) neposkytne zaměstnanci náhradní volno za práci ve svátek nebo mzdu za práci přesčas anebo příplatek k platu za takovou práci,
+>
+> - f) neposkytne zaměstnanci příplatek za práci ve ztíženém a zdraví škodlivém pracovním prostředí a za práci v noci,
+>
+> - g) neposkytne zaměstnanci příplatek k platu, ačkoli k tomu má povinnost podle zvláštního právního předpisu,
+>
+> - h) poskytne zaměstnanci složku platu, kterou právní předpisy neupravují, nebo mu poskytne složku mzdy nebo platu, na kterou mu nevznikl nárok, anebo ji poskytne způsobem, který právní předpisy nedovolují,
+>
+> - i) provede ze mzdy nebo platu zaměstnance bez dohody o srážkách ze mzdy nebo platu jiné než stanovené srážky,
+>
+> - j) neposkytne zaměstnanci odměnu za pracovní pohotovost nebo ji neposkytne ve stanovené výši,
+>
+> - k) nezajistí podmínky stanovené pro normování práce43), ačkoli k tomu má povinnost podle zvláštního právního předpisu,
+>
+> - l) odmění zaměstnance v rozporu s [[§ 103 odst. 1 písm. k)|§ 103 odst. 1 písm. k)]] [[zákoníku práce|zákoníku práce]],
+>
+> - m) neposkytne zaměstnanci za práci vykonanou na základě dohody o práci konané mimo pracovní poměr odměnu z dohody nebo některou její složku ve výši a za podmínek stanovených jiným právním předpisem a sjednaných v dohodě o práci konané mimo pracovní poměr,
+>
+> - n) jako ručitel neuspokojí mzdové nároky zaměstnanců podle [[§ 324a odst. 4|§ 324a odst. 4]] [[zákoníku práce|zákoníku práce]],
+>
+> - o) poruší povinnost při sjednání, stanovení nebo určení mzdy nebo platu,
+>
+> - p) poruší povinnost při výplatě mzdy nebo platu v cizí měně podle [[§ 143 odst. 2|§ 143 odst. 2]] nebo [[3|3]] [[zákoníku práce|zákoníku práce]].
+>
+> (2) Za přestupek podle odstavce 1
+>
+> - a) písm. a), j), o) a p) lze uložit pokutu až do výše 500 000 Kč,
+>
+> - b) písm. d), e), h) a k) lze uložit pokutu až do výše 1 000 000 Kč,
+>
+> - c) písm. b), c), f), g), i), l), m) a n) lze uložit pokutu až do výše 2 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 103, § 324a, § 143
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=88f76e409c3ce969d371 -->
+
 ### § 14 — Přestupky na úseku náhrad
 
 > **§ 14**
@@ -677,6 +1099,54 @@ Horní hranice **200 000 Kč** je nižší než u odměňování (§ 13), neboť
 **Typicky rozhodné důkazy / podklady:** cestovní příkazy a jejich vyúčtování, evidence ujetých kilometrů a doby trvání cest, evidence překážek v práci a jejich důvodu, mzdové listy odlišující mzdu a náhrady.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=87940383f85e9cd1ac24 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 14 — Přestupky na úseku náhrad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku na úseku náhrad tím, že neposkytne zaměstnanci náhradu mzdy, platu nebo odměny z dohody anebo náhradu výdajů spojených s výkonem práce, ačkoli k tomu má povinnost podle zvláštního právního předpisu.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu až do výše 200 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=87940383f85e9cd1ac24 -->
 
 ### § 15 — Přestupky na úseku pracovní doby
 
@@ -824,6 +1294,110 @@ Horní hranice **200 000 Kč** je nižší než u odměňování (§ 13), neboť
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bb5aee9438a8870beefb generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 15 — Přestupky na úseku pracovní doby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku na úseku pracovní doby tím, že
+>
+> - a) nestanoví jednotlivým zaměstnancům pracovní dobu podle režimu jejich práce nebo nedodrží délku směny, ačkoli k tomu má povinnost podle zvláštního právního předpisu45),
+>
+> - b) nezajistí splnění podmínek při rozvržení pracovní doby, ačkoli k tomu má povinnost podle zvláštního právního předpisu46),
+>
+> - c) započte překážky v práci na straně zaměstnance při pružné pracovní době v rozporu se zvláštním právním předpisem48),
+>
+> - d) nestanoví začátek a konec pracovní doby a rozvrh pracovních směn,
+>
+> - e) nepřihlédne při zařazení zaměstnanců do směn k potřebám zaměstnanců pečujících o děti,
+>
+> - f) neposkytne zaměstnancům přestávku v práci na jídlo a oddech nebo bezpečnostní přestávku,
+>
+> - g) odečte u prací, které nemohou být přerušeny, z pracovní doby přiměřenou dobu na jídlo a oddech,
+>
+> - h) neposkytne nepřetržitý denní odpočinek nebo nepřetržitý odpočinek v týdnu ve stanoveném minimálním rozsahu,
+>
+> - i) nařídí zaměstnanci výkon práce ve dnech pracovního klidu v jiných než stanovených případech50),
+>
+> - j) zahrne nesprávně svátky do pracovní doby,
+>
+> - k) nevede evidenci pracovní doby, ačkoli k tomu má povinnost podle zvláštního právního předpisu52),
+>
+> - l) nařídí zaměstnanci pracovní pohotovost v rozporu s [[§ 95|§ 95]] [[zákoníku práce|zákoníku práce]], kolektivní smlouvou, popřípadě se nařízením vlády, kterým se stanoví odchylná úprava pracovní doby a doby odpočinku zaměstnanců v dopravě45),
+>
+> - m) nařídí zaměstnanci práci přesčas v rozporu s [[§ 93 odst. 2|§ 93 odst. 2]], [[§ 240 odst. 3|§ 240 odst. 3]] [[zákoníku práce|zákoníku práce]],
+>
+> - n) nařídí zaměstnanci práci přesčas ve vyšším rozsahu, než je její týdenní nebo roční rámec vyplývající ze [[zákoníku práce|zákoníku práce]]53),
+>
+> - o) vyžádá nebo umožní, aby byla práce přesčas konána nad rámec vyplývající ze [[zákoníku práce|zákoníku práce]],
+>
+> - p) poruší zákaz zaměstnávat těhotné zaměstnankyně prací přesčas,
+>
+> - q) zaměstná mladistvé zaměstnance3) prací přesčas53),
+>
+> - r) zaměstná mladistvé zaměstnance3) prací v noci54),55), nejde-li o jejich výchovu k povolání,
+>
+> - s) nezajistí, aby pracovní doba zaměstnance pracujícího v noci nepřekročila stanovenou hranici, ačkoli k tomu má povinnost podle zvláštního právního předpisu54),
+>
+> - t) nezajistí, aby zaměstnanec pracující v noci byl ve stanovených případech vyšetřen lékařem56),
+>
+> - u) neprojedná s příslušným odborovým orgánem nebo zástupcem pro oblast bezpečnosti a ochrany zdraví při práci otázky bezpečnosti a ochrany zdraví při práci a organizaci práce v noci,
+>
+> - v) nevybaví pracoviště, na kterém se pracuje v noci, prostředky pro poskytnutí první pomoci, včetně zajištění prostředků umožňujících přivolat rychlou lékařskou pomoc,
+>
+> - w) neuzavře dohodu o kratší pracovní době písemně85),
+>
+> - x) neuzavře dohodu o rozvržení pracovní doby do směn zaměstnancem nebo změnu písemně podle [[§ 87a|§ 87a]] [[zákoníku práce|zákoníku práce]], poruší povinnosti z dohody vyplývající anebo poruší povinnosti při rozvázání dohody.
+>
+> (2) Za přestupek podle odstavce 1
+>
+> - a) písm. c), e), u) a x) lze uložit pokutu až do výše 300 000 Kč,
+>
+> - b) písm. k), l), s), v) a w) lze uložit pokutu až do výše 400 000 Kč,
+>
+> - c) písm. f), h), i), j), o), p), r) a t) lze uložit pokutu až do výše 1 000 000 Kč,
+>
+> - d) písm. a), b), d), g), m), n) a q) lze uložit pokutu až do výše 2 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 95, § 93, § 240, § 87a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bb5aee9438a8870beefb -->
+
 ### § 16 — Přestupky na úseku dovolené
 
 > **§ 16**
@@ -882,6 +1456,54 @@ Horní hranice **200 000 Kč** je ve srovnání s pracovní dobou nízká. Záko
 **Typicky rozhodné důkazy / podklady:** rozvrh čerpání dovolené, písemná určení nástupu dovolené s daty, doklady o pracovní neschopnosti, evidence nároku na dovolenou a její dodatkové části, doklady o charakteru pracoviště (ztížené prostředí).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d4f04050e3c407dfe403 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 16 — Přestupky na úseku dovolené
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku na úseku dovolené tím, že poruší stanovené povinnosti vztahující se k délce dovolené za kalendářní rok nebo její poměrné části, k dodatkové dovolené, čerpání dovolené nebo určení jejího nástupu.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu až do výše 200 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d4f04050e3c407dfe403 -->
 
 ### § 17 — Přestupky na úseku bezpečnosti práce
 
@@ -1062,6 +1684,132 @@ Horní hranice **200 000 Kč** je ve srovnání s pracovní dobou nízká. Záko
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e1d89b047b3a3385bba8 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 17 — Přestupky na úseku bezpečnosti práce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku na úseku bezpečnosti práce tím, že
+>
+> - a) nezajistí s ohledem na možné ohrožení života nebo zdraví bezpečnost fyzických osob zdržujících se s jejím vědomím na jejích pracovištích,
+>
+> - b) neplní informační povinnost stanovenou v [[§ 108 odst. 2|§ 108 odst. 2]] a [[3|3]] [[zákoníku práce|zákoníku práce]],
+>
+> - c) nezajistí spolupráci osob na jednom pracovišti, aby byli kromě jejích zaměstnanců chráněni také zaměstnanci jiné osoby,
+>
+> - d) přenese náklady spojené se zajišťováním bezpečnosti a ochrany zdraví při práci na zaměstnance,
+>
+> - e) nezajistí přijetí opatření potřebných k prevenci rizik, ačkoli k tomu má povinnost podle zvláštního právního předpisu36),
+>
+> - f) nedodrží povinnosti při zajišťování bezpečnosti práce stanovené v [[§ 101 až 103|§ 101 až 103]] [[zákoníku práce|zákoníku práce]],
+>
+> - g) neposkytne nebo neposkytne bezplatně osobní ochranné pracovní prostředky, pracovní oděvy a obuv, mycí, čisticí a dezinfekční prostředky nebo ochranné nápoje, ačkoli k tomu má povinnost podle zvláštního právního předpisu57),
+>
+> - h) nesplní povinnost udržovat osobní ochranné pracovní prostředky v použivatelném stavu nebo nekontroluje jejich používání,
+>
+> - i) neumístí bezpečnostní značky nebo nezavede signály, ačkoli k tomu má povinnost podle zvláštního právního předpisu58),
+>
+> - j) nevyšetří příčiny a okolnosti pracovního úrazu, ačkoli k tomu má povinnost podle zvláštního právního předpisu10),
+>
+> - k) nevyhotoví záznam o pracovním úrazu nebo nevede dokumentaci ve stanoveném rozsahu, ačkoli k tomu má povinnost podle zvláštního právního předpisu10),
+>
+> - l) nepředá vyhotovení záznamu o pracovním úrazu postiženému a v případě smrtelného pracovního úrazu jeho rodinným příslušníkům,
+>
+> - m) nevede evidenci o pracovních úrazech ve stanoveném rozsahu, ačkoli k tomu má povinnost podle zvláštního právního předpisu10),
+>
+> - n) neohlásí pracovní úraz a nezašle záznam o něm stanoveným orgánům a institucím10),
+>
+> - o) nepřijme opatření proti opakování pracovních úrazů,
+>
+> - p) nevede evidenci fyzických osob, u nichž byla uznána nemoc z povolání,
+>
+> - q) neplní povinnosti týkající se pracoviště a pracovního prostředí stanovené v zákonu o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci58a), v nařízení vlády [[o podrobnějších požadavcích na pracoviště a pracovní prostředí|o podrobnějších požadavcích na pracoviště a pracovní prostředí]]59), nařízení vlády o bližších požadavcích na bezpečnost a ochranu zdraví při práci na pracovištích s nebezpečím pádu z výšky nebo do hloubky59a) a nařízení vlády [[o bližších požadavcích na zajištění bezpečnosti a ochrany zdraví při práci v prostředí s nebezpečím výbuchu|o bližších požadavcích na zajištění bezpečnosti a ochrany zdraví při práci v prostředí s nebezpečím výbuchu]]59b),
+>
+> - r) neplní povinnosti při zajištění řádného stavu používaných výrobních a pracovních prostředků a zařízení stanovené v zákonu o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci58a) a v nařízení vlády, kterým se stanoví bližší požadavky na bezpečný provoz a používání strojů, technických zařízení, přístrojů a nářadí59c),
+>
+> - s) poruší povinnost týkající se organizace práce a pracovních postupů stanovenou v zákonu o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci58a), nařízení vlády, kterým se stanoví způsob organizace práce a pracovních postupů, které je zaměstnavatel povinen zajistit při práci související s chovem zvířat60), nařízení vlády, kterým se stanoví způsob organizace práce a pracovních postupů, které je zaměstnavatel povinen zajistit při práci v lese a na pracovištích obdobného charakteru61), nařízení vlády, kterým se stanoví způsob organizace práce a pracovních postupů, které je zaměstnavatel povinen zajistit při provozování dopravy dopravními prostředky62), nařízení vlády [[o bližších minimálních požadavcích na bezpečnost a ochranu zdraví při práci na staveništích|o bližších minimálních požadavcích na bezpečnost a ochranu zdraví při práci na staveništích]]62a) a nařízení vlády, kterým se stanoví odchylná úprava pracovní doby a doby odpočinku zaměstnanců v dopravě62b),
+>
+> - t) nepřizná právo odmítnout výkon práce, o níž lze mít důvodně za to, že bezprostředně a závažným způsobem ohrožuje život nebo zdraví zaměstnanců, popřípadě život nebo zdraví jiných fyzických osob,
+>
+> - u) zaměstná mladistvé zaměstnance3) pracemi, při nichž jsou vystaveni zvýšenému nebezpečí úrazu nebo při jejichž výkonu by mohli vážně ohrozit bezpečnost a zdraví ostatních zaměstnanců nebo jiných fyzických osob,
+>
+> - v) nepřizná odborovým orgánům právo vykonávat kontrolu nad stavem bezpečnosti a ochrany zdraví při práci v rozsahu stanoveném v [[§ 322|§ 322]] [[zákoníku práce|zákoníku práce]],
+>
+> - w) nepřizná zaměstnancům právo účasti na řešení otázek souvisejících s bezpečností a ochranou zdraví při práci, ačkoli k tomu má povinnost podle zvláštního právního předpisu34),
+>
+> - x) nezajistí na pracovištích dodržování zákazu požívat alkoholické nápoje nebo zneužívat jiné návykové látky,
+>
+> - y) nedoručí ve stanoveném termínu oznámení o zahájení prací na stavbě splňující požadavky stanovené v § 15 odst. 1 zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci nebo neprovede bez zbytečného odkladu jeho aktualizaci,
+>
+> - z) nesplní některou z povinností zhotovitele podle [[§ 16|§ 16]] zákona [[o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci|o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci]],
+>
+> - za) nesplní některou z povinností koordinátora bezpečnosti a ochrany zdraví při práci na staveništi podle [[§ 10 odst. 4|§ 10 odst. 4]], [[§ 14 odst. 5|§ 14 odst. 5]] nebo [[§ 18|§ 18]] zákona [[o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci|o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci]],
+>
+> - zb) nedodržuje opatření k zamezení rizik na pracovištích, stanovená právními předpisy, které upravují povinnosti právnických osob a podnikajících fyzických osob při používání chemických látek nebo látek obsažených ve směsích75),
+>
+> - zc) nesplní některou z povinností odborně způsobilé fyzické osoby k zajišťování úkolů v prevenci rizik podle [[§ 10 odst. 4|§ 10 odst. 4]] [[zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci|zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci]],
+>
+> - zd) v rozporu s [[§ 10|§ 10]] [[zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci|zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci]] vykonává činnost odborně způsobilé fyzické osoby k zajišťování úkolů v prevenci rizik nebo činnost koordinátora bezpečnosti a ochrany zdraví při práci na staveništi bez příslušného oprávnění,
+>
+> - ze) v rozporu s [[§ 14|§ 14]] [[zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci|zákona o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci]] neurčí jednoho nebo více koordinátorů bezpečnosti a ochrany zdraví při práci na staveništi,
+>
+> - zf) v rozporu s [[§ 15 odst. 2|§ 15 odst. 2]] nebo [[3|3]] zákona [[o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci|o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci]] nezajistí zpracování plánu bezpečnosti a ochrany zdraví při práci na staveništi před zahájením prací nebo nezajistí jeho aktualizaci při realizaci stavby,
+>
+> - zg) v rozporu s [[§ 14|§ 14]] zákona [[o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci|o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci]] nezajistí součinnost všech zhotovitelů včetně osob podle [[§ 12|§ 12]] zákona [[o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci|o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci]], popřípadě jiné osoby, s koordinátorem bezpečnosti a ochrany zdraví při práci na staveništi při přípravě a realizaci stavby,
+>
+> - zh) v rozporu s [[§ 14|§ 14]] zákona [[o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci|o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci]] nezajistí podepsání plánu bezpečnosti a ochrany zdraví při práci na staveništi,
+>
+> - zi) v rozporu s [[§ 14|§ 14]] zákona [[o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci|o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci]] nezajistí, aby byli všichni zhotovitelé včetně osob podle [[§ 12|§ 12]] zákona [[o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci|o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci]], popřípadě jiné osoby, vázáni plněním opatření stanovených koordinátorem bezpečnosti a ochrany zdraví při práci na staveništi.
+>
+> (2) Za přestupek podle odstavce 1
+>
+> - a) písm. b), c), v), w), x), za) a zc) lze uložit pokutu až do výše 300 000 Kč,
+>
+> - b) písm. l), m), n), p), y) a zd) až zi) lze uložit pokutu až do výše 400 000 Kč,
+>
+> - c) písm. a), j), k), q), r), s), t) a z) lze uložit pokutu až do výše 1 000 000 Kč,
+>
+> - d) písm. d), e), f), g), h), i), o), u) a zb) lze uložit pokutu až do výše 2 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 108, § 101, § 322, § 15, § 16, § 10, § 14, § 18, § 12
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e1d89b047b3a3385bba8 -->
+
 ### § 18 — Přestupky na úseku zvláštních pracovních podmínek některých zaměstnanců
 
 > **§ 18**
@@ -1166,6 +1914,82 @@ Horní hranice **200 000 Kč** je ve srovnání s pracovní dobou nízká. Záko
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=709277028533963b7a12 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 18 — Přestupky na úseku zvláštních pracovních podmínek některých zaměstnanců
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku na úseku zvláštních pracovních podmínek některých zaměstnanců tím, že
+>
+> - a) nepřevede těhotnou zaměstnankyni, zaměstnankyni do konce devátého měsíce po porodu nebo zaměstnankyni, která kojí, na jinou práci, ačkoli k tomu má povinnost podle zvláštního právního předpisu,
+>
+> - b) poruší postup při vysílání těhotné zaměstnankyně, zaměstnance pečujícího o dítě, zaměstnance, který prokázal, že převážně sám dlouhodobě pečuje o fyzickou osobu, která se podle zvláštního právního předpisu považuje za osobu závislou na pomoci jiné fyzické osoby ve stupni II (středně těžká závislost), ve stupni III (těžká závislost) nebo ve stupni IV (úplná závislost)3a), na pracovní cestu nebo postup při přeložení stanovený v [[§ 240|§ 240]] [[zákoníku práce|zákoníku práce]],
+>
+> - c) nevyhoví písemné žádosti zaměstnankyně nebo zaměstnance pečujících o dítě mladší než 15 let, těhotné zaměstnankyně, zaměstnankyně nebo zaměstnance, kteří převážně sami dlouhodobě pečují o fyzickou osobu, která se podle zvláštního právního předpisu považuje za osobu závislou na pomoci jiné fyzické osoby ve stupni II (středně těžká závislost), ve stupni III (těžká závislost) nebo ve stupni IV (úplná závislost)3a), o kratší pracovní dobu podle [[§ 80|§ 80]] [[zákoníku práce|zákoníku práce]] nebo o jinou vhodnou úpravu stanovené týdenní pracovní doby nebo kratší pracovní doby, přestože jí v tom nebrání vážné provozní důvody,
+>
+> - d) písemně neodůvodní zamítnutí žádosti zaměstnance podle [[§ 241 odst. 2|§ 241 odst. 2]] nebo [[3|3]] [[zákoníku práce|zákoníku práce]],
+>
+> - e) písemně neodůvodní zamítnutí žádosti zaměstnance podle [[§ 241a|§ 241a]] [[zákoníku práce|zákoníku práce]],
+>
+> - f) neposkytne mateřskou dovolenou, otcovskou dovolenou nebo rodičovskou dovolenou nebo ji poskytne v rozporu s [[§ 195 až 198|§ 195 až 198]] [[zákoníku práce|zákoníku práce]],
+>
+> - g) neposkytne přestávky ke kojení nebo je poskytne v rozporu s [[§ 242|§ 242]] [[zákoníku práce|zákoníku práce]],
+>
+> - h) zaměstná mladistvé zaměstnance3) nepřiměřenými pracemi v rozporu s [[§ 244 až 246|§ 244 až 246]] [[zákoníku práce|zákoníku práce]],
+>
+> - i) nezabezpečí lékařské vyšetření mladistvého zaměstnance3) v případech stanovených v [[§ 247|§ 247]] [[zákoníku práce|zákoníku práce]],
+>
+> - j) při zaměstnávání mladistvých zaměstnanců3) se neřídí lékařským posudkem.
+>
+> (2) Za přestupek podle odstavce 1
+>
+> - a) písm. c) a j) lze uložit pokutu až do výše 300 000 Kč,
+>
+> - b) písm. b), f) a i) lze uložit pokutu až do výše 500 000 Kč,
+>
+> - c) písm. a), g) a h) lze uložit pokutu až do výše 1 000 000 Kč,
+>
+> - d) písm. d) a e) lze uložit pokutu až do výše 200 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 240, § 80, § 241, § 241a, § 195, § 242, § 244, § 247
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=709277028533963b7a12 -->
+
 ### § 19 — Přestupky na úseku bezpečnosti provozu technických zařízení se zvýšenou mírou ohrožení života a zdraví
 
 > **§ 19**
@@ -1230,6 +2054,54 @@ Horní hranice **2 000 000 Kč** odpovídá závažnosti potenciálního ohrože
 **Typicky rozhodné důkazy / podklady:** osvědčení odborné způsobilosti (průkazy) a lékařské posudky obsluhy, doklad o zařazení k obsluze VTZ, provozní a revizní dokumentace zařízení, případně záznam o události a fotodokumentace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=154c601dd8b4a2229f1e generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 19 — Přestupky na úseku bezpečnosti technických zařízení se zvýšenou mírou ohrožení života a zdraví
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku na úseku bezpečnosti provozu technických zařízení se zvýšenou mírou ohrožení života a zdraví tím, že nezajistí, aby technická zařízení stanovená zvláštním právním předpisem63), která představují zvýšenou míru ohrožení života a zdraví, obsluhovaly jen zdravotně způsobilé a zvlášť odborně způsobilé fyzické osoby.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu až do výše 2 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=154c601dd8b4a2229f1e -->
 
 ### § 20 — Přestupky na úseku bezpečnosti vyhrazených technických zařízení
 
@@ -1307,6 +2179,64 @@ Horní hranice **2 000 000 Kč** odpovídá závažnosti potenciálního ohrože
 **Typicky rozhodné důkazy / podklady:** revizní zprávy a doklady o platnosti osvědčení/oprávnění, protokoly a rozhodnutí inspektorátu se lhůtami, doklady o odstranění závad, provozní a revizní dokumentace zařízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=afa52a790245f479e8d8 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 20 — Přestupky na úseku bezpečnosti vyhrazených technických zařízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku na úseku bezpečnosti vyhrazených technických zařízení tím, že
+>
+> - a) neprovede řádně prohlídku, revizi nebo zkoušku v souvislosti s uváděním do provozu nebo provozem vyhrazených technických zařízení,
+>
+> - b) bez oprávnění nebo osvědčení o odborné způsobilosti k činnostem na vyhrazených technických zařízeních vydaného podle zákona o bezpečnosti práce v souvislosti s provozem vyhrazených technických zařízení provede prohlídku, revizi nebo zkoušku vyhrazeného technického zařízení, pro které je nezbytné být držitelem tohoto osvědčení,
+>
+> - c) nedodrží určenou lhůtu pro odstranění závad zjištěných při kontrole.
+>
+> (2) Za přestupek podle odstavce 1
+>
+> - a) písm. c) lze uložit pokutu až do výše 1 000 000 Kč,
+>
+> - b) písm. a) a b) lze uložit pokutu až do výše 2 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=afa52a790245f479e8d8 -->
 
 ### § 20a — Přestupky na úseku agenturního zaměstnávání
 
@@ -1391,6 +2321,66 @@ Jednotná horní hranice **1 000 000 Kč** pro všechny skutkové podstaty § 20
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=85912336a35b7b972c9a generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 20a — Přestupky na úseku agenturního zaměstnávání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku na úseku agenturního zaměstnávání tím, že
+>
+> - a) nesplní povinnost podle [[§ 307b|§ 307b]] [[zákoníku práce|zákoníku práce]],
+>
+> - b) nezajistí, aby dohoda o dočasném přidělení zaměstnance agentury práce
+>
+> - 1. obsahovala údaje stanovené v [[§ 308 odst. 1 písm. a) až e)|§ 308 odst. 1 písm. a) až e)]], [[g)|g)]] a [[h)|h)]] [[zákoníku práce|zákoníku práce]], nebo
+>
+> - 2. byla uzavřena písemně podle [[§ 308 odst. 2|§ 308 odst. 2]] [[zákoníku práce|zákoníku práce]],
+>
+> - c) nesplní některou povinnost podle [[§ 309|§ 309]] nebo 309a [[zákoníku práce|zákoníku práce]], nebo
+>
+> - d) jako uživatel81) nezajistí, aby dohoda o dočasném přidělení zaměstnance agentury práce obsahovala údaje stanovené v [[§ 308 odst. 1 písm. f)|§ 308 odst. 1 písm. f)]] [[zákoníku práce|zákoníku práce]] nebo tyto údaje uvede nepravdivě.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu až do výše 1 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 307b, § 308, § 309
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=85912336a35b7b972c9a -->
+
 ### § 21 — Přestupky na úseku výkonu umělecké, kulturní, sportovní a reklamní činnosti dětí (zaměstnavatel)
 
 > **§ 21**
@@ -1454,6 +2444,54 @@ Horní hranice **2 000 000 Kč** je mimořádně vysoká vzhledem k povaze přes
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=26f5861f79d1713cf377 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 21
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku na úseku výkonu umělecké, kulturní, sportovní a reklamní činnosti tím, že umožní dítěti výkon této činnosti bez povolení nebo podmínky tohoto povolení poruší.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu až do výše 2 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=26f5861f79d1713cf377 -->
+
 ### § 22 — Přestupky na úseku výkonu umělecké, kulturní, sportovní a reklamní činnosti dětí (zákonný zástupce)
 
 > **§ 22**
@@ -1514,3 +2552,50 @@ Horní hranice **100 000 Kč** pro zákonného zástupce je podstatně nižší 
 > **Odkaz na navazující komentář:** Přestupky právnických a podnikajících fyzických osob na týchž úsecích (§§ 22a a násl.) — viz [03-cast4-prestupky-b.md](03-cast4-prestupky-b.md). Výkon kontrolní pravomoci orgánů inspekce práce a zákonný rámec ukládání pokut — viz [01-casti1-3-vseobecna-pusobnost-kontrola.md](01-casti1-3-vseobecna-pusobnost-kontrola.md).
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=87fa5138ebdd621ac5a8 generator=2026-07-17.4 source_sha256=e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465 -->
+#### Revizní doplnění k § 22
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/251-2005 Zákon o inspekci práce.md`; identifikátor verze: `SB-2005-00251_2026-01-01`; SHA-256: `e5faa17478cf20dd1f81a6f32782efc3319155747bf4c3b2a8f11c7685dbe465`.
+
+##### Znění ustanovení
+
+> (1) Zákonný zástupce dítěte se dopustí přestupku na úseku výkonu umělecké, kulturní, sportovní a reklamní činnosti tím, že umožní výkon činnosti dítěte bez povolení nebo podmínky povolení poruší.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu až do výše 100 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=87fa5138ebdd621ac5a8 -->
